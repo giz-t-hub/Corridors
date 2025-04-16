@@ -1,11 +1,11 @@
-# Transport in 
+# Global Gateway corridors in Africa 
 Plans, data and other documents on transport in 
 
 <b> 
 Community list of publications, data and other useful information on transport in  :bike::bus::train:🌳🚊
 </b><br><br>
 
-Have something to add or change? Contact: Armin.Wagner@giz.de
+Have something to add or change? Contact: Niklas.Matern@giz.de
 
 ------------------------------
 
