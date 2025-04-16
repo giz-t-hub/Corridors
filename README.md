@@ -11,105 +11,105 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 
 ### Table of Contents
 
-- [National Vision, Strategy, Masterplan](#vision-strategy-masterplan)
-- [Abidjan - Lagos](#abidjan-lagos)
-- [Other national and sectoral documents](#other-national-sectoral-documents) 
-- [Climate and energy policies](#climate-energy-policies)
-- [Urban and regional development](#urban)
-- [EU accession and cooperation](#eu-accession)
-- [Trade Facilitation](#trade-facilitation)  
-- [Digitalisation](#digitalisation)
-- [Gender and Equality](#gender)
-- [Urban mobility plans, strategies, and concepts; local transport plans, etc](#local-transport-plans) 
-- [Studies and research papers](#studies-research) 
-- [International cooperation projects and strategies](#International-cooperation) 
-- [Data](#data) 
-
-  
-### Vision, Strategy, Masterplan <a name="vision-strategy-masterplan"></a> 
-
-Transport:
-- 
-
-General:
-- 
+- <b>[Corridors](#corridors)</b>
+ 	- [Abidjan - Lagos](#C1)
+	- [Abidjan - Ouagadougou](#C2)
+	- [Praia/Dakar - Abidjan](#C3)
+	- [Cotonou - Niamey](#C4)
+	- [Libreville/Kribi/Douala - N'djamena](#C5)
+	- [Douala/Kribi - Kampala](#C6)
+	- [Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7)
+	- [Mombasa - Kisangani](#C8)
+	- [Maputo - Gaborone - Walvis Bay](#C9)
+	- [Durban - Lusaka](#C10)
+	- [Cairo - Khartoum - Juba - Kampala](#C11)
+	- [Lobito - Kabwe](#C12)	
+- <b>[Counties](#countries)</b>
+	- 
+# Corridors <a name="corridors"></a>
 
 
-Abidja - Lagos <a name="abidjan-lagos"></a>
--
+#### List of Corridors
+- [Abidjan - Lagos](#C1)
+- [Abidjan - Ouagadougou](#C2)
+- [Praia/Dakar - Abidjan](#C3)
+- [Cotonou - Niamey](#C4)
+- [Libreville/Kribi/Douala - N'djamena](#C5)
+- [Douala/Kribi - Kampala](#C6)
+- [Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7)
+- [Mombasa - Kisangani](#C8)
+- [Maputo - Gaborone - Walvis Bay](#C9)
+- [Durban - Lusaka](#C10)
+- [Cairo - Khartoum - Juba - Kampala](#C11)
+- [Lobito - Kabwe](#C12)
 
-- https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=5.704641783374759%2C-0.3252817500000116&z=8
+## 1. Abidja - Lagos <a name="C1"></a>
+Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=5.704641783374759%2C-0.3252817500000116&z=8
 
 ### Relatet Countries
 
-teast
 
+## 2. Abidjan - Ouagadougou <a name="C2"></a>
+Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=9.593978756932989%2C-2.9633726406249936&z=7
 
+### Relatet Countries
 
+## 3. Praia/Dakar - Abidjan <a name="C3"></a>
+Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=9.658444082528641%2C-10.744735850000005&z=6
 
-### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
+### Relatet Countries
 
-Railways:
--
- 
-Roads:
+## 4. Cotonou - Niamey <a name="C4"></a>
+Map view: 
+
+### Relatet Countries
+
+## 5. Libreville/Kribi/Douala - N'djamena <a name="C5"></a>
+Map view: 
+
+### Relatet Countries
+
+## 6. Douala/Kribi - Kampala <a name="C6"></a>
+Map view: 
+
+### Relatet Countries
+
+## 7. Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti <a name="C7"></a>
+Map view: 
+
+### Relatet Countries
+
+## 8. Mombasa - Kisangani <a name="C8"></a>
+Map view: 
+
+### Relatet Countries
+
+## 9. Maputo - Gaborone - Walvis Bay <a name="C9"></a>
+Map view: 
+
+### Relatet Countries
+
+## 10. Durban - Lusaka <a name="C10"></a>
+Map view: 
+
+### Relatet Countries
+
+## 11. Cairo - Khartoum - Juba - Kampala <a name="C11"></a>
+Map view: 
+
+### Relatet Countries
+
+## 12. Lobito - Kabwe <a name="C12"></a>
+Map view: 
+
+### Relatet Countries
+
+# Countries <a name="countries"></a>
+#### List of Countries
 - 
-    
-Inland waterways, ports:
-- 
+  
 
-Aviation:
-- 
 
-### Climate and energy policies <a name="climate-energy-policies"></a> 
-
-- Mitigation:
-    
-- Adaptation
-   
-
-- Energy policy 
-    
-
-### Urban and regional development <a name="urban"></a> 
-
-- 
-
-### EU accession and cooperation <a name="eu-accession"></a> 
-
-- 
-
-### Trade Facilitation <a name="trade-facilitation"></a> 
-
--
-
-### Digitalisation <a name="digitalisation"></a>
-
--
-
-### Gender and Equality <a name="gender"></a>
-
--
-
-### Transport Plans, Concepts etc at State level <a name="state-level"></a>
-
-- 
-
-### Urban mobility plans, strategies, and concepts; local transport plans, etc <a name="local-transport-plans"></a>  
-
--
-
-### Studies and research papers <a name="studies-research"></a> 
-
--
-
-### International cooperation projects and strategies <a name="international-cooperation"></a> 
-
--
-
-### Data <a name="data"></a>
-
-- 
 
 
 Overview/Table of Content: https://github.com/giz-t-hub/Overview
