@@ -12,8 +12,8 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Table of Contents
 
 - [National Vision, Strategy, Masterplan](#National-Vision-Strategy-Masterplan)
-- [Other national and sectoral documents](#other-national-sectoral-documents) 
-- [Climate and energy policies](#climate-energy-policies)
+	- [Other national and sectoral documents](#other-national-sectoral-documents) 
+	- [Climate and energy policies](#climate-energy-policies)
 - [Urban and regional development](#urban)
 - [EU accession and cooperation](#eu-accession)
 - [Trade Facilitation](#trade-facilitation)  
