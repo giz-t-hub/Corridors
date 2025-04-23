@@ -86,11 +86,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=5.704641783374759%2C-0.3252817500000116&z=8
 
 ### Relatet Countries
-- [Benin](#BJ)
-- [Côte d'Ivoire](#CI)
-- [Ghana](#GH)
-- [Nigeria](#NG)
-- [Togo](#TG)
+[Benin](#BJ), [Côte d'Ivoire](#CI), [Ghana](#GH), [Nigeria](#NG), [Togo](#TG)
 
 
 
