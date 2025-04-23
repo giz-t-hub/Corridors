@@ -46,7 +46,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 
 
 #### List of Corridors
-- [1. Abidjan - Lagos](#C1)
+- [ 1| Abidjan - Lagos](#C1)
 - [ 2| Abidjan - Ouagadougou](#C2)
 - [ 3| Praia/Dakar - Abidjan](#C3)
 - [ 4| Cotonou - Niamey](#C4)
