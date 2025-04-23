@@ -12,75 +12,52 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Table of Contents
 
 - <b>[Corridors](#corridors)</b>
- 	- [Abidjan - Lagos](#C1)
-	- [Abidjan - Ouagadougou](#C2)
-	- [Praia/Dakar - Abidjan](#C3)
-	- [Cotonou - Niamey](#C4)
-	- [Libreville/Kribi/Douala - N'djamena](#C5)
-	- [Douala/Kribi - Kampala](#C6)
-	- [Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7)
-	- [Mombasa - Kisangani](#C8)
-	- [Maputo - Gaborone - Walvis Bay](#C9)
-	- [Durban - Lusaka](#C10)
-	- [Cairo - Khartoum - Juba - Kampala](#C11)
-	- [Lobito - Kabwe](#C12)	
+ 	- [ 1| Abidjan - Lagos](#C1)
+	- [ 2| Abidjan - Ouagadougou](#C2)
+	- [ 3| Praia/Dakar - Abidjan](#C3)
+	- [ 4| Cotonou - Niamey](#C4)
+	- [ 5| Libreville/Kribi/Douala - N'djamena](#C5)
+	- [ 6| Douala/Kribi - Kampala](#C6)
+	- [ 7| Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7)
+	- [ 8| Mombasa - Kisangani](#C8)
+	- [ 9| Maputo - Gaborone - Walvis Bay](#C9)
+	- [10| Durban - Lusaka](#C10)
+	- [11| Cairo - Khartoum - Juba - Kampala](#C11)
+	- [12| Lobito - Kabwe](#C12)	
 - <b>[Countries](#countries)</b>
 	- [Angola](#AO)
-	- [Benin](#BJ)
-	- [Botswana](#BW)
-	- [Burkina-Faso](#BF)
-	- [Cabo Verde](#CV)
-	- [Cameroon](#CM)
-	- [Central African Republic](#CF)
-	- [Chad](#TD)
-	- [Côte d'Ivoire](#CI)
-	- [Democratic Republic of the Congo](#CD)
-	- [Djibouti](#DJ)
-	- [Egypt](#EG)
-	- [Equatorial Guinea](#GQ)
-	- [Eswatini](#SZ)
-	- [Ethiopia](#ET)
-	- [Gabon](#GA)
-	- [Gambia](#GM)
-	- [Ghana](#GH)
-	- [Guinea](#GN)
-	- [Guinea-Bissau](#GW)
+	- [Benin](#BJ)		| [Botswana](#BW)	| [Burkina-Faso](#BF)
+	- [Cabo Verde](#CV)	| [Cameroon](#CM)	| [Central African Republic](#CF)		| [Chad](#TD)		| [Côte d'Ivoire](#CI)
+	- [Democratic Republic of the Congo](#CD)	| [Djibouti](#DJ)
+	- [Egypt](#EG)		| [Equatorial Guinea](#GQ)			| [Eswatini](#SZ)	| [Ethiopia](#ET)
+	- [Gabon](#GA)		| [Gambia](#GM)		| [Ghana](#GH)		| [Guinea](#GN)		| [Guinea-Bissau](#GW)
 	- [Kenya](#KE)
 	- [Liberia](#LR)
 	- [Mozambique](#MZ)
-	- [Namibia](#NA)
-	- [Niger](#NE)
-	- [Nigeria](#NG)
+	- [Namibia](#NA)	| [Niger](#NE)		| [Nigeria](#NG)
 	- [Rwanda](#RW)
-	- [São Tomé and Príncipe](#ST)
-	- [Senegal](#SN)
-	- [Sierra Leone](#SL)
-	- [Somalia](#SO)
-	- [South Africa](#ZA)
-	- [South Sudan](#SS)
-	- [Sudan](#SD)
-	- [Tanzania](#TZ)
-	- [Togo](#TG)
+	- [São Tomé and Príncipe](#ST)			| [Senegal](#SN)	| [Sierra Leone](#SL)	| [Somalia](#SO)	| [South Africa](#ZA)	| [South Sudan](#SS)	| [Sudan](#SD)
+	- [Tanzania](#TZ)	| [Togo](#TG)
 	- [Uganda](#UG)
-	- [Zambia](#ZM)
-	- [Zimbabwe](#ZW)
+	- [Zambia](#ZM)		| [Zimbabwe](#ZW)
 
+---
 # Corridors <a name="corridors"></a>
 
 
 #### List of Corridors
-- [Abidjan - Lagos](#C1)
-- [Abidjan - Ouagadougou](#C2)
-- [Praia/Dakar - Abidjan](#C3)
-- [Cotonou - Niamey](#C4)
-- [Libreville/Kribi/Douala - N'djamena](#C5)
-- [Douala/Kribi - Kampala](#C6)
-- [Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7)
-- [Mombasa - Kisangani](#C8)
-- [Maputo - Gaborone - Walvis Bay](#C9)
-- [Durban - Lusaka](#C10)
-- [Cairo - Khartoum - Juba - Kampala](#C11)
-- [Lobito - Kabwe](#C12)
+- [ 1| Abidjan - Lagos](#C1)
+- [ 2| Abidjan - Ouagadougou](#C2)
+- [ 3| Praia/Dakar - Abidjan](#C3)
+- [ 4| Cotonou - Niamey](#C4)
+- [ 5| Libreville/Kribi/Douala - N'djamena](#C5)
+- [ 6| Douala/Kribi - Kampala](#C6)
+- [ 7| Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7)
+- [ 8| Mombasa - Kisangani](#C8)
+- [ 9| Maputo - Gaborone - Walvis Bay](#C9)
+- [10| Durban - Lusaka](#C10)
+- [11| Cairo - Khartoum - Juba - Kampala](#C11)
+- [12| Lobito - Kabwe](#C12)	
 
 ## 1. Abidja - Lagos <a name="C1"></a>
 Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=5.704641783374759%2C-0.3252817500000116&z=8
@@ -88,67 +65,80 @@ Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556Y
 ### Relatet Countries
 [Benin](#BJ), [Côte d'Ivoire](#CI), [Ghana](#GH), [Nigeria](#NG), [Togo](#TG)
 
-
-
 ## 2. Abidjan - Ouagadougou <a name="C2"></a>
 Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=9.593978756932989%2C-2.9633726406249936&z=7
 
 ### Relatet Countries
+[Burkina-Faso](#BF), [Côte d'Ivoire](#CI)
 
 ## 3. Praia/Dakar - Abidjan <a name="C3"></a>
 Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=9.658444082528641%2C-10.744735850000005&z=6
 
 ### Relatet Countries
+[Cabo Verde](#CV), [Côte d'Ivoire](#CI), [Gambia](#GM), [Guinea](#GN), [Guinea-Bissau](#GW), [Liberia](#LR), [Senegal](#SN), [Sierra Leone](#SL)
 
 ## 4. Cotonou - Niamey <a name="C4"></a>
 Map view: 
 
 ### Relatet Countries
+[Benin](#BJ), [Niger](#NE)
 
 ## 5. Libreville/Kribi/Douala - N'djamena <a name="C5"></a>
 Map view: 
 
 ### Relatet Countries
+[Cameroon](#CM), [Chad](#TD), [Equatorial Guinea](#GQ), [Gabon](#GA), [São Tomé and Príncipe](#ST)
 
 ## 6. Douala/Kribi - Kampala <a name="C6"></a>
 Map view: 
 
 ### Relatet Countries
+[Cameroon](#CM), [Central African Republic](#CF), [Democratic Republic of the Congo](#CD), [Uganda](#UG)
 
 ## 7. Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti <a name="C7"></a>
 Map view: 
 
 ### Relatet Countries
+[Djibouti](#DJ), [Ethiopia](#ET), [Kenya](#KE), [Somalia](#SO), [Tanzania](#TZ)
 
 ## 8. Mombasa - Kisangani <a name="C8"></a>
 Map view: 
 
 ### Relatet Countries
+[Democratic Republic of the Congo](#CD), [Kenya](#KE), [Rwanda](#RW), [Uganda](#UG)
 
 ## 9. Maputo - Gaborone - Walvis Bay <a name="C9"></a>
 Map view: 
 
 ### Relatet Countries
+[Botswana](#BW), [Eswatini](#SZ), [Mozambique](#MZ), [Namibia](#NA), [South Africa](#ZA)
 
 ## 10. Durban - Lusaka <a name="C10"></a>
 Map view: 
 
 ### Relatet Countries
+[Botswana](#BW), [South Africa](#ZA), [Zambia](#ZM), [Zimbabwe](#ZW)
 
 ## 11. Cairo - Khartoum - Juba - Kampala <a name="C11"></a>
 Map view: 
 
 ### Relatet Countries
+[Egypt](#EG), [South Sudan](#SS), [Sudan](#SD), [Uganda](#UG)
 
 ## 12. Lobito - Kabwe <a name="C12"></a>
 Map view: 
 
 ### Relatet Countries
+[Angola](#AO), [Democratic Republic of the Congo](#CD), [Zambia](#ZM)
 
+---
 # Countries <a name="countries"></a>
+
+
 #### List of Countries
-- [Angola](#AO)
-- [Benin](#BJ)
+[A](#A) | [B](#B) | [Z](#Z)
+- [Angola](#AO)<a name="A"></a>
+- [Benin](#BJ)<a name="B"></a>
 - [Botswana](#BW)
 - [Burkina-Faso](#BF)
 - [Cabo Verde](#CV)
@@ -184,12 +174,13 @@ Map view:
 - [Tanzania](#TZ)
 - [Togo](#TG)
 - [Uganda](#UG)
-- [Zambia](#ZM)
+- [Zambia](#ZM)<a name="Z"></a>
 - [Zimbabwe](#ZW)
 
 ## Angola <a name="AO"></a>
 
-### Relatet Corridors 
+### Relatet Corridors
+[Lobito - Kabwe](#C12)
 
 ## Benin <a name="BJ"></a>
 
