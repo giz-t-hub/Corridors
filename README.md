@@ -42,7 +42,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Zambia](#ZM)		| [Zimbabwe](#ZW)
 
 ---
-# Corridors <a name="corridors"></a>
+# Corridors<a name="corridors"></a>
 
 
 #### List of Corridors
@@ -201,14 +201,14 @@ Map view:
 - [Zambia](#ZM)<a name="Z"></a>
 - [Zimbabwe](#ZW)
 
-## Angola <a name="AO"></a>
+## Angola<a name="AO"></a>
 
 ### Relatet Corridors
 [12 Lobito - Kabwe](#C12)
 
 [Country overview](#countries) | [Back to the top](#top)
 
-## Benin <a name="BJ"></a>
+## Benin<a name="BJ"></a>
 
 ### Relatet Corridors 
 [01 Abidjan - Lagos](#C1) | [04 Cotonou - Niamey](#C4)
