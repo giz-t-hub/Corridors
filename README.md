@@ -136,44 +136,44 @@ Map view:
 
 
 #### List of Countries
-[A](#A) | [B](#B) | [Z](#Z)
+[A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [G](#G) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [Z](#Z)
 - [Angola](#AO)<a name="A"></a>
 - [Benin](#BJ)<a name="B"></a>
 - [Botswana](#BW)
 - [Burkina-Faso](#BF)
-- [Cabo Verde](#CV)
+- [Cabo Verde](#CV)<a name="C"></a>
 - [Cameroon](#CM)
 - [Central African Republic](#CF)
 - [Chad](#TD)
 - [Côte d'Ivoire](#CI)
-- [Democratic Republic of the Congo](#CD)
+- [Democratic Republic of the Congo](#CD)<a name="D"></a>
 - [Djibouti](#DJ)
-- [Egypt](#EG)
+- [Egypt](#EG)<a name="E"></a>
 - [Equatorial Guinea](#GQ)
 - [Eswatini](#SZ)
 - [Ethiopia](#ET)
-- [Gabon](#GA)
+- [Gabon](#GA)<a name="G"></a>
 - [Gambia](#GM)
 - [Ghana](#GH)
 - [Guinea](#GN)
 - [Guinea-Bissau](#GW)
-- [Kenya](#KE)
-- [Liberia](#LR)
-- [Mozambique](#MZ)
-- [Namibia](#NA)
+- [Kenya](#KE)<a name="K"></a>
+- [Liberia](#LR)<a name="L"></a>
+- [Mozambique](#MZ)<a name="M"></a>
+- [Namibia](#NA)<a name="N"></a>
 - [Niger](#NE)
 - [Nigeria](#NG)
-- [Rwanda](#RW)
-- [São Tomé and Príncipe](#ST)
+- [Rwanda](#RW)<a name="R"></a>
+- [São Tomé and Príncipe](#ST)<a name="S"></a>
 - [Senegal](#SN)
 - [Sierra Leone](#SL)
 - [Somalia](#SO)
 - [South Africa](#ZA)
 - [South Sudan](#SS)
 - [Sudan](#SD)
-- [Tanzania](#TZ)
+- [Tanzania](#TZ)<a name="T"></a>
 - [Togo](#TG)
-- [Uganda](#UG)
+- [Uganda](#UG)<a name="U"></a>
 - [Zambia](#ZM)<a name="Z"></a>
 - [Zimbabwe](#ZW)
 
