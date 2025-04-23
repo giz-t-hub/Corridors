@@ -24,7 +24,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Durban - Lusaka](#C10)
 	- [Cairo - Khartoum - Juba - Kampala](#C11)
 	- [Lobito - Kabwe](#C12)	
-- <b>[Counties](#countries)</b>
+- <b>[Countries](#countries)</b>
 	- [Angola](#AO)
 	- [Benin](#BJ)
 	- [Botswana](#BW)
