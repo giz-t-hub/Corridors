@@ -84,7 +84,7 @@ Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556Y
 [Corridor overview](#corridors) | [Back to the top](#top)
 
 ## 4. Cotonou - Niamey <a name="C4"></a>
-Map view: 
+Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=9.94856135748917%2C2.756315100000002&z=7
 
 ### Relatet Countries
 [Benin](#BJ), [Niger](#NE)
