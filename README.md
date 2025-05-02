@@ -489,5 +489,5 @@ For more information about our work, please refer to:
 -	MobiliseYourCity: https://www.mobiliseyourcity.net/
 		
 Compiled by / Contact:
-- Armin Wagner: armin.wagner@giz.de
+- Niklas Matern: niklas.matern@giz.de
 - (as of February 2025)
