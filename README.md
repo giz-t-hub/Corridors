@@ -92,7 +92,7 @@ Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556Y
 [Corridor overview](#corridors) | [Back to the top](#top)
 
 ## 5. Libreville/Kribi/Douala - N'djamena <a name="C5"></a>
-Map view: 
+Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=6.137892415333151%2C15.253023233776908&z=6
 
 ### Relatet Countries
 [Cameroon](#CM), [Chad](#TD), [Equatorial Guinea](#GQ), [Gabon](#GA), [São Tomé and Príncipe](#ST)
@@ -116,7 +116,7 @@ Map view:
 [Corridor overview](#corridors) | [Back to the top](#top)
 
 ## 8. Mombasa - Kisangani <a name="C8"></a>
-Map view: 
+Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-0.09998550463464073%2C32.74194600937502&z=7
 
 ### Relatet Countries
 [Democratic Republic of the Congo](#CD), [Kenya](#KE), [Rwanda](#RW), [Uganda](#UG)
@@ -148,7 +148,7 @@ Map view:
 [Corridor overview](#corridors) | [Back to the top](#top)
 
 ## 12. Lobito - Kabwe <a name="C12"></a>
-Map view: 
+Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-12.407898590191781%2C21.12538794999999&z=7
 
 ### Relatet Countries
 [Angola](#AO), [Democratic Republic of the Congo](#CD), [Zambia](#ZM)
