@@ -421,7 +421,7 @@ Map view:
 ## South Africa <a name="ZA"></a>
 
 ### Relatet Corridors 
-[09 Maputo - Gaborone - Walvis Bay](#C9) | [10 Durban - Lusaka](#C10
+[09 Maputo - Gaborone - Walvis Bay](#C9) | [10 Durban - Lusaka](#C10)
 
 [Country overview](#countries) | [Back to the top](#top)
 
