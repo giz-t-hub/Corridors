@@ -100,7 +100,7 @@ Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556Y
 [Corridor overview](#corridors) | [Back to the top](#top)
 
 ## 6. Douala/Kribi - Kampala <a name="C6"></a>
-Map view: 
+Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=3.081533157595408%2C21.06165710000002&z=6
 
 ### Relatet Countries
 [Cameroon](#CM), [Central African Republic](#CF), [Democratic Republic of the Congo](#CD), [Uganda](#UG)
