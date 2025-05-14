@@ -109,7 +109,7 @@ Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556Y
 [Corridor overview](#corridors) | [Back to the top](#top)
 
 ## 7. Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti <a name="C7"></a>
-Map view: 
+Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=3.1580589681594713%2C40.808425949999986&z=6
 
 ### Relatet Countries
 [Djibouti](#DJ), [Ethiopia](#ET), [Kenya](#KE), [Somalia](#SO), [Tanzania](#TZ)
