@@ -133,7 +133,7 @@ Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556Y
 [Corridor overview](#corridors) | [Back to the top](#top)
 
 ## 10. Durban - Lusaka <a name="C10"></a>
-Map view: 
+Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-22.782911908478948%2C29.319325793750004&z=6
 
 ### Relatet Countries
 [Botswana](#BW), [South Africa](#ZA), [Zambia](#ZM), [Zimbabwe](#ZW)
