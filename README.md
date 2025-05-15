@@ -60,7 +60,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 - [12| Lobito - Kabwe](#C12)	
 
 <a name="C1"></a>
-## 1. Abidjan - Lagos 
+## 01. Abidjan - Lagos 
 Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=5.704641783374759%2C-0.3252817500000116&z=8
 
 ### Relatet Countries
@@ -68,7 +68,7 @@ Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556Y
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 
-## 2. Abidjan - Ouagadougou <a name="C2"></a>
+## 02. Abidjan - Ouagadougou <a name="C2"></a>
 Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=9.593978756932989%2C-2.9633726406249936&z=7
 
 ### Relatet Countries
@@ -76,7 +76,7 @@ Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556Y
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 
-## 3. Praia/Dakar - Abidjan <a name="C3"></a>
+## 03. Praia/Dakar - Abidjan <a name="C3"></a>
 Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=9.658444082528641%2C-10.744735850000005&z=6
 
 ### Relatet Countries
@@ -84,7 +84,7 @@ Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556Y
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 
-## 4. Cotonou - Niamey <a name="C4"></a>
+## 04. Cotonou - Niamey <a name="C4"></a>
 Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=9.94856135748917%2C2.756315100000002&z=7
 
 ### Relatet Countries
@@ -92,7 +92,7 @@ Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556Y
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 
-## 5. Libreville/Kribi/Douala - N'djamena <a name="C5"></a>
+## 05. Libreville/Kribi/Douala - N'djamena <a name="C5"></a>
 Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=6.137892415333151%2C15.253023233776908&z=6
 
 ### Relatet Countries
@@ -100,7 +100,7 @@ Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556Y
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 
-## 6. Douala/Kribi - Kampala <a name="C6"></a>
+## 06. Douala/Kribi - Kampala <a name="C6"></a>
 Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=3.081533157595408%2C21.06165710000002&z=6
 
 ### Relatet Countries
@@ -108,7 +108,7 @@ Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556Y
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 
-## 7. Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti <a name="C7"></a>
+## 07. Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti <a name="C7"></a>
 Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=3.1580589681594713%2C40.808425949999986&z=6
 
 ### Relatet Countries
@@ -116,7 +116,7 @@ Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556Y
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 
-## 8. Mombasa - Kisangani <a name="C8"></a>
+## 08. Mombasa - Kisangani <a name="C8"></a>
 Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-0.09998550463464073%2C32.74194600937502&z=7
 
 ### Relatet Countries
@@ -124,8 +124,8 @@ Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556Y
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 
-## 9. Maputo - Gaborone - Walvis Bay <a name="C9"></a>
-Map view: 
+## 09. Maputo - Gaborone - Walvis Bay <a name="C9"></a>
+Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-24.28489124867434%2C25.29005475918168&z=6
 
 ### Relatet Countries
 [Botswana](#BW), [Eswatini](#SZ), [Mozambique](#MZ), [Namibia](#NA), [South Africa](#ZA)
