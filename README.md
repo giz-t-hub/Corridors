@@ -3,7 +3,7 @@ Plans, data and other documents on transport regarding the Global Gateway corrid
 [Here](https://international-partnerships.ec.europa.eu/publications-library/eu-africa-global-gateway-investment-package-strategic-corridors_en) you may find an brief overview of the Strategic Corridors to be developed within the scope of the EU-Africa Global Gateway Investment Package publicated by the EU in 2023. 
 
 <b> 
-Community list of publications, data and other useful information on the African global Gateway corridors.
+Community list of publications, data and other useful information on the Strategic Corridors of the EU-Africa Global Gateway Investment Package.
 </b><br><br>
 
 Have something to add or change? Contact: Niklas.Matern@giz.de
