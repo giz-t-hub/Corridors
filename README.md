@@ -972,6 +972,11 @@ Passenger Transport
 - Track gauge:  1,067 mm
 - Operator:     State owned "[National Railways of Zimbabwe](https://nrz.co.zw/)" (NRZ)
 - System Map:   [NRZ](https://nrz.co.zw/network-system/)
+System Size:	2,760 km	
+Track gauge:	1,067 mm	
+Operator:	State owned "[National Railways of Zimbabwe](https://nrz.co.zw/)" (NRZ)	
+System Map:	[NRZ](https://nrz.co.zw/network-system/)	
+		
 
 ### Waterways
 
