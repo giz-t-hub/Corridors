@@ -57,7 +57,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 - [ 7| Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7)
 - [ 8| Mombasa - Kisangani](#C8)
 - [ 9| Maputo - Gaborone - Walvis Bay](#C9)
-- [10| Durban - Lusaka](#C10)
+- [10| Durban - Lusaka](#10._Durban_-_Lusaka)
 - [11| Cairo - Khartoum - Juba - Kampala](#C11)
 - [12| Lobito - Kabwe](#C12)
 - [Central Corridor](#central)
@@ -832,7 +832,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Rail network
 System Size:  ~36,000 km\
 Track gauge:  1,067 mm (Gautrain rapid transit: 1,435 mm)\
-Operators:    State owned "[Transnet](https://www.transnet.net/)" ([freight services](https://www.transnet.net/SubsiteRender.aspx?id=2286141)) and "[PRASA](https://www.prasa.com)(passenger transport)"\
+Operators:    State owned "[Transnet](https://www.transnet.net/)" ([freight services](https://www.transnet.net/SubsiteRender.aspx?id=2286141)) and "[PRASA](https://www.prasa.com)" (passenger transport)\
 System Map:   []()
 
 ### Waterways
