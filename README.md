@@ -24,7 +24,8 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [ 9| Maputo - Gaborone - Walvis Bay](#C9)
 	- [10| Durban - Lusaka](#C10)
 	- [11| Cairo - Khartoum - Juba - Kampala](#C11)
-	- [12| Lobito - Kabwe](#C12)	
+	- [12| Lobito - Kabwe](#C12)
+	- [Central Corridor](#central)
 - <b>[Countries](#countries)</b>
 	- [Angola](#AO)
 	- [Benin](#BJ)		| [Botswana](#BW)	| [Burkina-Faso](#BF)				| [Burundi](#BI)
@@ -58,102 +59,122 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 - [ 9| Maputo - Gaborone - Walvis Bay](#C9)
 - [10| Durban - Lusaka](#C10)
 - [11| Cairo - Khartoum - Juba - Kampala](#C11)
-- [12| Lobito - Kabwe](#C12)	
+- [12| Lobito - Kabwe](#C12)
+- [Central Corridor](#central)
 
 <a name="C1"></a>
 ## 01. Abidjan - Lagos 
-Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=5.704641783374759%2C-0.3252817500000116&z=8
+[Map view](https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=5.704641783374759%2C-0.3252817500000116&z=8)
 
 ### Related Countries
 [Benin](#BJ), [Côte d'Ivoire](#CI), [Ghana](#GH), [Nigeria](#NG), [Togo](#TG)
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 
-## 02. Abidjan - Ouagadougou <a name="C2"></a>
-Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=9.593978756932989%2C-2.9633726406249936&z=7
+<a name="C2"></a>
+## 02. Abidjan - Ouagadougou 
+[Map view](https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=9.593978756932989%2C-2.9633726406249936&z=7)
 
 ### Related Countries
 [Burkina-Faso](#BF), [Côte d'Ivoire](#CI)
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 
-## 03. Praia/Dakar - Abidjan <a name="C3"></a>
-Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=9.658444082528641%2C-10.744735850000005&z=6
+<a name="C3"></a>
+## 03. Praia/Dakar - Abidjan 
+[Map view](https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=9.658444082528641%2C-10.744735850000005&z=6)
 
 ### Related Countries
 [Cabo Verde](#CV), [Côte d'Ivoire](#CI), [Gambia](#GM), [Guinea](#GN), [Guinea-Bissau](#GW), [Liberia](#LR), [Senegal](#SN), [Sierra Leone](#SL)
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 
-## 04. Cotonou - Niamey <a name="C4"></a>
-Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=9.94856135748917%2C2.756315100000002&z=7
+<a name="C4"></a>
+## 04. Cotonou - Niamey 
+[Map view](https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=9.94856135748917%2C2.756315100000002&z=7)
 
 ### Related Countries
 [Benin](#BJ), [Niger](#NE)
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 
-## 05. Libreville/Kribi/Douala - N'djamena <a name="C5"></a>
-Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=6.137892415333151%2C15.253023233776908&z=6
+<a name="C5"></a>## 05. Libreville/Kribi/Douala - N'djamena 
+[Map view](https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=6.137892415333151%2C15.253023233776908&z=6)
 
 ### Related Countries
 [Cameroon](#CM), [Chad](#TD), [Equatorial Guinea](#GQ), [Gabon](#GA), [São Tomé and Príncipe](#ST)
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 
-## 06. Douala/Kribi - Kampala <a name="C6"></a>
-Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=3.081533157595408%2C21.06165710000002&z=6
+<a name="C6"></a>
+## 06. Douala/Kribi - Kampala 
+[Map view](https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=3.081533157595408%2C21.06165710000002&z=6)
 
 ### Related Countries
 [Cameroon](#CM), [Central African Republic](#CF), [Democratic Republic of the Congo](#CD), [Uganda](#UG)
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 
-## 07. Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti <a name="C7"></a>
-Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=3.1580589681594713%2C40.808425949999986&z=6
+<a name="C7"></a>
+## 07. Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti 
+[Map view](https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=3.1580589681594713%2C40.808425949999986&z=6)
 
 ### Related Countries
 [Djibouti](#DJ), [Ethiopia](#ET), [Kenya](#KE), [Somalia](#SO), [Tanzania](#TZ)
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 
-## 08. Mombasa - Kisangani <a name="C8"></a>
-Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-0.09998550463464073%2C32.74194600937502&z=7
+<a name="C8"></a>
+## 08. Mombasa - Kisangani 
+[Map view](https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-0.09998550463464073%2C32.74194600937502&z=7)
 
 ### Related Countries
 [Democratic Republic of the Congo](#CD), [Kenya](#KE), [Rwanda](#RW), [Uganda](#UG)
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 
-## 09. Maputo - Gaborone - Walvis Bay <a name="C9"></a>
-Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-24.28489124867434%2C25.29005475918168&z=6
+<a name="C9"></a>
+## 09. Maputo - Gaborone - Walvis Bay 
+[Map view](https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-24.28489124867434%2C25.29005475918168&z=6)
 
 ### Related Countries
 [Botswana](#BW), [Eswatini](#SZ), [Mozambique](#MZ), [Namibia](#NA), [South Africa](#ZA)
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 
-## 10. Durban - Lusaka <a name="C10"></a>
-Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-22.782911908478948%2C29.319325793750004&z=6
+<a name="C10"></a>
+## 10. Durban - Lusaka 
+[Map view](https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-22.782911908478948%2C29.319325793750004&z=6)
 
 ### Related Countries
 [Botswana](#BW), [South Africa](#ZA), [Zambia](#ZM), [Zimbabwe](#ZW)
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 
-## 11. Cairo - Khartoum - Juba - Kampala <a name="C11"></a>
-Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=16.070637273114922%2C37.489152489282034&z=5
+<a name="C11"></a>
+## 11. Cairo - Khartoum - Juba - Kampala 
+[Map view](https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=16.070637273114922%2C37.489152489282034&z=5)
 
 ### Related Countries
 [Egypt](#EG), [South Sudan](#SS), [Sudan](#SD), [Uganda](#UG)
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 
-## 12. Lobito - Kabwe <a name="C12"></a>
-Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-12.407898590191781%2C21.12538794999999&z=7
+<a name="C12"></a>
+## 12. Lobito - Kabwe 
+[Map view](https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-12.407898590191781%2C21.12538794999999&z=7)
 
 ### Related Countries
 [Angola](#AO), [Democratic Republic of the Congo](#CD), [Zambia](#ZM)
+
+[Corridor overview](#corridors) | [Back to the top](#top)
+
+<a name="central"></a>
+## Central Corridor 
+[Map view](https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-4.4338554114748785%2C34.07183650000001&z=7)
+
+### Related Countries
+[Burundi](#BI), [Rwanda](#RW), [Tanzania](#TZ), [Uganda](#UG)
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 
