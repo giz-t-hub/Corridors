@@ -969,6 +969,7 @@ Passenger Transport
 
 ### Rail network
 
+| --- | --- |
 | System Size: | 2,760 km |
 | Track gauge: | 1,067 mm |
 | Operator: | State owned "[National Railways of Zimbabwe](https://nrz.co.zw/)" (NRZ) |
