@@ -27,7 +27,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [12| Lobito - Kabwe](#C12)	
 - <b>[Countries](#countries)</b>
 	- [Angola](#AO)
-	- [Benin](#BJ)		| [Botswana](#BW)	| [Burkina-Faso](#BF)
+	- [Benin](#BJ)		| [Botswana](#BW)	| [Burkina-Faso](#BF)				| [Burundi](#BI)
 	- [Cabo Verde](#CV)	| [Cameroon](#CM)	| [Central African Republic](#CF)		| [Chad](#TD)		| [Côte d'Ivoire](#CI)
 	- [Democratic Republic of the Congo](#CD)	| [Djibouti](#DJ)
 	- [Egypt](#EG)		| [Equatorial Guinea](#GQ)			| [Eswatini](#SZ)	| [Ethiopia](#ET)
@@ -167,6 +167,7 @@ Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556Y
 - [Benin](#BJ)<a name="B"></a>
 - [Botswana](#BW)
 - [Burkina-Faso](#BF)
+- [Burundi](#BI)
 - [Cabo Verde](#CV)<a name="C"></a>
 - [Cameroon](#CM)
 - [Central African Republic](#CF)
@@ -208,6 +209,18 @@ Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556Y
 ### Related Corridors
 [12 Lobito - Kabwe](#C12)
 
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
+
 [Country overview](#countries) | [Back to the top](#top)
 
 ## Benin <a name="BJ"></a>
@@ -225,6 +238,13 @@ Map view: https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556Y
 [Country overview](#countries) | [Back to the top](#top)
 
 ## Burkina-Faso <a name="BF"></a>
+
+### Related Corridors 
+[02 Abidjan - Ouagadougou](#C2)
+
+[Country overview](#countries) | [Back to the top](#top)
+
+## Burundi <a name="BI"></a>
 
 ### Related Corridors 
 [02 Abidjan - Ouagadougou](#C2)
