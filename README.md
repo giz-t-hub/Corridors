@@ -10,7 +10,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 
 ------------------------------
 
-### Table of Contents<a name="top"></a>
+# Table of Contents<a name="top"></a>
 
 - <b>[Corridors](#corridors)</b>
  	- [ 1| Abidjan - Lagos](#C1)
@@ -47,7 +47,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 # Corridors<a name="corridors"></a>
 
 
-#### List of Corridors
+## List of Corridors
 - [ 1| Abidjan - Lagos](#C1)
 - [ 2| Abidjan - Ouagadougou](#C2)
 - [ 3| Praia/Dakar - Abidjan](#C3)
@@ -183,7 +183,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 # Countries <a name="countries"></a>
 
 
-#### List of Countries
+## List of Countries
 [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [G](#G) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [Z](#Z)
 - [Angola](#AO)<a name="A"></a>
 - [Benin](#BJ)<a name="B"></a>
@@ -830,10 +830,10 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Road network
 
 ### Rail network
-- System Size:  ~36,000 km
-- Track gauge:  1,067 mm (Gautrain rapid transit: 1,435 mm)
-- Operators:    State owned "[Transnet](https://www.transnet.net/)" ([freight services](https://www.transnet.net/SubsiteRender.aspx?id=2286141)) and "[PRASA](https://www.prasa.com)(passenger transport)"
-- System Map:   []()
+System Size:  ~36,000 km\
+Track gauge:  1,067 mm (Gautrain rapid transit: 1,435 mm)\
+Operators:    State owned "[Transnet](https://www.transnet.net/)" ([freight services](https://www.transnet.net/SubsiteRender.aspx?id=2286141)) and "[PRASA](https://www.prasa.com)(passenger transport)"\
+System Map:   []()
 
 ### Waterways
 
@@ -968,13 +968,10 @@ Passenger Transport
 ### Road network
 
 ### Rail network
-
-| bla | bla |
-| --- | --- |
-| System Size: | 2,760 km |
-| Track gauge: | 1,067 mm |
-| Operator: | State owned "[National Railways of Zimbabwe](https://nrz.co.zw/)" (NRZ) |
-| System Map: | [NRZ](https://nrz.co.zw/network-system/) |
+System Size: 2,760 km\
+Track gauge: 1,067 mm\
+Operator: State owned "[National Railways of Zimbabwe](https://nrz.co.zw/)" (NRZ)\
+System Map: [NRZ](https://nrz.co.zw/network-system/)\
 
 ### Waterways
 
