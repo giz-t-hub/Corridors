@@ -250,12 +250,36 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Corridors 
 [01 Abidjan - Lagos](#C1) | [04 Cotonou - Niamey](#C4)
 
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
+
 [Country overview](#countries) | [Back to the top](#top)
 
 ## Botswana <a name="BW"></a>
 
 ### Related Corridors 
 [09 Maputo - Gaborone - Walvis Bay](#C9) | [10 Durban - Lusaka](#C10)
+
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
 
@@ -264,12 +288,34 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Corridors 
 [02 Abidjan - Ouagadougou](#C2)
 
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
+
 [Country overview](#countries) | [Back to the top](#top)
 
 ## Burundi <a name="BI"></a>
 
 ### Related Corridors 
-[02 Abidjan - Ouagadougou](#C2)
+[Central Corridor](#central)
+
+### Trade volumes
+
+### Road network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
 
@@ -278,12 +324,36 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Corridors 
 [03 Praia/Dakar - Abidjan](#C3)
 
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
+
 [Country overview](#countries) | [Back to the top](#top)
 
 ## Cameroon <a name="CM"></a>
 
 ### Related Corridors 
 [05 Libreville/Kribi/Douala - N'djamena](#C5) | [06 Douala/Kribi - Kampala](#C6)
+
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
 
@@ -292,12 +362,34 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Corridors 
 [06 Douala/Kribi - Kampala](#C6)
 
+### Trade volumes
+
+### Road network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
+
 [Country overview](#countries) | [Back to the top](#top)
 
 ## Chad <a name="TD"></a>
 
 ### Related Corridors 
 [05 Libreville/Kribi/Douala - N'djamena](#C5)
+
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
 
@@ -306,12 +398,36 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Corridors 
 [01 Abidjan - Lagos](#C1) | [02 Abidjan - Ouagadougou](#C2) | [03 Praia/Dakar - Abidjan](#C3)
 
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
+
 [Country overview](#countries) | [Back to the top](#top)
 
 ## Democratic Republic of the Congo <a name="CD"></a>
 
 ### Related Corridors 
 [06 Douala/Kribi - Kampala](#C6) | [08 Mombasa - Kisangani](#C8) | [12 Lobito - Kabwe](#C12)
+
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
 
@@ -320,12 +436,36 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Corridors 
 [07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7)
 
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
+
 [Country overview](#countries) | [Back to the top](#top)
 
 ## Egypt <a name="EG"></a>
 
 ### Related Corridors 
 [11 Cairo - Khartoum - Juba - Kampala](#C11)
+
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
 
@@ -334,12 +474,34 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Corridors 
 [05 Libreville/Kribi/Douala - N'djamena](#C5)
 
+### Trade volumes
+
+### Road network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
+
 [Country overview](#countries) | [Back to the top](#top)
 
 ## Eswatini <a name="SZ"></a>
 
 ### Related Corridors 
 [09 Maputo - Gaborone - Walvis Bay](#C9)
+
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
 
@@ -348,12 +510,36 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Corridors 
 [07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7)
 
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
+
 [Country overview](#countries) | [Back to the top](#top)
 
 ## Gabon <a name="GA"></a>
 
 ### Related Corridors 
 [05 Libreville/Kribi/Douala - N'djamena](#C5)
+
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
 
@@ -362,12 +548,34 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Corridors 
 [03 Praia/Dakar - Abidjan](#C3)
 
+### Trade volumes
+
+### Road network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
+
 [Country overview](#countries) | [Back to the top](#top)
 
 ## Ghana <a name="GH"></a>
 
 ### Related Corridors 
 [01 Abidjan - Lagos](#C1)
+
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
 
@@ -376,12 +584,34 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Corridors 
 [03 Praia/Dakar - Abidjan](#C3)
 
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
+
 [Country overview](#countries) | [Back to the top](#top)
 
 ## Guinea-Bissau <a name="GW"></a>
 
 ### Related Corridors 
 [03 Praia/Dakar - Abidjan](#C3)
+
+### Trade volumes
+
+### Road network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
 
@@ -390,12 +620,36 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Corridors 
 [07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7) | [08 Mombasa - Kisangani](#C8)
 
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
+
 [Country overview](#countries) | [Back to the top](#top)
 
 ## Liberia <a name="LR"></a>
 
 ### Related Corridors 
 [03 Praia/Dakar - Abidjan](#C3)
+
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
 
@@ -404,12 +658,36 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Corridors 
 [09 Maputo - Gaborone - Walvis Bay](#C9)
 
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
+
 [Country overview](#countries) | [Back to the top](#top)
 
 ## Namibia <a name="NA"></a>
 
 ### Related Corridors 
 [09 Maputo - Gaborone - Walvis Bay](#C9)
+
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
 
@@ -418,6 +696,18 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Corridors 
 [04 Cotonou - Niamey](#C4)
 
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
+
 [Country overview](#countries) | [Back to the top](#top)
 
 ## Nigeria <a name="NG"></a>
@@ -425,12 +715,34 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Corridors 
 [01 Abidjan - Lagos](#C1)
 
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
+
 [Country overview](#countries) | [Back to the top](#top)
 
 ## Rwanda <a name="RW"></a>
 
 ### Related Corridors 
-[08 Mombasa - Kisangani](#C8)
+[08 Mombasa - Kisangani](#C8) | [Central Corridor](#central)
+
+### Trade volumes
+
+### Road network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
 
@@ -439,12 +751,36 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Corridors 
 [05 Libreville/Kribi/Douala - N'djamena](#C5)
 
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
+
 [Country overview](#countries) | [Back to the top](#top)
 
 ## Senegal <a name="SN"></a>
 
 ### Related Corridors 
 [03 Praia/Dakar - Abidjan](#C3)
+
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
 
@@ -453,12 +789,34 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Corridors 
 [03 Praia/Dakar - Abidjan](#C3)
 
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
+
 [Country overview](#countries) | [Back to the top](#top)
 
 ## Somalia <a name="SO"></a>
 
 ### Related Corridors 
 [07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7)
+
+### Trade volumes
+
+### Road network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
 
@@ -467,12 +825,41 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Corridors 
 [09 Maputo - Gaborone - Walvis Bay](#C9) | [10 Durban - Lusaka](#C10)
 
+### Trade volumes
+
+### Road network
+
+### Rail network
+System Size:	~36,000 km
+Track gauge:	1,067 mm (Gautrain rapid transit: 1,435 mm)
+Operators:	State owned "[Transnet](https://www.transnet.net/)" ([freight services](https://www.transnet.net/SubsiteRender.aspx?id=2286141)) and "[PRASA](https://www.prasa.com)(passenger transport)"
+System Map:	[NRZ](https://nrz.co.zw/network-system/)
+
+### Waterways
+
+### Fleet characteristics
+Passenger Transport
+	4,735 coaches
+### Important cities along the corridors
+
 [Country overview](#countries) | [Back to the top](#top)
 
 ## South Sudan <a name="SS"></a>
 
 ### Related Corridors 
 [11 Cairo - Khartoum - Juba - Kampala](#C11)
+
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
 
@@ -481,12 +868,36 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Corridors 
 [11 Cairo - Khartoum - Juba - Kampala](#C11)
 
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
+
 [Country overview](#countries) | [Back to the top](#top)
 
 ## Tanzania <a name="TZ"></a>
 
 ### Related Corridors 
-[07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7)
+[07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7) | [Central Corridor](#central)
+
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
 
@@ -495,12 +906,36 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Corridors 
 [01 Abidjan - Lagos](#C1)
 
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
+
 [Country overview](#countries) | [Back to the top](#top)
 
 ## Uganda <a name="UG"></a>
 
 ### Related Corridors 
-[06 Douala/Kribi - Kampala](#C6) | [08 Mombasa - Kisangani](#C8) | [11 Cairo - Khartoum - Juba - Kampala](#C11)
+[06 Douala/Kribi - Kampala](#C6) | [08 Mombasa - Kisangani](#C8) | [11 Cairo - Khartoum - Juba - Kampala](#C11) | [Central Corridor](#central)
+
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
 
@@ -509,12 +944,40 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Corridors 
 [10 Durban - Lusaka](#C10) | [12 Lobito - Kabwe](#C12)
 
+### Trade volumes
+
+### Road network
+
+### Rail network
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
+
 [Country overview](#countries) | [Back to the top](#top)
 
 ## Zimbabwe <a name="ZW"></a>
 
 ### Related Corridors 
 [10 Durban - Lusaka](#C10)
+
+### Trade volumes
+
+### Road network
+
+### Rail network
+System Size:	2,760 km
+Track gauge:	1,067 mm
+Operator:	State owned "[National Railways of Zimbabwe](https://nrz.co.zw/)" (NRZ)
+System Map:	[NRZ](https://nrz.co.zw/network-system/)
+
+### Waterways
+
+### Fleet characteristics
+
+### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
 
@@ -534,4 +997,4 @@ For more information about our work, please refer to:
 		
 Compiled by / Contact:
 - Niklas Matern: niklas.matern@giz.de
-- (as of February 2025)
+- (as of April 2025)
