@@ -969,6 +969,7 @@ Passenger Transport
 
 ### Rail network
 
+| bla | bla |
 | --- | --- |
 | System Size: | 2,760 km |
 | Track gauge: | 1,067 mm |
