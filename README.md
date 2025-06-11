@@ -829,7 +829,8 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 
 ### Road network
 
-| ### Rail network | |
+### Rail network
+| Network profile | |
 | --- | --- |
 | System Size: | ~36,000 km |
 | Track gauge: | 1,067 mm (Gautrain rapid transit: 1,435 mm) |
@@ -969,10 +970,13 @@ Passenger Transport
 ### Road network
 
 ### Rail network
-System Size: 2,760 km\
-Track gauge: 1,067 mm\
-Operator: State owned "[National Railways of Zimbabwe](https://nrz.co.zw/)" (NRZ)\
-System Map: [NRZ](https://nrz.co.zw/network-system/)\
+|Network profile| |
+| --- | --- |
+|System Size:|2,760 km|
+|Track gauge:|1,067 mm|
+|Operator:|State owned "[National Railways of Zimbabwe](https://nrz.co.zw/)" (NRZ)|
+|System Map:|[NRZ](https://nrz.co.zw/network-system/)|
+
 
 ### Waterways
 
