@@ -1,5 +1,5 @@
 # Global Gateway corridors in Africa 
-Plans, data and other documents on transport regarding the Global Gateway corridors in Africa.
+Plans, data and other documents on transport regarding the Global Gateway corridors in Africa.\
 [Here](https://international-partnerships.ec.europa.eu/publications-library/eu-africa-global-gateway-investment-package-strategic-corridors_en) you may find an brief overview of the Strategic Corridors to be developed within the scope of the EU-Africa Global Gateway Investment Package publicated by the EU in 2023. 
 
 <b> 
@@ -226,7 +226,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 - [Zambia](#ZM)<a name="Z"></a>
 - [Zimbabwe](#ZW)
 
-## Angola <a name="AO"></a>
+<a name="AO"></a>## Angola
 
 ### Related Corridors
 [12 Lobito - Kabwe](#C12)
