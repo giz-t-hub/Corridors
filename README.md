@@ -368,7 +368,7 @@ Angola has three independent railway lines:
 | Network profile | |
 | ---             | --- |
 | System Size:    | 622 km |
-| Track gauge:    | 1.000 mm |
+| Track gauge:    | 1,000 mm |
 | Operator:       | SITARAIL (subsidiary of [AGL](https://www.aglgroup.com/en/transport-logistics-africa/burkina-faso/)) |
 <!-- | System Map:     | []() | -->
 
@@ -432,8 +432,8 @@ Angola has three independent railway lines:
 ### Rail network
 | Network profile | |
 | ---             | --- |
-| System Size:    | ~1.000 km |
-| Track gauge:    | 1.000 mm |
+| System Size:    | ~1,000 km |
+| Track gauge:    | 1,000 mm |
 | Operator:      | [CAMRAIL](https://camrail.cm/en) (subsidiary of [AGL](https://www.aglgroup.com/en/transport-logistics-africa/cameroon/)) |
 <!-- | System Map:     | []() | -->
 
@@ -493,7 +493,7 @@ Angola has three independent railway lines:
 | Network profile | |
 | ---             | --- |
 | System Size:    | 660 km |
-| Track gauge:    | 1.000 mm |
+| Track gauge:    | 1,000 mm |
 | Operators:      | subsidiary of [AGL](https://www.aglgroup.com/en/transport-logistics-africa/ivory-coast/) |
 <!-- | System Map:     | []() | -->
 
@@ -518,8 +518,8 @@ Angola has three independent railway lines:
 ### Rail network
 | Network profile | |
 | ---             | --- |
-| System Size:    | 3.641 km |
-| Track gauge:    | 1.067 mm |
+| System Size:    | 3,641 km |
+| Track gauge:    | 1,067 mm |
 | Operators:      | state owned "[Société nationale des Chemins de fer du Congo](https://www.snccsa.com/)"(SNCC) |
 | System Map:     | [SNCC](https://www.snccsa.com/qui-sommes-nous/) |
 
@@ -544,11 +544,16 @@ Angola has three independent railway lines:
 ### Rail network
 | Network profile | |
 | ---             | --- |
-| System Size:    |  km |
-| Track gauge:    |  mm |
-| Operators:      |  |
-| System Map:     | []() |
-
+| System Size:    | 93 km |
+| Track gauge:    | 1,435 mm |
+| Operators:      | state-owned Ethio-Djibouti Standard Gauge Rail Transport S.C. (25% Djibouti, 75% Ethiopia) |
+<!-- | System Map:     | []() | -->
+<details>
+<summary>Details on the Djibouti railway lines</summary>
+	
+The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-djibouti-railway/) was constructed in cooperation with Djibouti to connect lanlocked Ethiopia's capital Addis Ababa to the port of Djibouti. It is operated by the bi-national company "Ethio-Djibouti Standard Gauge Rail Transport S.C." (25% Djibouti, 75% Ethiopia). The line was finished in 2017 and is fully electrified.
+	
+</details>
 
 ### Waterways
 
@@ -570,11 +575,16 @@ Angola has three independent railway lines:
 ### Rail network
 | Network profile | |
 | ---             | --- |
-| System Size:    |  km |
-| Track gauge:    |  mm |
-| Operators:      |  |
-| System Map:     | []() |
-
+| System Size:    | 5,625 km |
+| Track gauge:    | 1,435 mm |
+| Operator:       | state-owned Egyptian Railway Authority |
+<!-- | System Map:     | []() | -->
+<details>
+<summary>Details on the Egyptian railway lines</summary>
+	
+Overview of the [Egyptian National Railways stations](https://egytrains.com/)
+	
+</details>
 
 ### Waterways
 
@@ -613,10 +623,10 @@ Angola has three independent railway lines:
 ### Rail network
 | Network profile | |
 | ---             | --- |
-| System Size:    |  km |
-| Track gauge:    |  mm |
-| Operators:      |  |
-| System Map:     | []() |
+| System Size:    | 310 km |
+| Track gauge:    | 1,067 mm |
+| Operators:      | state-owned [Eswatini Railways](https://eswatinirail.co.sz/) (ESR)<br> no passenger transport |
+| System Map:     | [ESR](https://eswatinirail.co.sz/about/eswatini-rail-network/) |
 
 ### Waterways
 
@@ -638,10 +648,16 @@ Angola has three independent railway lines:
 ### Rail network
 | Network profile | |
 | ---             | --- |
-| System Size:    |  km |
-| Track gauge:    |  mm |
-| Operators:      |  |
-| System Map:     | []() |
+| System Size:    | 1,401 km |
+| Track gauge:    | 1,435 mm |
+| Operators:      | state-owned [Ethiopian Railway Corporation](https://erc.gov.et/) (ERC) |
+<!-- | System Map:     | []() | -->
+<details>
+<summary>Details on the Ethiopian railway lines</summary>
+	
+The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-djibouti-railway/) was constructed in cooperation with Djibouti to connect lanlocked Ethiopia's capital Addis Ababa to the port of Djibouti. It is operated by the bi-national company "Ethio-Djibouti Standard Gauge Rail Transport S.C." (75% Ethiopia, 25% Djibouti) and is one of three lines constituting the **National Railway Network of Ethiopia**. The line was finished in 2017 and is fully electrified. 
+	
+</details>
 
 ### Waterways
 
