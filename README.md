@@ -163,21 +163,31 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 <a name="C12"></a>
 ## 12. Lobito - Kabwe 
 [Map view](https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-12.407898590191781%2C21.12538794999999&z=7)
-
-### Related Countries
-[Angola](#AO), [Democratic Republic of the Congo](#CD), [Zambia](#ZM)
-
-<details>
-<summary>Important cities along the corridor</summary>
-	
-<details>
+<details><!-- I -->
+<summary>Related countries and important cities along the corridor</summary>
+<br>	
+<details><!-- II -->
 <summary>Angola</summary>
-	
+
+[Country page](#AO)
 - [Benguela](#benguela)
 
-</details>
+</details><!-- II -->
+<details><!-- III -->
+<summary>Democratic Republic of the Congo</summary>
 
-</details>
+[Country page](#CD)
+
+</details><!-- III -->
+<details><!-- IV -->
+<summary>Democratic Republic of the Congo</summary>
+
+[Country page](#ZM)
+
+</details><!-- IV -->
+</details><!-- I -->
+
+
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
@@ -319,7 +329,7 @@ Angola has three independent railway lines:
 | ---             | --- |
 | System Size:    | 886 km |
 | Track gauge:    | 1,067 mm |
-| Operators:      | state owned "[Botswana Railways](https://www.botswanarailways.co.bw/)" (BR)<br> Passenger service is currently [suspended](https://www.botswanarailways.co.bw/passenger). |
+| Operators:      | state owned "[Botswana Railways](https://www.botswanarailways.co.bw/)" (BR)<br> passenger service is currently [suspended](https://www.botswanarailways.co.bw/passenger) |
 | System Map:     | [BR](https://www.botswanarailways.co.bw/railway-network-map-diagram) |
 
 ***Dry Ports***:
@@ -357,10 +367,10 @@ Angola has three independent railway lines:
 ### Rail network
 | Network profile | |
 | ---             | --- |
-| System Size:    |  km |
-| Track gauge:    |  mm |
-| Operators:      |  |
-| System Map:     | []() |
+| System Size:    | 622 km |
+| Track gauge:    | 1.000 mm |
+| Operator:       | SITARAIL (subsidiary to the [AGL Group](https://www.aglgroup.com/en/transport-logistics-africa/burkina-faso/)) |
+<!-- | System Map:     | []() | -->
 
 
 ### Waterways
