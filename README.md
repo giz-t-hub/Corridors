@@ -369,7 +369,7 @@ Angola has three independent railway lines:
 | ---             | --- |
 | System Size:    | 622 km |
 | Track gauge:    | 1.000 mm |
-| Operator:       | SITARAIL (subsidiary to the [AGL Group](https://www.aglgroup.com/en/transport-logistics-africa/burkina-faso/)) |
+| Operator:       | SITARAIL (subsidiary of [AGL](https://www.aglgroup.com/en/transport-logistics-africa/burkina-faso/)) |
 <!-- | System Map:     | []() | -->
 
 
@@ -411,15 +411,6 @@ Angola has three independent railway lines:
 
 ### Road network
 
-### Rail network
-| Network profile | |
-| ---             | --- |
-| System Size:    |  km |
-| Track gauge:    |  mm |
-| Operators:      |  |
-| System Map:     | []() |
-
-
 ### Waterways
 
 ### Fleet characteristics
@@ -441,10 +432,10 @@ Angola has three independent railway lines:
 ### Rail network
 | Network profile | |
 | ---             | --- |
-| System Size:    |  km |
-| Track gauge:    |  mm |
-| Operators:      |  |
-| System Map:     | []() |
+| System Size:    | ~1.000 km |
+| Track gauge:    | 1.000 mm |
+| Operator:      | [CAMRAIL](https://camrail.cm/en) (subsidiary of [AGL](https://www.aglgroup.com/en/transport-logistics-africa/cameroon/)) |
+<!-- | System Map:     | []() | -->
 
 
 ### Waterways
@@ -481,15 +472,6 @@ Angola has three independent railway lines:
 
 ### Road network
 
-### Rail network
-| Network profile | |
-| ---             | --- |
-| System Size:    |  km |
-| Track gauge:    |  mm |
-| Operators:      |  |
-| System Map:     | []() |
-
-
 ### Waterways
 
 ### Fleet characteristics
@@ -510,10 +492,10 @@ Angola has three independent railway lines:
 ### Rail network
 | Network profile | |
 | ---             | --- |
-| System Size:    |  km |
-| Track gauge:    |  mm |
-| Operators:      |  |
-| System Map:     | []() |
+| System Size:    | 660 km |
+| Track gauge:    | 1.000 mm |
+| Operators:      | subsidiary of [AGL](https://www.aglgroup.com/en/transport-logistics-africa/ivory-coast/) |
+<!-- | System Map:     | []() | -->
 
 
 ### Waterways
@@ -536,10 +518,10 @@ Angola has three independent railway lines:
 ### Rail network
 | Network profile | |
 | ---             | --- |
-| System Size:    |  km |
-| Track gauge:    |  mm |
-| Operators:      |  |
-| System Map:     | []() |
+| System Size:    | 3.641 km |
+| Track gauge:    | 1.067 mm |
+| Operators:      | state owned "[Société nationale des Chemins de fer du Congo](https://www.snccsa.com/)"(SNCC) |
+| System Map:     | [SNCC](https://www.snccsa.com/qui-sommes-nous/) |
 
 
 ### Waterways
