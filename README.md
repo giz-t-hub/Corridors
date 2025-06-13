@@ -1573,7 +1573,7 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 - Capital of Senegal
 
 
-</details>
+</details><!-- dakar -->
 
 [Country overview](#countries) | [Back to the top](#top)
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
@@ -1742,21 +1742,21 @@ The single railway line connects Wau to Sudan.
 <summary>Khartoum</summary>
 - Capital of Sudan
 
-</details>
+</details><!-- khartoum -->
 <a name="port_sudan"></a>
 <details><!-- port_sudan -->
 <summary>Port Sudan</summary>
 - Sudan's largest sea port
 
 
-</details>
+</details><!-- port_sudan -->
 <a name="wadi_halfa"></a>
 <details><!-- wadi_halfa -->
 <summary>Wadi Halfa</summary>
 
 
 
-</details>
+</details><!-- wadi_halfa -->
 
 
 [Country overview](#countries) | [Back to the top](#top)
@@ -1764,27 +1764,50 @@ The single railway line connects Wau to Sudan.
 <a name="TZ"></a>
 ## Tanzania 
 
+<a name="TZ_corridors"></a>
 ### Related Corridors 
 [07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7) | [Central Corridor](#central)
 
+<a name="TZ_trade"></a>
 ### Trade volumes
 
+<a name="TZ_road"></a>
 ### Road network
 
+<a name="TZ_railway"></a>
 ### Rail network
 | Network profile | |
 | ---             | --- |
-| System Size:    |  km |
-| Track gauge:    |  mm |
-| Operators:      |  |
-| System Map:     | []() |
+| System Size:    | ~3,600 km |
+| Track gauge:    | 1,000 mm (~2,600 km)<br> 1,067 mm (~1,000 km) |
+| Operators:      | state-owned [Tanzania Railways Corporation](https://www.trc.co.tz/) (TRC)<br> state-owned [Tanzania-Zambia Railway Authority](https://tazarasite.com/) (TAZARA) |
+| System Map:     | [TRC](https://www.trc.co.tz/site/files/trl-routes.pdf) (PDF) |
 
+***Dry port***
+- [Isaka Dry Port](https://www.trc.co.tz/pages/dry-ports)
 
+<a name="TZ_waterway"></a>
 ### Waterways
 
+<a name="TZ_fleet"></a>
 ### Fleet characteristics
 
+<a name="TZ_cities"></a>
 ### Important cities along the corridors
+
+<a name="dar_es_salaam"></a>
+<details><!-- dar_es_salaam -->
+<summary>Dar es Salaam</summary>
+- Capital of Tanzania
+
+</details><!-- dar_es_salaam -->
+<a name="isaka"></a>
+<details><!-- isaka -->
+<summary>Isaka</summary>
+- Tanzanias's only(?) dry port
+
+
+</details><!-- isaka -->
 
 [Country overview](#countries) | [Back to the top](#top)
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
