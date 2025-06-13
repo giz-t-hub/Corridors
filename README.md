@@ -698,27 +698,36 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#TZ_corridors)
+	- [Trade volumes](#TZ_trade)
+	- [Road network](#TZ_road)
+	- [Railway network](#TZ_railway)
+	- [Waterways](#TZ_waterway)
+	- [Fleet characteristics](#TZ_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
 
+	  	- [Dar es Salaam](#dar_es_salaam)
+		- [Isaka](#isaka)
+
+	  	</details>
   </details>
 - [Togo](#TG)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#TG_corridors)
+	- [Trade volumes](#TG_trade)
+	- [Road network](#TG_road)
+	- [Railway network](#TG_railway)
+	- [Waterways](#TG_waterway)
+	- [Fleet characteristics](#TG_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
 
+	  	- [Lomé](#lome)
+		
+	  	</details>
   </details>
 <a name="U"></a>
 - [Uganda](#UG)
@@ -1725,7 +1734,7 @@ The single railway line connects Wau to Sudan.
 | System Size:    | ~6,000 km |
 | Track gauge:    | 1,067 mm |
 | Operators:      | state-owned [Sudan Railways Corporation](https://www.sudanrailways.gov.sd/) (SRC) |
-| System Map:     | []() |
+<!-- | System Map:     | []() | -->
 
 
 <a name="SD_waterway"></a>
@@ -1814,27 +1823,41 @@ The single railway line connects Wau to Sudan.
 <a name="TG"></a>
 ## Togo 
 
+<a name="TG_corridors"></a>
 ### Related Corridors 
 [01 Abidjan - Lagos](#C1)
 
+<a name="TG_trade"></a>
 ### Trade volumes
 
+<a name="TG_road"></a>
 ### Road network
 
+<a name="TG_railway"></a>
 ### Rail network
 | Network profile | |
 | ---             | --- |
-| System Size:    |  km |
-| Track gauge:    |  mm |
-| Operators:      |  |
-| System Map:     | []() |
+| System Size:    | 568 km |
+| Track gauge:    | 1,000 mm |
+| Operators:      | none |
+<!-- | System Map:     | []() | -->
 
 
+<a name="TG_waterway"></a>
 ### Waterways
 
+<a name="TG_fleet"></a>
 ### Fleet characteristics
 
+<a name="TG_cities"></a>
 ### Important cities along the corridors
+
+<a name="lome"></a>
+<details><!-- lome -->
+<summary>Lomé</summary>
+- Capital of Togo
+
+</details><!-- lome -->
 
 [Country overview](#countries) | [Back to the top](#top)
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
