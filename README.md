@@ -205,8 +205,8 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 
 
 ## List of Countries
-[A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [G](#G) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [Z](#Z)
-<a name="A"></a>
+[A](#List-of-Countries_A) | [B](#List-of-Countries_B) | [C](#List-of-Countries_C) | [D](#List-of-Countries_D) | [E](#List-of-Countries_E) | [G](#List-of-Countries_G) | [K](#List-of-Countries_K) | [L](#List-of-Countries_L) | [M](#List-of-Countries_M) | [N](#List-of-Countries_N) | [R](#List-of-Countries_R) | [S](#List-of-Countries_S) | [T](#List-of-Countries_T) | [U](#List-of-Countries_U) | [Z](#List-of-Countries_Z)
+<a name="List-of-Countries_A"></a>
 - [Angola](#AO)<br>
   <details>
   <summary>Quick links</summary>
@@ -225,17 +225,17 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	  	</details>
 
   </details>
-<a name="B"></a>
+<a name="List-of-Countries_B"></a>
 - [Benin](#BJ)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
+	- [Related corridors](#BJ_corridors)
+	- [Trade volumes](#BJ_trade)
+	- [Road network](#BJ_road)
+	- [Railway network](#BJ_railway)
+	- [Waterways](#BJ_waterway)
+	- [Fleet characteristics](#BJ_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
 
@@ -248,361 +248,493 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#BW_corridors)
+	- [Trade volumes](#BW_trade)
+	- [Road network](#BW_road)
+	- [Railway network](#BW_railway)
+	- [Waterways](#BW_waterway)
+	- [Fleet characteristics](#BW_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
 - [Burkina-Faso](#BF)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#BF_corridors)
+	- [Trade volumes](#BF_trade)
+	- [Road network](#BF_road)
+	- [Railway network](#BF_railway)
+	- [Waterways](#BF_waterway)
+	- [Fleet characteristics](#BF_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
 - [Burundi](#BI)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#BI_corridors)
+	- [Trade volumes](#BI_trade)
+	- [Road network](#BI_road)
+	- [Railway network](#BI_railway)
+	- [Waterways](#BI_waterway)
+	- [Fleet characteristics](#BI_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
-<a name="C"></a>
+<a name="List-of-Countries_C"></a>
 - [Cabo Verde](#CV)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#CV_corridors)
+	- [Trade volumes](#CV_trade)
+	- [Road network](#CV_road)
+	- [Railway network](#CV_railway)
+	- [Waterways](#CV_waterway)
+	- [Fleet characteristics](#CV_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
 - [Cameroon](#CM)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#CM_corridors)
+	- [Trade volumes](#CM_trade)
+	- [Road network](#CM_road)
+	- [Railway network](#CM_railway)
+	- [Waterways](#CM_waterway)
+	- [Fleet characteristics](#CM_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
 - [Central African Republic](#CF)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#CF_corridors)
+	- [Trade volumes](#CF_trade)
+	- [Road network](#CF_road)
+	- [Railway network](#CF_railway)
+	- [Waterways](#CF_waterway)
+	- [Fleet characteristics](#CF_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
 - [Chad](#TD)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#TD_corridors)
+	- [Trade volumes](#TD_trade)
+	- [Road network](#TD_road)
+	- [Railway network](#TD_railway)
+	- [Waterways](#TD_waterway)
+	- [Fleet characteristics](#TD_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
 - [Côte d'Ivoire](#CI)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#CI_corridors)
+	- [Trade volumes](#CI_trade)
+	- [Road network](#CI_road)
+	- [Railway network](#CI_railway)
+	- [Waterways](#CI_waterway)
+	- [Fleet characteristics](#CI_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
-<a name="D"></a>
+<a name="List-of-Countries_D"></a>
 - [Democratic Republic of the Congo](#CD)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#CD_corridors)
+	- [Trade volumes](#CD_trade)
+	- [Road network](#CD_road)
+	- [Railway network](#CD_railway)
+	- [Waterways](#CD_waterway)
+	- [Fleet characteristics](#CD_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
 - [Djibouti](#DJ)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#DJ_corridors)
+	- [Trade volumes](#DJ_trade)
+	- [Road network](#DJ_road)
+	- [Railway network](#DJ_railway)
+	- [Waterways](#DJ_waterway)
+	- [Fleet characteristics](#DJ_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
-<a name="E"></a>
+<a name="List-of-Countries_E"></a>
 - [Egypt](#EG)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#EG_corridors)
+	- [Trade volumes](#EG_trade)
+	- [Road network](#EG_road)
+	- [Railway network](#EG_railway)
+	- [Waterways](#EG_waterway)
+	- [Fleet characteristics](#EG_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
 - [Equatorial Guinea](#GQ)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#GO_corridors)
+	- [Trade volumes](#GO_trade)
+	- [Road network](#GO_road)
+	- [Railway network](#GO_railway)
+	- [Waterways](#GO_waterway)
+	- [Fleet characteristics](#GO_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
 - [Eswatini](#SZ)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#SZ_corridors)
+	- [Trade volumes](#SZ_trade)
+	- [Road network](#SZ_road)
+	- [Railway network](#SZ_railway)
+	- [Waterways](#SZ_waterway)
+	- [Fleet characteristics](#SZ_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
 - [Ethiopia](#ET)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#ET_corridors)
+	- [Trade volumes](#ET_trade)
+	- [Road network](#ET_road)
+	- [Railway network](#ET_railway)
+	- [Waterways](#ET_waterway)
+	- [Fleet characteristics](#ET_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
 
+	  	- [](#)
+
+	  	</details>
   </details>
-<a name="G"></a>
+<a name="List-of-Countries_G"></a>
 - [Gabon](#GA)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#GA_corridors)
+	- [Trade volumes](#GA_trade)
+	- [Road network](#GA_road)
+	- [Railway network](#GA_railway)
+	- [Waterways](#GA_waterway)
+	- [Fleet characteristics](#GA_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
 - [Gambia](#GM)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#GM_corridors)
+	- [Trade volumes](#GM_trade)
+	- [Road network](#GM_road)
+	- [Railway network](#GM_railway)
+	- [Waterways](#GM_waterway)
+	- [Fleet characteristics](#GM_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
 - [Ghana](#GH)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#GH_corridors)
+	- [Trade volumes](#GH_trade)
+	- [Road network](#GH_road)
+	- [Railway network](#GH_railway)
+	- [Waterways](#GH_waterway)
+	- [Fleet characteristics](#GH_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
 - [Guinea](#GN)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#GN_corridors)
+	- [Trade volumes](#GN_trade)
+	- [Road network](#GN_road)
+	- [Railway network](#GN_railway)
+	- [Waterways](#GN_waterway)
+	- [Fleet characteristics](#GN_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
 - [Guinea-Bissau](#GW)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#GW_corridors)
+	- [Trade volumes](#GW_trade)
+	- [Road network](#GW_road)
+	- [Railway network](#GW_railway)
+	- [Waterways](#GW_waterway)
+	- [Fleet characteristics](#GW_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
-<a name="K"></a>
+<a name="List-of-Countries_K"></a>
 - [Kenya](#KE)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#KE_corridors)
+	- [Trade volumes](#KE_trade)
+	- [Road network](#KE_road)
+	- [Railway network](#KE_railway)
+	- [Waterways](#KE_waterway)
+	- [Fleet characteristics](#KE_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
 
+	  	- [](#)
+
+	  	</details>
   </details>
-<a name="L"></a>
+<a name="List-of-Countries_L"></a>
 - [Liberia](#LR)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#LR_corridors)
+	- [Trade volumes](#LR_trade)
+	- [Road network](#LR_road)
+	- [Railway network](#LR_railway)
+	- [Waterways](#LR_waterway)
+	- [Fleet characteristics](#LR_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
-<a name="M"></a>
+<a name="List-of-Countries_M"></a>
 - [Mozambique](#MZ)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#MZ_corridors)
+	- [Trade volumes](#MZ_trade)
+	- [Road network](#MZ_road)
+	- [Railway network](#MZ_railway)
+	- [Waterways](#MZ_waterway)
+	- [Fleet characteristics](#MZ_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
-<a name="N"></a>
+<a name="List-of-Countries_N"></a>
 - [Namibia](#NA)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#NA_corridors)
+	- [Trade volumes](#NA_trade)
+	- [Road network](#NA_road)
+	- [Railway network](#NA_railway)
+	- [Waterways](#NA_waterway)
+	- [Fleet characteristics](#NA_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
 
+	  	- [](#)
+
+	  	</details>
   </details>
 - [Niger](#NE)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#NE_corridors)
+	- [Trade volumes](#NE_trade)
+	- [Road network](#NE_road)
+	- [Railway network](#NE_railway)
+	- [Waterways](#NE_waterway)
+	- [Fleet characteristics](#NE_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
 - [Nigeria](#NG)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#NG_corridors)
+	- [Trade volumes](#NG_trade)
+	- [Road network](#NG_road)
+	- [Railway network](#NG_railway)
+	- [Waterways](#NG_waterway)
+	- [Fleet characteristics](#NG_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
-<a name="R"></a>
+<a name="List-of-Countries_R"></a>
 - [Rwanda](#RW)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#RW_corridors)
+	- [Trade volumes](#RW_trade)
+	- [Road network](#RW_road)
+	- [Railway network](#RW_railway)
+	- [Waterways](#RW_waterway)
+	- [Fleet characteristics](#RW_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
-<a name="S"></a>
+<a name="List-of-Countries_S"></a>
 - [São Tomé and Príncipe](#ST)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#ST_corridors)
+	- [Trade volumes](#ST_trade)
+	- [Road network](#ST_road)
+	- [Railway network](#ST_railway)
+	- [Waterways](#ST_waterway)
+	- [Fleet characteristics](#ST_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
 - [Senegal](#SN)
@@ -626,53 +758,72 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#SL_corridors)
+	- [Trade volumes](#SL_trade)
+	- [Road network](#SL_road)
+	- [Railway network](#SL_railway)
+	- [Waterways](#SL_waterway)
+	- [Fleet characteristics](#SL_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
 - [Somalia](#SO)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#SO_corridors)
+	- [Trade volumes](#SO_trade)
+	- [Road network](#SO_road)
+	- [Railway network](#SO_railway)
+	- [Waterways](#SO_waterway)
+	- [Fleet characteristics](#SO_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
 - [South Africa](#ZA)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#ZA_corridors)
+	- [Trade volumes](#ZA_trade)
+	- [Road network](#ZA_road)
+	- [Railway network](#ZA_railway)
+	- [Waterways](#ZA_waterway)
+	- [Fleet characteristics](#ZA_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
 - [South Sudan](#SS)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#SS_corridors)
+	- [Trade volumes](#SS_trade)
+	- [Road network](#SS_road)
+	- [Railway network](#SS_railway)
+	- [Waterways](#SS_waterway)
+	- [Fleet characteristics](#SS_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
 
+	  	- [](#)
+
+	  	</details>
   </details>
 - [Sudan](#SD)
   <details>
@@ -693,7 +844,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 
 	  	</details>
   </details>
-<a name="T"></a>
+<a name="List-of-Countries_T"></a>
 - [Tanzania](#TZ)
   <details>
   <summary>Quick links</summary>
@@ -729,45 +880,60 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 		
 	  	</details>
   </details>
-<a name="U"></a>
+<a name="List-of-Countries_U"></a>
 - [Uganda](#UG)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#UG_corridors)
+	- [Trade volumes](#UG_trade)
+	- [Road network](#UG_road)
+	- [Railway network](#UG_railway)
+	- [Waterways](#UG_waterway)
+	- [Fleet characteristics](#UG_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
-<a name="Z"></a>
+<a name="List-of-Countries_Z"></a>
 - [Zambia](#ZM)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#ZM_corridors)
+	- [Trade volumes](#ZM_trade)
+	- [Road network](#ZM_road)
+	- [Railway network](#ZM_railway)
+	- [Waterways](#ZM_waterway)
+	- [Fleet characteristics](#ZM_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
 - [Zimbabwe](#ZW)
   <details>
   <summary>Quick links</summary>
 
-	- [Related corridors](#AO_corridors)
-	- [Trade volumes](#AO_trade)
-	- [Road network](#AO_road)
-	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
-	- [Fleet characteristics](#AO_fleet)
-	- [Important cities along the corridors](#AO_cities)
+	- [Related corridors](#ZW_corridors)
+	- [Trade volumes](#ZW_trade)
+	- [Road network](#ZW_road)
+	- [Railway network](#ZW_railway)
+	- [Waterways](#ZW_waterway)
+	- [Fleet characteristics](#ZW_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 
   </details>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
@@ -821,13 +987,17 @@ Angola has three independent railway lines:
 <a name="BJ"></a>
 ## Benin 
 
+<a name="BJ_corridors"></a>
 ### Related Corridors 
 [01 Abidjan - Lagos](#C1) | [04 Cotonou - Niamey](#C4)
 
+<a name="BJ_trade"></a>
 ### Trade volumes
 
+<a name="BJ_road"></a>
 ### Road network
 
+<a name="BJ_railway"></a>
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -836,10 +1006,13 @@ Angola has three independent railway lines:
 | Operators:      | currently <ins>[none](https://de.wikipedia.org/wiki/Organisation_Commune_B%C3%A9nin-Niger_des_Chemins_de_fer_et_des_Transports)</ins> (since 2019) |
 <!-- | System Map:     | []() | -->
 
+<a name="BJ_waterway"></a>
 ### Waterways
 
+<a name="BJ_fleet"></a>
 ### Fleet characteristics
 
+<a name="BJ_cities"></a>
 ### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
@@ -847,13 +1020,17 @@ Angola has three independent railway lines:
 <a name="BW"></a>
 ## Botswana 
 
+<a name="BW_corridors"></a>
 ### Related Corridors 
 [09 Maputo - Gaborone - Walvis Bay](#C9) | [10 Durban - Lusaka](#C10)
 
+<a name="BW_trade"></a>
 ### Trade volumes
 
+<a name="BW_road"></a>
 ### Road network
 
+<a name="BW_railway"></a>
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -867,10 +1044,13 @@ Angola has three independent railway lines:
 - [Gaborone Container Terminal (GABCON)](https://www.gabcon.co.bw/)
 - [Palapye Container Terminal (PALCON)](https://www.botswanarailways.co.bw/palcon-0)
 
+<a name="BW_waterway"></a>
 ### Waterways
 
+<a name="BW_fleet"></a>
 ### Fleet characteristics
 
+<a name="BW_cities"></a>
 ### Important cities along the corridors
 
 <a name="francistown"></a>
@@ -887,13 +1067,17 @@ Angola has three independent railway lines:
 <a name="BF"></a>
 ## Burkina-Faso 
 
+<a name="BF_corridors"></a>
 ### Related Corridors 
 [02 Abidjan - Ouagadougou](#C2)
 
+<a name="BF_trade"></a>
 ### Trade volumes
 
+<a name="BF_road"></a>
 ### Road network
 
+<a name="BF_railway"></a>
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -903,10 +1087,13 @@ Angola has three independent railway lines:
 <!-- | System Map:     | []() | -->
 
 
+<a name="BF_waterway"></a>
 ### Waterways
 
+<a name="BF_fleet"></a>
 ### Fleet characteristics
 
+<a name="BF_cities"></a>
 ### Important cities along the corridors
 
 
@@ -916,17 +1103,23 @@ Angola has three independent railway lines:
 <a name="BI"></a>
 ## Burundi 
 
+<a name="BI_corridors"></a>
 ### Related Corridors 
 [Central Corridor](#central)
 
+<a name="BI_trade"></a>
 ### Trade volumes
 
+<a name="BI_road"></a>
 ### Road network
 
+<a name="BI_waterway"></a>
 ### Waterways
 
+<a name="BI_fleet"></a>
 ### Fleet characteristics
 
+<a name="BI_cities"></a>
 ### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
@@ -934,17 +1127,23 @@ Angola has three independent railway lines:
 <a name="CV"></a>
 ## Cabo Verde 
 
+<a name="CV_corridors"></a>
 ### Related Corridors 
 [03 Praia/Dakar - Abidjan](#C3)
 
+<a name="CV_trade"></a>
 ### Trade volumes
 
+<a name="CV_road"></a>
 ### Road network
 
+<a name="CV_waterway"></a>
 ### Waterways
 
+<a name="CV_fleet"></a>
 ### Fleet characteristics
 
+<a name="CV_cities"></a>
 ### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
@@ -952,13 +1151,17 @@ Angola has three independent railway lines:
 <a name="CM"></a>
 ## Cameroon 
 
+<a name="CM_corridors"></a>
 ### Related Corridors 
 [05 Libreville/Kribi/Douala - N'djamena](#C5) | [06 Douala/Kribi - Kampala](#C6)
 
+<a name="CM_trade"></a>
 ### Trade volumes
 
+<a name="CM_road"></a>
 ### Road network
 
+<a name="CM_railway"></a>
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -968,10 +1171,13 @@ Angola has three independent railway lines:
 <!-- | System Map:     | []() | -->
 
 
+<a name="CM_waterway"></a>
 ### Waterways
 
+<a name="CM_fleet"></a>
 ### Fleet characteristics
 
+<a name="CM_cities"></a>
 ### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
@@ -979,17 +1185,23 @@ Angola has three independent railway lines:
 <a name="CF"></a>
 ## Central African Republic 
 
+<a name="CF_corridors"></a>
 ### Related Corridors 
 [06 Douala/Kribi - Kampala](#C6)
 
+<a name="CF_trade"></a>
 ### Trade volumes
 
+<a name="CF_road"></a>
 ### Road network
 
+<a name="CF_waterway"></a>
 ### Waterways
 
+<a name="CF_fleet"></a>
 ### Fleet characteristics
 
+<a name="CF_cities"></a>
 ### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
@@ -997,17 +1209,23 @@ Angola has three independent railway lines:
 <a name="TD"></a>
 ## Chad 
 
+<a name="TD_corridors"></a>
 ### Related Corridors 
 [05 Libreville/Kribi/Douala - N'djamena](#C5)
 
+<a name="TD_trade"></a>
 ### Trade volumes
 
+<a name="TD_road"></a>
 ### Road network
 
+<a name="TD_waterway"></a>
 ### Waterways
 
+<a name="TD_fleet"></a>
 ### Fleet characteristics
 
+<a name="TD_cities"></a>
 ### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
@@ -1015,13 +1233,17 @@ Angola has three independent railway lines:
 <a name="CI"></a>
 ## Côte d'Ivoire 
 
+<a name="CI_corridors"></a>
 ### Related Corridors 
 [01 Abidjan - Lagos](#C1) | [02 Abidjan - Ouagadougou](#C2) | [03 Praia/Dakar - Abidjan](#C3)
 
+<a name="CI_trade"></a>
 ### Trade volumes
 
+<a name="CI_road"></a>
 ### Road network
 
+<a name="CI_railway"></a>
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -1031,10 +1253,13 @@ Angola has three independent railway lines:
 <!-- | System Map:     | []() | -->
 
 
+<a name="CI_waterway"></a>
 ### Waterways
 
+<a name="CI_fleet"></a>
 ### Fleet characteristics
 
+<a name="CI_cities"></a>
 ### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
@@ -1042,13 +1267,17 @@ Angola has three independent railway lines:
 <a name="CD"></a>
 ## Democratic Republic of the Congo 
 
+<a name="CD_corridors"></a>
 ### Related Corridors 
 [06 Douala/Kribi - Kampala](#C6) | [08 Mombasa - Kisangani](#C8) | [12 Lobito - Kabwe](#C12)
 
+<a name="CD_trade"></a>
 ### Trade volumes
 
+<a name="CD_road"></a>
 ### Road network
 
+<a name="CD_railway"></a>
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -1058,10 +1287,13 @@ Angola has three independent railway lines:
 | System Map:     | [SNCC](https://www.snccsa.com/qui-sommes-nous/) |
 
 
+<a name="CD_waterway"></a>
 ### Waterways
 
+<a name="CD_fleet"></a>
 ### Fleet characteristics
 
+<a name="CD_cities"></a>
 ### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
@@ -1069,13 +1301,17 @@ Angola has three independent railway lines:
 <a name="DJ"></a>
 ## Djibouti 
 
+<a name="DJ_corridors"></a>
 ### Related Corridors 
 [07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7)
 
+<a name="DJ_trade"></a>
 ### Trade volumes
 
+<a name="DJ_road"></a>
 ### Road network
 
+<a name="DJ_railway"></a>
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -1090,10 +1326,13 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 	
 </details>
 
+<a name="DJ_waterway"></a>
 ### Waterways
 
+<a name="DJ_fleet"></a>
 ### Fleet characteristics
 
+<a name="DJ_cities"></a>
 ### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
@@ -1101,13 +1340,17 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 <a name="EG"></a>
 ## Egypt 
 
+<a name="EG_corridors"></a>
 ### Related Corridors 
 [11 Cairo - Khartoum - Juba - Kampala](#C11)
 
+<a name="EG_trade"></a>
 ### Trade volumes
 
+<a name="EG_road"></a>
 ### Road network
 
+<a name="EG_railway"></a>
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -1122,10 +1365,13 @@ Overview of the [Egyptian National Railways stations](https://egytrains.com/)
 	
 </details>
 
+<a name="EG_waterway"></a>
 ### Waterways
 
+<a name="EG_fleet"></a>
 ### Fleet characteristics
 
+<a name="EG_cities"></a>
 ### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
@@ -1133,15 +1379,20 @@ Overview of the [Egyptian National Railways stations](https://egytrains.com/)
 <a name="GQ"></a>
 ## Equatorial Guinea 
 
+<a name="GQ_corridors"></a>
 ### Related Corridors 
 [05 Libreville/Kribi/Douala - N'djamena](#C5)
 
+<a name="GQ_trade"></a>
 ### Trade volumes
 
+<a name="GQ_road"></a>
 ### Road network
 
+<a name="GQ_waterway"></a>
 ### Waterways
 
+<a name="GQ_cities"></a>
 ### Fleet characteristics
 
 ### Important cities along the corridors
@@ -1151,13 +1402,17 @@ Overview of the [Egyptian National Railways stations](https://egytrains.com/)
 <a name="SZ"></a>
 ## Eswatini 
 
+<a name="SZ_corridors"></a>
 ### Related Corridors 
 [09 Maputo - Gaborone - Walvis Bay](#C9)
 
+<a name="SZ_trade"></a>
 ### Trade volumes
 
+<a name="SZ_road"></a>
 ### Road network
 
+<a name="SZ_railway"></a>
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -1166,10 +1421,13 @@ Overview of the [Egyptian National Railways stations](https://egytrains.com/)
 | Operator:      | state-owned [Eswatini Railways](https://eswatinirail.co.sz/) (ESR)<br> no passenger transport |
 | System Map:     | [ESR](https://eswatinirail.co.sz/about/eswatini-rail-network/) |
 
+<a name="SZ_waterway"></a>
 ### Waterways
 
+<a name="SZ_fleet"></a>
 ### Fleet characteristics
 
+<a name="SZ_cities"></a>
 ### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
@@ -1177,13 +1435,17 @@ Overview of the [Egyptian National Railways stations](https://egytrains.com/)
 <a name="ET"></a>
 ## Ethiopia 
 
+<a name="ET_corridors"></a>
 ### Related Corridors 
 [07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7)
 
+<a name="ET_trade"></a>
 ### Trade volumes
 
+<a name="ET_road"></a>
 ### Road network
 
+<a name="ET_railway"></a>
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -1198,10 +1460,13 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 	
 </details>
 
+<a name="ET_waterway"></a>
 ### Waterways
 
+<a name="ET_fleet"></a>
 ### Fleet characteristics
 
+<a name="ET_cities"></a>
 ### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
@@ -1209,13 +1474,17 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 <a name="GA"></a>
 ## Gabon 
 
+<a name="GA_corridors"></a>
 ### Related Corridors 
 [05 Libreville/Kribi/Douala - N'djamena](#C5)
 
+<a name="GA_trade"></a>
 ### Trade volumes
 
+<a name="GA_road"></a>
 ### Road network
 
+<a name="GA_railway"></a>
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -1224,10 +1493,13 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 | Operator:       | partly state-owned [Sociéte d’Exploitation du Transgabonais](https://setrag.ga/) (Setrag) |
 | System Map:     | [Setrag](https://setrag.ga/) |
 
+<a name="GA_waterway"></a>
 ### Waterways
 
+<a name="GA_fleet"></a>
 ### Fleet characteristics
 
+<a name="GA_cities"></a>
 ### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
@@ -1235,17 +1507,23 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 <a name="GM"></a>
 ## Gambia 
 
+<a name="GM_corridors"></a>
 ### Related Corridors 
 [03 Praia/Dakar - Abidjan](#C3)
 
+<a name="GM_trade"></a>
 ### Trade volumes
 
+<a name="GM_road"></a>
 ### Road network
 
+<a name="GM_waterway"></a>
 ### Waterways
 
+<a name="GM_fleet"></a>
 ### Fleet characteristics
 
+<a name="GM_cities"></a>
 ### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
@@ -1254,13 +1532,17 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 <a name="GH"></a>
 ## Ghana 
 
+<a name="GH_corridors"></a>
 ### Related Corridors 
 [01 Abidjan - Lagos](#C1)
 
+<a name="GH_trade"></a>
 ### Trade volumes
 
+<a name="GH_road"></a>
 ### Road network
 
+<a name="GH_railway"></a>
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -1274,12 +1556,15 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 	- "Promote the development of Railways and Railways service, hold, administer and improve Railway Assets"
  	- "Promote the development and management of suburban railway"
 
+<a name="GH_waterway"></a>
 ### Waterways
 
 [Ghana Ports and Harbours Authority](https://www.ghanaports.gov.gh/) (GPHA)
 
+<a name="GH_fleet"></a>
 ### Fleet characteristics
 
+<a name="GH_cities"></a>
 ### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
@@ -1287,13 +1572,17 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 <a name="GN"></a>
 ## Guinea 
 
+<a name="GN_corridors"></a>
 ### Related Corridors 
 [03 Praia/Dakar - Abidjan](#C3)
 
+<a name="GN_trade"></a>
 ### Trade volumes
 
+<a name="GN_road"></a>
 ### Road network
 
+<a name="GN_railway"></a>
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -1318,10 +1607,13 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 
 </details>
 
+<a name="GN_waterway"></a>
 ### Waterways
 
+<a name="GN_fleet"></a>
 ### Fleet characteristics
 
+<a name="GN_cities"></a>
 ### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
@@ -1330,17 +1622,23 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 <a name="GW"></a>
 ## Guinea-Bissau 
 
+<a name="GW_corridors"></a>
 ### Related Corridors 
 [03 Praia/Dakar - Abidjan](#C3)
 
+<a name="GW_trade"></a>
 ### Trade volumes
 
+<a name="GW_road"></a>
 ### Road network
 
+<a name="GW_waterway"></a>
 ### Waterways
 
+<a name="GW_fleet"></a>
 ### Fleet characteristics
 
+<a name="GW_cities"></a>
 ### Important cities along the corridors
 
 [Country overview](#countries) | [Back to the top](#top)
