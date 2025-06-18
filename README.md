@@ -195,8 +195,48 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ## Central Corridor 
 [Map view](https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-4.4338554114748785%2C34.07183650000001&z=7)
 
-### Related Countries
-[Burundi](#BI), [Rwanda](#RW), [Tanzania](#TZ), [Uganda](#UG)
+<details><!-- I -->
+<summary>Related countries and important cities along the corridor</summary>
+<br>	
+<details><!-- II -->
+<summary>Burndi</summary>
+
+[Country page](#BI)
+- [](#)
+
+</details><!-- II -->
+<details><!-- III -->
+<summary>Rwanda</summary>
+
+[Country page](#RW)
+- [](#)
+
+</details><!-- III -->
+<details><!-- IV -->
+<summary>Tanzania</summary>
+
+[Country page](#TZ)
+- [Dar es Salaam](#dar_es_salaam) (Capital)
+- [Isaka](#isaka)
+
+</details><!-- IV -->
+<details><!-- V -->
+<summary>Uganda</summary>
+
+[Country page](#UG)
+- [](#)
+
+</details><!-- V -->
+</details><!-- I -->
+
+### Stakeholders
+- **[Tanzania Railways Corporation](https://www.trc.co.tz/)** (TRC)
+  - state-owned by Tanzania
+  - operator and owner of Tanzania's ~2,600 km metre gauge railway system
+  - operator and owner of [Isaka Dry Port](https://www.trc.co.tz/pages/dry-ports) in tanzania
+- **[Tanzania-Zambia Railway Authority](https://tazarasite.com/)** (TAZARA)
+  - state-owned by Tanzania and Zambia
+  - 
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
