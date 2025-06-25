@@ -227,13 +227,8 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 - [](#)
 
 </details><!-- V -->
-<details><!-- VI -->
-<summary>Kenya (only Kisumu port)</summary>
 
-[Country page](#KE)
-- [Kisumu](#kisumu)
-
-</details><!-- VI -->
+Kenya (only [Kisumu port](#kisumu_port))
 </details><!-- I -->
 
 ### Stakeholders
@@ -1693,13 +1688,17 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 <a name="KE"></a>
 ## Kenya 
 
+<a name="KE_corridors"></a>
 ### Related Corridors 
 [07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7) | [08 Mombasa - Kisangani](#C8)
 
+<a name="KE_trade"></a>
 ### Trade volumes
 
+<a name="KE_road"></a>
 ### Road network
 
+<a name="KE_railway"></a>
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -1708,12 +1707,37 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 | Operators:      | state-owned Kenya Railways (KR) |
 <!-- | System Map:     | []() | -->
 
-
+<a name="KE_water"></a>
 ### Water-bourne transport
 
+[Kenya Ports Authority](https://www.kpa.co.ke/)
+
+Ports
+
+  <a name="kisumu_port"></a>
+- [Kisumu Small Port](https://www.kpa.co.ke/OurBusiness/Pages/Kisumu.aspx)
+  <a name="mombasa_port"></a>
+- [Port of Mombasa](https://www.kpa.co.ke/SitePages/PortofMombasa.aspx)
+  
+<a name="KE_fleet"></a>
 ### Fleet characteristics
 
+<a name="KE_cities"></a>
 ### Important cities along the corridors
+
+<a name="kisumu"></a>
+<details><!-- kisumu -->
+<summary>Kisumu</summary>
+
+- Population: 567,963 ([2019 census](https://www.knbs.or.ke/wp-content/uploads/2023/09/2019-Kenya-population-and-Housing-Census-Volume-2-Distribution-of-Population-by-Administrative-Units.pdf))
+- 3rd largest city in Kenya
+
+
+</details><!-- kisumu -->
+
+### Further information
+
+- [Kenya National Bureau of Statistics](https://www.knbs.or.ke/)
 
 [Country overview](#countries) | [Back to the top](#top)
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
