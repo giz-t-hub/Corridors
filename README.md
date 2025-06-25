@@ -227,6 +227,13 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 - [](#)
 
 </details><!-- V -->
+<details><!-- VI -->
+<summary>Kenya (only Kisumu port)</summary>
+
+[Country page](#KE)
+- [Kisumu](#kisumu)
+
+</details><!-- VI -->
 </details><!-- I -->
 
 ### Stakeholders
@@ -255,7 +262,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#AO_trade)
 	- [Road network](#AO_road)
 	- [Railway network](#AO_railway)
-	- [Waterways](#AO_waterway)
+	- [Water-bourne transport](#AO_water)
 	- [Fleet characteristics](#AO_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -274,7 +281,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#BJ_trade)
 	- [Road network](#BJ_road)
 	- [Railway network](#BJ_railway)
-	- [Waterways](#BJ_waterway)
+	- [Water-bourne transport](#BJ_water)
 	- [Fleet characteristics](#BJ_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -292,7 +299,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#BW_trade)
 	- [Road network](#BW_road)
 	- [Railway network](#BW_railway)
-	- [Waterways](#BW_waterway)
+	- [Water-bourne transport](#BW_water)
 	- [Fleet characteristics](#BW_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -310,7 +317,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#BF_trade)
 	- [Road network](#BF_road)
 	- [Railway network](#BF_railway)
-	- [Waterways](#BF_waterway)
+	- [Water-bourne transport](#BF_water)
 	- [Fleet characteristics](#BF_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -328,7 +335,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#BI_trade)
 	- [Road network](#BI_road)
 	- [Railway network](#BI_railway)
-	- [Waterways](#BI_waterway)
+	- [Water-bourne transport](#BI_water)
 	- [Fleet characteristics](#BI_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -347,7 +354,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#CV_trade)
 	- [Road network](#CV_road)
 	- [Railway network](#CV_railway)
-	- [Waterways](#CV_waterway)
+	- [Water-bourne transport](#CV_water)
 	- [Fleet characteristics](#CV_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -365,7 +372,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#CM_trade)
 	- [Road network](#CM_road)
 	- [Railway network](#CM_railway)
-	- [Waterways](#CM_waterway)
+	- [Water-bourne transport](#CM_water)
 	- [Fleet characteristics](#CM_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -383,7 +390,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#CF_trade)
 	- [Road network](#CF_road)
 	- [Railway network](#CF_railway)
-	- [Waterways](#CF_waterway)
+	- [Water-bourne transport](#CF_water)
 	- [Fleet characteristics](#CF_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -401,7 +408,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#TD_trade)
 	- [Road network](#TD_road)
 	- [Railway network](#TD_railway)
-	- [Waterways](#TD_waterway)
+	- [Water-bourne transport](#TD_water)
 	- [Fleet characteristics](#TD_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -419,7 +426,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#CI_trade)
 	- [Road network](#CI_road)
 	- [Railway network](#CI_railway)
-	- [Waterways](#CI_waterway)
+	- [Water-bourne transport](#CI_water)
 	- [Fleet characteristics](#CI_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -438,7 +445,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#CD_trade)
 	- [Road network](#CD_road)
 	- [Railway network](#CD_railway)
-	- [Waterways](#CD_waterway)
+	- [Water-bourne transport](#CD_water)
 	- [Fleet characteristics](#CD_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -456,7 +463,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#DJ_trade)
 	- [Road network](#DJ_road)
 	- [Railway network](#DJ_railway)
-	- [Waterways](#DJ_waterway)
+	- [Water-bourne transport](#DJ_water)
 	- [Fleet characteristics](#DJ_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -475,7 +482,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#EG_trade)
 	- [Road network](#EG_road)
 	- [Railway network](#EG_railway)
-	- [Waterways](#EG_waterway)
+	- [Water-bourne transport](#EG_water)
 	- [Fleet characteristics](#EG_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -493,7 +500,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#GO_trade)
 	- [Road network](#GO_road)
 	- [Railway network](#GO_railway)
-	- [Waterways](#GO_waterway)
+	- [Water-bourne transport](#GO_water)
 	- [Fleet characteristics](#GO_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -511,7 +518,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#SZ_trade)
 	- [Road network](#SZ_road)
 	- [Railway network](#SZ_railway)
-	- [Waterways](#SZ_waterway)
+	- [Water-bourne transport](#SZ_water)
 	- [Fleet characteristics](#SZ_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -529,7 +536,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#ET_trade)
 	- [Road network](#ET_road)
 	- [Railway network](#ET_railway)
-	- [Waterways](#ET_waterway)
+	- [Water-bourne transport](#ET_water)
 	- [Fleet characteristics](#ET_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -547,7 +554,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#GA_trade)
 	- [Road network](#GA_road)
 	- [Railway network](#GA_railway)
-	- [Waterways](#GA_waterway)
+	- [Water-bourne transport](#GA_water)
 	- [Fleet characteristics](#GA_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -565,7 +572,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#GM_trade)
 	- [Road network](#GM_road)
 	- [Railway network](#GM_railway)
-	- [Waterways](#GM_waterway)
+	- [Water-bourne transport](#GM_water)
 	- [Fleet characteristics](#GM_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -583,7 +590,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#GH_trade)
 	- [Road network](#GH_road)
 	- [Railway network](#GH_railway)
-	- [Waterways](#GH_waterway)
+	- [Water-bourne transport](#GH_water)
 	- [Fleet characteristics](#GH_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -601,7 +608,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#GN_trade)
 	- [Road network](#GN_road)
 	- [Railway network](#GN_railway)
-	- [Waterways](#GN_waterway)
+	- [Water-bourne transport](#GN_water)
 	- [Fleet characteristics](#GN_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -619,7 +626,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#GW_trade)
 	- [Road network](#GW_road)
 	- [Railway network](#GW_railway)
-	- [Waterways](#GW_waterway)
+	- [Water-bourne transport](#GW_water)
 	- [Fleet characteristics](#GW_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -638,7 +645,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#KE_trade)
 	- [Road network](#KE_road)
 	- [Railway network](#KE_railway)
-	- [Waterways](#KE_waterway)
+	- [Water-bourne transport](#KE_water)
 	- [Fleet characteristics](#KE_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -656,7 +663,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#LR_trade)
 	- [Road network](#LR_road)
 	- [Railway network](#LR_railway)
-	- [Waterways](#LR_waterway)
+	- [Water-bourne transport](#LR_water)
 	- [Fleet characteristics](#LR_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -675,7 +682,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#MZ_trade)
 	- [Road network](#MZ_road)
 	- [Railway network](#MZ_railway)
-	- [Waterways](#MZ_waterway)
+	- [Water-bourne transport](#MZ_water)
 	- [Fleet characteristics](#MZ_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -694,7 +701,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#NA_trade)
 	- [Road network](#NA_road)
 	- [Railway network](#NA_railway)
-	- [Waterways](#NA_waterway)
+	- [Water-bourne transport](#NA_water)
 	- [Fleet characteristics](#NA_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -711,7 +718,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#NE_trade)
 	- [Road network](#NE_road)
 	- [Railway network](#NE_railway)
-	- [Waterways](#NE_waterway)
+	- [Water-bourne transport](#NE_water)
 	- [Fleet characteristics](#NE_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -729,7 +736,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#NG_trade)
 	- [Road network](#NG_road)
 	- [Railway network](#NG_railway)
-	- [Waterways](#NG_waterway)
+	- [Water-bourne transport](#NG_water)
 	- [Fleet characteristics](#NG_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -748,7 +755,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#RW_trade)
 	- [Road network](#RW_road)
 	- [Railway network](#RW_railway)
-	- [Waterways](#RW_waterway)
+	- [Water-bourne transport](#RW_water)
 	- [Fleet characteristics](#RW_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -767,7 +774,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#ST_trade)
 	- [Road network](#ST_road)
 	- [Railway network](#ST_railway)
-	- [Waterways](#ST_waterway)
+	- [Water-bourne transport](#ST_water)
 	- [Fleet characteristics](#ST_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -785,7 +792,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#SN_trade)
 	- [Road network](#SN_road)
 	- [Railway network](#SN_railway)
-	- [Waterways](#SN_waterway)
+	- [Water-bourne transport](#SN_water)
 	- [Fleet characteristics](#SN_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -802,7 +809,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#SL_trade)
 	- [Road network](#SL_road)
 	- [Railway network](#SL_railway)
-	- [Waterways](#SL_waterway)
+	- [Water-bourne transport](#SL_water)
 	- [Fleet characteristics](#SL_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -820,7 +827,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#SO_trade)
 	- [Road network](#SO_road)
 	- [Railway network](#SO_railway)
-	- [Waterways](#SO_waterway)
+	- [Water-bourne transport](#SO_water)
 	- [Fleet characteristics](#SO_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -838,7 +845,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#ZA_trade)
 	- [Road network](#ZA_road)
 	- [Railway network](#ZA_railway)
-	- [Waterways](#ZA_waterway)
+	- [Water-bourne transport](#ZA_water)
 	- [Fleet characteristics](#ZA_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -856,7 +863,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#SS_trade)
 	- [Road network](#SS_road)
 	- [Railway network](#SS_railway)
-	- [Waterways](#SS_waterway)
+	- [Water-bourne transport](#SS_water)
 	- [Fleet characteristics](#SS_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -873,7 +880,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#SD_trade)
 	- [Road network](#SD_road)
 	- [Railway network](#SD_railway)
-	- [Waterways](#SD_waterway)
+	- [Water-bourne transport](#SD_water)
 	- [Fleet characteristics](#SD_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -893,7 +900,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#TZ_trade)
 	- [Road network](#TZ_road)
 	- [Railway network](#TZ_railway)
-	- [Waterways](#TZ_waterway)
+	- [Water-bourne transport](#TZ_water)
 	- [Fleet characteristics](#TZ_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -911,7 +918,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#TG_trade)
 	- [Road network](#TG_road)
 	- [Railway network](#TG_railway)
-	- [Waterways](#TG_waterway)
+	- [Water-bourne transport](#TG_water)
 	- [Fleet characteristics](#TG_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -929,7 +936,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#UG_trade)
 	- [Road network](#UG_road)
 	- [Railway network](#UG_railway)
-	- [Waterways](#UG_waterway)
+	- [Water-bourne transport](#UG_water)
 	- [Fleet characteristics](#UG_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -948,7 +955,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#ZM_trade)
 	- [Road network](#ZM_road)
 	- [Railway network](#ZM_railway)
-	- [Waterways](#ZM_waterway)
+	- [Water-bourne transport](#ZM_water)
 	- [Fleet characteristics](#ZM_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -966,7 +973,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Trade volumes](#ZW_trade)
 	- [Road network](#ZW_road)
 	- [Railway network](#ZW_railway)
-	- [Waterways](#ZW_waterway)
+	- [Water-bourne transport](#ZW_water)
 	- [Fleet characteristics](#ZW_fleet)
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
@@ -1009,8 +1016,8 @@ Angola has three independent railway lines:
 	
 </details>
 
-<a name="AO_waterway"></a>
-### Waterways
+<a name="AO_water"></a>
+### Water-bourne transport
 - port of Namibe
 
 <a name="AO_fleet"></a>
@@ -1046,8 +1053,8 @@ Angola has three independent railway lines:
 | Operators:      | currently <ins>[none](https://de.wikipedia.org/wiki/Organisation_Commune_B%C3%A9nin-Niger_des_Chemins_de_fer_et_des_Transports)</ins> (since 2019) |
 <!-- | System Map:     | []() | -->
 
-<a name="BJ_waterway"></a>
-### Waterways
+<a name="BJ_water"></a>
+### Water-bourne transport
 
 <a name="BJ_fleet"></a>
 ### Fleet characteristics
@@ -1084,8 +1091,8 @@ Angola has three independent railway lines:
 - [Gaborone Container Terminal (GABCON)](https://www.gabcon.co.bw/)
 - [Palapye Container Terminal (PALCON)](https://www.botswanarailways.co.bw/palcon-0)
 
-<a name="BW_waterway"></a>
-### Waterways
+<a name="BW_water"></a>
+### Water-bourne transport
 
 <a name="BW_fleet"></a>
 ### Fleet characteristics
@@ -1127,8 +1134,8 @@ Angola has three independent railway lines:
 <!-- | System Map:     | []() | -->
 
 
-<a name="BF_waterway"></a>
-### Waterways
+<a name="BF_water"></a>
+### Water-bourne transport
 
 <a name="BF_fleet"></a>
 ### Fleet characteristics
@@ -1153,8 +1160,8 @@ Angola has three independent railway lines:
 <a name="BI_road"></a>
 ### Road network
 
-<a name="BI_waterway"></a>
-### Waterways
+<a name="BI_water"></a>
+### Water-bourne transport
 
 <a name="BI_fleet"></a>
 ### Fleet characteristics
@@ -1177,8 +1184,8 @@ Angola has three independent railway lines:
 <a name="CV_road"></a>
 ### Road network
 
-<a name="CV_waterway"></a>
-### Waterways
+<a name="CV_water"></a>
+### Water-bourne transport
 
 <a name="CV_fleet"></a>
 ### Fleet characteristics
@@ -1211,8 +1218,8 @@ Angola has three independent railway lines:
 <!-- | System Map:     | []() | -->
 
 
-<a name="CM_waterway"></a>
-### Waterways
+<a name="CM_water"></a>
+### Water-bourne transport
 
 <a name="CM_fleet"></a>
 ### Fleet characteristics
@@ -1235,8 +1242,8 @@ Angola has three independent railway lines:
 <a name="CF_road"></a>
 ### Road network
 
-<a name="CF_waterway"></a>
-### Waterways
+<a name="CF_water"></a>
+### Water-bourne transport
 
 <a name="CF_fleet"></a>
 ### Fleet characteristics
@@ -1259,8 +1266,8 @@ Angola has three independent railway lines:
 <a name="TD_road"></a>
 ### Road network
 
-<a name="TD_waterway"></a>
-### Waterways
+<a name="TD_water"></a>
+### Water-bourne transport
 
 <a name="TD_fleet"></a>
 ### Fleet characteristics
@@ -1293,8 +1300,8 @@ Angola has three independent railway lines:
 <!-- | System Map:     | []() | -->
 
 
-<a name="CI_waterway"></a>
-### Waterways
+<a name="CI_water"></a>
+### Water-bourne transport
 
 <a name="CI_fleet"></a>
 ### Fleet characteristics
@@ -1327,8 +1334,8 @@ Angola has three independent railway lines:
 | System Map:     | [SNCC](https://www.snccsa.com/qui-sommes-nous/) |
 
 
-<a name="CD_waterway"></a>
-### Waterways
+<a name="CD_water"></a>
+### Water-bourne transport
 
 <a name="CD_fleet"></a>
 ### Fleet characteristics
@@ -1366,8 +1373,8 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 	
 </details>
 
-<a name="DJ_waterway"></a>
-### Waterways
+<a name="DJ_water"></a>
+### Water-bourne transport
 
 <a name="DJ_fleet"></a>
 ### Fleet characteristics
@@ -1405,8 +1412,8 @@ Overview of the [Egyptian National Railways stations](https://egytrains.com/)
 	
 </details>
 
-<a name="EG_waterway"></a>
-### Waterways
+<a name="EG_water"></a>
+### Water-bourne transport
 
 <a name="EG_fleet"></a>
 ### Fleet characteristics
@@ -1429,8 +1436,8 @@ Overview of the [Egyptian National Railways stations](https://egytrains.com/)
 <a name="GQ_road"></a>
 ### Road network
 
-<a name="GQ_waterway"></a>
-### Waterways
+<a name="GQ_water"></a>
+### Water-bourne transport
 
 <a name="GQ_cities"></a>
 ### Fleet characteristics
@@ -1461,8 +1468,8 @@ Overview of the [Egyptian National Railways stations](https://egytrains.com/)
 | Operator:      | state-owned [Eswatini Railways](https://eswatinirail.co.sz/) (ESR)<br> no passenger transport |
 | System Map:     | [ESR](https://eswatinirail.co.sz/about/eswatini-rail-network/) |
 
-<a name="SZ_waterway"></a>
-### Waterways
+<a name="SZ_water"></a>
+### Water-bourne transport
 
 <a name="SZ_fleet"></a>
 ### Fleet characteristics
@@ -1500,8 +1507,8 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 	
 </details>
 
-<a name="ET_waterway"></a>
-### Waterways
+<a name="ET_water"></a>
+### Water-bourne transport
 
 <a name="ET_fleet"></a>
 ### Fleet characteristics
@@ -1533,8 +1540,8 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 | Operator:       | partly state-owned [Sociéte d’Exploitation du Transgabonais](https://setrag.ga/) (Setrag) |
 | System Map:     | [Setrag](https://setrag.ga/) |
 
-<a name="GA_waterway"></a>
-### Waterways
+<a name="GA_water"></a>
+### Water-bourne transport
 
 <a name="GA_fleet"></a>
 ### Fleet characteristics
@@ -1557,8 +1564,8 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 <a name="GM_road"></a>
 ### Road network
 
-<a name="GM_waterway"></a>
-### Waterways
+<a name="GM_water"></a>
+### Water-bourne transport
 
 <a name="GM_fleet"></a>
 ### Fleet characteristics
@@ -1596,8 +1603,8 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 	- "Promote the development of Railways and Railways service, hold, administer and improve Railway Assets"
  	- "Promote the development and management of suburban railway"
 
-<a name="GH_waterway"></a>
-### Waterways
+<a name="GH_water"></a>
+### Water-bourne transport
 
 [Ghana Ports and Harbours Authority](https://www.ghanaports.gov.gh/) (GPHA)
 
@@ -1647,8 +1654,8 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 
 </details>
 
-<a name="GN_waterway"></a>
-### Waterways
+<a name="GN_water"></a>
+### Water-bourne transport
 
 <a name="GN_fleet"></a>
 ### Fleet characteristics
@@ -1672,8 +1679,8 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 <a name="GW_road"></a>
 ### Road network
 
-<a name="GW_waterway"></a>
-### Waterways
+<a name="GW_water"></a>
+### Water-bourne transport
 
 <a name="GW_fleet"></a>
 ### Fleet characteristics
@@ -1702,7 +1709,7 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 <!-- | System Map:     | []() | -->
 
 
-### Waterways
+### Water-bourne transport
 
 ### Fleet characteristics
 
@@ -1729,7 +1736,7 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 | System Map:     | []() |
 
 
-### Waterways
+### Water-bourne transport
 
 ### Fleet characteristics
 
@@ -1756,7 +1763,7 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 <!-- | System Map:     | []() | -->
 
 
-### Waterways
+### Water-bourne transport
 
 ### Fleet characteristics
 
@@ -1783,7 +1790,7 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 | System Map:     | [TransNamib](https://www.transnamib.com.na/railway-network/) |
 
 
-### Waterways
+### Water-bourne transport
 
 ### Fleet characteristics
 
@@ -1810,7 +1817,7 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 <!-- | System Map:     | []() | -->
 
 
-### Waterways
+### Water-bourne transport
 
 ### Fleet characteristics
 
@@ -1837,7 +1844,7 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 <!-- | System Map:     | []() | -->
 
 
-### Waterways
+### Water-bourne transport
 
 ### Fleet characteristics
 
@@ -1856,7 +1863,7 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 ### Road network
 "Currently [2025], Rwanda has no railway network. However, the country is working in partnership with other countries of the region to find a railway network." ([Ministry of Infrastructure Rwanda](https://www.mininfra.gov.rw/1/transport) (MININFRA))
 
-### Waterways
+### Water-bourne transport
 
 ### Fleet characteristics
 
@@ -1874,7 +1881,7 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 
 ### Road network
 
-### Waterways
+### Water-bourne transport
 
 ### Fleet characteristics
 
@@ -1905,8 +1912,8 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 | System Map:     | [TER](https://www.terdakar.sn/acceder-au-plan-de-la-ligne/) |
 
 
-<a name="SN_waterway"></a>
-### Waterways
+<a name="SN_water"></a>
+### Water-bourne transport
 
 <a name="SN_fleet"></a>
 ### Fleet characteristics
@@ -1947,8 +1954,8 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 <!-- | System Map:     | []() | -->
 
 
-<a name="SL_waterway"></a>
-### Waterways
+<a name="SL_water"></a>
+### Water-bourne transport
 
 <a name="SL_fleet"></a>
 ### Fleet characteristics
@@ -1971,8 +1978,8 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 <a name="SO_road"></a>
 ### Road network
 
-<a name="SO_waterway"></a>
-### Waterways
+<a name="SO_water"></a>
+### Water-bourne transport
 
 <a name="SO_fleet"></a>
 ### Fleet characteristics
@@ -2004,8 +2011,8 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 | Operators:      | State owned "[Transnet](https://www.transnet.net/)" ([freight services](https://www.transnet.net/SubsiteRender.aspx?id=2286141)) and "[PRASA](https://www.prasa.com)" (passenger transport)<!-- https://www.transport.gov.za/?page_id=1039 --> |
 <!-- | System Map:     | []() | -->
 
-<a name="ZA_waterway"></a>
-### Waterways
+<a name="ZA_water"></a>
+### Water-bourne transport
 
 <a name="ZA_fleet"></a>
 ### Fleet characteristics
@@ -2041,8 +2048,8 @@ Passenger Transport
 
 The single railway line connects Wau to Sudan.
 
-<a name="SS_waterway"></a>
-### Waterways
+<a name="SS_water"></a>
+### Water-bourne transport
 
 <a name="SS_fleet"></a>
 ### Fleet characteristics
@@ -2075,8 +2082,8 @@ The single railway line connects Wau to Sudan.
 <!-- | System Map:     | []() | -->
 
 
-<a name="SD_waterway"></a>
-### Waterways
+<a name="SD_water"></a>
+### Water-bourne transport
 
 <a name="SD_fleet"></a>
 ### Fleet characteristics
@@ -2133,8 +2140,8 @@ The single railway line connects Wau to Sudan.
 ***Dry port***
 - [Isaka Dry Port](https://www.trc.co.tz/pages/dry-ports)
 
-<a name="TZ_waterway"></a>
-### Waterways
+<a name="TZ_water"></a>
+### Water-bourne transport
 
 <a name="TZ_fleet"></a>
 ### Fleet characteristics
@@ -2181,8 +2188,8 @@ The single railway line connects Wau to Sudan.
 <!-- | System Map:     | []() | -->
 
 
-<a name="TG_waterway"></a>
-### Waterways
+<a name="TG_water"></a>
+### Water-bourne transport
 
 <a name="TG_fleet"></a>
 ### Fleet characteristics
@@ -2218,7 +2225,7 @@ The single railway line connects Wau to Sudan.
 | System Map:     | []() |
 
 
-### Waterways
+### Water-bourne transport
 
 ### Fleet characteristics
 
@@ -2245,7 +2252,7 @@ The single railway line connects Wau to Sudan.
 | System Map:     | []() |
 
 
-### Waterways
+### Water-bourne transport
 
 ### Fleet characteristics
 
@@ -2272,7 +2279,7 @@ The single railway line connects Wau to Sudan.
 | System Map:     | [NRZ](https://nrz.co.zw/network-system/) |
 
 
-### Waterways
+### Water-bourne transport
 
 ### Fleet characteristics
 
