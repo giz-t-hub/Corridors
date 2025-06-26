@@ -194,7 +194,9 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 <a name="Ccentral"></a>
 ## Central Corridor 
 [Map view](https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-4.4338554114748785%2C34.07183650000001&z=7)
-
+[Map overview](https://centralcorridor-ttfa.org/organization-structure/)
+This is the [EAC's Central Corridor](https://www.eac.int/infrastructure/road-transport-sub-sector), coordinated by the multilateral [Central Corridor Transit Transport Facilitation Agency](https://centralcorridor-ttfa.org/) (CCTTFA), connecting Burundi, DR Congo, Malawi, Rwanda, Tanzania, Uganda and Zambia.
+ 
 <details><!-- I -->
 <summary>Related countries and important cities along the corridor</summary>
 <br>	
@@ -231,7 +233,98 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 Kenya (only [Kisumu port](#kisumu_port))
 </details><!-- I -->
 
+"The Central Corridor is the integrated multimodal transport and logistics network that connects the Central Corridor Transit Transport Facilitation Agency (CCTTFA) Member States to the sea through the [port of Dar es Salaam](#dar_port)" ([CCTTFA](https://centralcorridor-ttfa.org/overview/))
+
 ### Stakeholders
+
+<details><!-- burundi stakeholders -->
+<summary>Burundi</summary>
+
+1. Ministry of Transport, Works & Equipment
+2. Ministry of Commerce and Industries
+3. Office Burundais des Recettes (OBR)
+4. Autorité Portuaire, Maritime et Ferroviaire du Burundi (AMPF)
+5. Office des Routes (OdR)
+6. Bureau Burundais de Normalisation (BBN)
+7. Police de l\`Air des Frontières et des Etrangers (PAFE)
+8. Police Spéciale de Roulage
+9. Chambre de Commerce, d\`Industries, d\`Agriculture et d\`Artisanat du Burundi (CCIB)
+10. Association des Armateurs du Burundi
+11. Burundi Global Ports Services (GPS)
+12. Société d`Entreposage des Produits Pétroliers (SEP)
+13. Association Burundaise des Agences en Douanes et Transitaires (ABADT)
+14. Association des Transporteurs Internationaux du Burundi (ATIB)
+
+</details><!-- burundi stakeholders -->
+<details><!-- rwanda stakeholders -->
+<summary>Rwanda</summary>
+
+1. Ministry of Infrastructure
+2. Ministry of Trade & Industry
+3. Private Sector Federation – Rwanda
+4. Magasins Généraux du Rwanda (MAGERWA)
+5. Association of Transporters of Rwanda – ATAR
+6. Association of Insurers of Rwanda
+7. Association of Clearing & Forwarding Agents of Rwanda – ADAR
+8. Rwanda Revenue Authority
+9. Rwanda Transport Development Authority (RTDA)
+10. Rwanda Mining Association
+11. Rwanda Petroleum Exporters Association
+12. Rwanda Police Force – Traffic Police
+13. Rwanda Development Board
+14. Rwanda Standards Board (RSB)
+15. Ministry of Finance & Economic Planning
+16. Ministry of Foreign Affairs & Cooperation
+17. Directorate of Rwanda Immigration/Emigration
+
+</details>
+<details><!-- tanzania stakeholders -->
+<summary>Tanzania</summary>	
+
+1. Ministry of Transport
+2. Ministry of Works
+3. Ministry of Trade & Industry
+4. Tanzania Roads Agency (TANROADS)
+5. Tanzania Ports Authority (TPA)
+6. Tanzania International Container Terminal Services (TICTS)
+7. Tanzania Railways Ltd
+8. Rail Assets Holding Company (RAHCO)
+9. Surface and Marine Transport Regulatory Authority (SUMATRA)
+10. Tanzania Revenue Authority
+11. Marine Services Company Limited (MSCL)
+12. Tanzania Shipping Agencies Association (TASAA)
+13. Tanzania Chamber of Commerce Industries and Agriculture (TCCIA)
+14. Tanzania Freight Forwarders Association (TAFFA)
+15. Marine Services Company Limited (MSC)
+16. Tanzania Truck Owners Association (TATOA)
+17. National Development Corporation (NDC)
+18. Tanzania Police Force – Traffic Police
+19. Directorate of Tanzania Immigration
+20. Tanzania Bureau of Standards (TBS)
+ 
+</details><!-- tanzania stakeholders -->
+<details><!-- uganda stakeholders -->
+<summary>Uganda</summary>	
+
+Ministry of Works & Transport
+Ministry of Trade, Industry & Tourism
+Uganda Railways Corporation (URC)
+Uganda Revenue Authority (URA)
+Uganda Freight Forwarders Association (UFFA)
+Uganda Manufacturers Association (UMA)
+Uganda Importers & Exporters Association (UGIETA)
+Uganda National Chamber of Commerce and Industry (UNCCI)
+Uganda National Road Agency (UNRA)
+Kampala City Traders Association (KACITA)
+Private Sector Foundation Uganda (PSFU)
+Ministry of Finance
+Ministry of Foreign Affairs
+Uganda Bureau of Standards (UBS)
+Uganda Police Force
+Directorate of Uganda Immigration
+ 
+</details><!-- uganda stakeholders -->
+
 - **[Tanzania Railways Corporation](https://www.trc.co.tz/)** (TRC)
   - state-owned by Tanzania
   - operator and owner of Tanzania's ~2,600 km metre gauge railway system
@@ -1174,6 +1267,7 @@ Population: 14,151,540 (2024)
 - [General Directorate of Commerce](https://mctit.gov.bi/direction-generale-du-commerce/)
 - Exports:
   - Coffee
+    - [Office pour le Développement du Café](https://odeca.gov.bi/industrie-du-cafe/) [Site currently broken (June 2025)]
   - Cotton
   - Tin ore
 
@@ -1195,8 +1289,10 @@ Ports
 
 <a name="bujumbura_port"></a>
 - Port of Bujumbura
-  - Operator: [Global Port Services Burundi](https://mctit.gov.bi/brarudi/) (GPSB) [Site [gpsb.bi](https://gpsb.bi) offline (June 2025)] 
+  - Operator: [Global Port Services Burundi](https://mctit.gov.bi/brarudi/) (GPSB) [Site [gpsb.bi](https://gpsb.bi) broken (June 2025)] 
     - Public-private partnership
+  - Largest port on Lake Tanganyika
+  - [Volume of handled goods (2010)](https://www.afdb.org/en/documents/burundi-bujumbura-port-and-lake-tanganyika-transport-corridor-development-project-esia-summary): 100.000 t by lake and 70.000 t by land
  
 <a name="BI_fleet"></a>
 ### Fleet characteristics
