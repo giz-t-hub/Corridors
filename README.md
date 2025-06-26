@@ -68,7 +68,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Countries
 [Benin](#BJ), [Côte d'Ivoire](#CI), [Ghana](#GH), [Nigeria](#NG), [Togo](#TG)
 
-[Corridor overview](#corridors) | [Back to the top](#top)
+[Corridor overview](#corridors) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="C2"></a>
 ## 02. Abidjan - Ouagadougou 
@@ -77,7 +77,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Countries
 [Burkina-Faso](#BF), [Côte d'Ivoire](#CI)
 
-[Corridor overview](#corridors) | [Back to the top](#top)
+[Corridor overview](#corridors) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="C3"></a>
 ## 03. Praia/Dakar - Abidjan 
@@ -86,7 +86,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Countries
 [Cabo Verde](#CV), [Côte d'Ivoire](#CI), [Gambia](#GM), [Guinea](#GN), [Guinea-Bissau](#GW), [Liberia](#LR), [Senegal](#SN), [Sierra Leone](#SL)
 
-[Corridor overview](#corridors) | [Back to the top](#top)
+[Corridor overview](#corridors) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="C4"></a>
 ## 04. Cotonou - Niamey 
@@ -95,7 +95,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Countries
 [Benin](#BJ), [Niger](#NE)
 
-[Corridor overview](#corridors) | [Back to the top](#top)
+[Corridor overview](#corridors) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="C5"></a>
 ## 05. Libreville/Kribi/Douala - N'djamena 
@@ -104,7 +104,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Countries
 [Cameroon](#CM), [Chad](#TD), [Equatorial Guinea](#GQ), [Gabon](#GA), [São Tomé and Príncipe](#ST)
 
-[Corridor overview](#corridors) | [Back to the top](#top)
+[Corridor overview](#corridors) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="C6"></a>
 ## 06. Douala/Kribi - Kampala 
@@ -113,7 +113,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Countries
 [Cameroon](#CM), [Central African Republic](#CF), [Democratic Republic of the Congo](#CD), [Uganda](#UG)
 
-[Corridor overview](#corridors) | [Back to the top](#top)
+[Corridor overview](#corridors) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="C7"></a>
 ## 07. Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti 
@@ -122,7 +122,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Countries
 [Djibouti](#DJ), [Ethiopia](#ET), [Kenya](#KE), [Somalia](#SO), [Tanzania](#TZ)
 
-[Corridor overview](#corridors) | [Back to the top](#top)
+[Corridor overview](#corridors) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="C8"></a>
 ## 08. Mombasa - Kisangani 
@@ -132,7 +132,7 @@ Includes most of the EAC's [Northern Corridor](https://www.eac.int/infrastructur
 ### Related Countries
 [Democratic Republic of the Congo](#CD), [Kenya](#KE), [Rwanda](#RW), [Uganda](#UG)
 
-[Corridor overview](#corridors) | [Back to the top](#top)
+[Corridor overview](#corridors) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="C9"></a>
 ## 09. Maputo - Gaborone - Walvis Bay 
@@ -141,7 +141,7 @@ Includes most of the EAC's [Northern Corridor](https://www.eac.int/infrastructur
 ### Related Countries
 [Botswana](#BW), [Eswatini](#SZ), [Mozambique](#MZ), [Namibia](#NA), [South Africa](#ZA)
 
-[Corridor overview](#corridors) | [Back to the top](#top)
+[Corridor overview](#corridors) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="C10"></a>
 ## 10. Durban - Lusaka 
@@ -150,7 +150,7 @@ Includes most of the EAC's [Northern Corridor](https://www.eac.int/infrastructur
 ### Related Countries
 [Botswana](#BW), [South Africa](#ZA), [Zambia](#ZM), [Zimbabwe](#ZW)
 
-[Corridor overview](#corridors) | [Back to the top](#top)
+[Corridor overview](#corridors) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="C11"></a>
 ## 11. Cairo - Khartoum - Juba - Kampala 
@@ -159,7 +159,7 @@ Includes most of the EAC's [Northern Corridor](https://www.eac.int/infrastructur
 ### Related Countries
 [Egypt](#EG), [South Sudan](#SS), [Sudan](#SD), [Uganda](#UG)
 
-[Corridor overview](#corridors) | [Back to the top](#top)
+[Corridor overview](#corridors) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="C12"></a>
 ## 12. Lobito - Kabwe 
@@ -190,7 +190,7 @@ Includes most of the EAC's [Northern Corridor](https://www.eac.int/infrastructur
 
 
 
-[Corridor overview](#corridors) | [Back to the top](#top)
+[Corridor overview](#corridors) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="Ccentral"></a>
 ## Central Corridor 
@@ -205,7 +205,8 @@ This is the [EAC's Central Corridor](https://www.eac.int/infrastructure/road-tra
 <summary>Burndi</summary>
 
 [Country page](#BI)
-- [](#)
+- [Bujumbura](#bujumbura)
+- [Gitega](#gitega)
 
 </details><!-- II -->
 <details><!-- III -->
@@ -262,16 +263,16 @@ Kenya (only [Kisumu port](#kisumu_port))
 <summary>Burundi</summary>
 
 1. Ministry of Transport, Works & Equipment
-2. Ministry of Commerce and Industries
-3. Office Burundais des Recettes (OBR)
-4. Autorité Portuaire, Maritime et Ferroviaire du Burundi (AMPF)
-5. Office des Routes (OdR)
-6. Bureau Burundais de Normalisation (BBN)
+2. [Ministry of Commerce and Industries](https://mctit.gov.bi/)
+3. [Customs](https://www.obr.bi/index.php/en/) (Office Burundais des Recettes, OBR)
+4. [Maritime and Port Authority of Burundi](https://mctit.gov.bi/autorite-maritime-et-portuaire-du-burundi-ampb/) (Autorité Portuaire, Maritime et Ferroviaire du Burundi, AMPF)
+5. [Burundi Road Agency](https://www.agenceroutiereduburundi.bi/) (l'Agence Routière du Burundi, ARB)
+6. [Bureau Burundais de Normalisation](https://mctit.gov.bi/bureau-burundais-de-normalisation-bbn/) (BBN)
 7. Police de l\`Air des Frontières et des Etrangers (PAFE)
 8. Police Spéciale de Roulage
 9. Chambre de Commerce, d\`Industries, d\`Agriculture et d\`Artisanat du Burundi (CCIB)
 10. Association des Armateurs du Burundi
-11. Burundi Global Ports Services (GPS)
+11. [Burundi Global Ports Services](https://mctit.gov.bi/brarudi/) (GPS)
 12. Société d`Entreposage des Produits Pétroliers (SEP)
 13. Association Burundaise des Agences en Douanes et Transitaires (ABADT)
 14. Association des Transporteurs Internationaux du Burundi (ATIB)
@@ -327,22 +328,22 @@ Kenya (only [Kisumu port](#kisumu_port))
 <details><!-- uganda stakeholders -->
 <summary>Uganda</summary>	
 
-Ministry of Works & Transport
-Ministry of Trade, Industry & Tourism
-Uganda Railways Corporation (URC)
-Uganda Revenue Authority (URA)
-Uganda Freight Forwarders Association (UFFA)
-Uganda Manufacturers Association (UMA)
-Uganda Importers & Exporters Association (UGIETA)
-Uganda National Chamber of Commerce and Industry (UNCCI)
-Uganda National Road Agency (UNRA)
-Kampala City Traders Association (KACITA)
-Private Sector Foundation Uganda (PSFU)
-Ministry of Finance
-Ministry of Foreign Affairs
-Uganda Bureau of Standards (UBS)
-Uganda Police Force
-Directorate of Uganda Immigration
+1. Ministry of Works & Transport
+2. Ministry of Trade, Industry & Tourism
+3. Uganda Railways Corporation (URC)
+4. Uganda Revenue Authority (URA)
+5. Uganda Freight Forwarders Association (UFFA)
+6. Uganda Manufacturers Association (UMA)
+7. Uganda Importers & Exporters Association (UGIETA)
+8. Uganda National Chamber of Commerce and Industry (UNCCI)
+9. Uganda National Road Agency (UNRA)
+10. Kampala City Traders Association (KACITA)
+11. Private Sector Foundation Uganda (PSFU)
+12. Ministry of Finance
+13. Ministry of Foreign Affairs
+14. Uganda Bureau of Standards (UBS)
+15. Uganda Police Force
+16. Directorate of Uganda Immigration
  
 </details><!-- uganda stakeholders -->
 
@@ -354,7 +355,7 @@ Directorate of Uganda Immigration
   - state-owned by Tanzania and Zambia
   - 
 
-[Corridor overview](#corridors) | [Back to the top](#top)
+[Corridor overview](#corridors) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 ---
 # Countries <a name="countries"></a>
@@ -1143,7 +1144,7 @@ Angola has three independent railway lines:
 
 </details><!-- benguela -->
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="BJ"></a>
 ## Benin 
@@ -1176,7 +1177,7 @@ Angola has three independent railway lines:
 <a name="BJ_cities"></a>
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="BW"></a>
 ## Botswana 
@@ -1236,7 +1237,7 @@ Angola has three independent railway lines:
 
 ### further Information
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="BF"></a>
 ## Burkina-Faso 
@@ -1272,17 +1273,24 @@ Angola has three independent railway lines:
 
 
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="BI"></a>
 ## Republic of Burundi 
+[Présidence de la République \[du Burundi\]](https://presidence.gov.bi/)<br>
 Population: 14,151,540 (2024)
 
+<br>
 <a name="BI_corridors"></a>
+
+
 ### Related Corridors 
 [Central Corridor](#Ccentral)
 
+<br>
 <a name="BI_trade"></a>
+
+
 ### Trade volumes
 
 - [General Directorate of Commerce](https://mctit.gov.bi/direction-generale-du-commerce/)
@@ -1292,16 +1300,41 @@ Population: 14,151,540 (2024)
   - Cotton
   - Tin ore
 
+<br>
 <a name="BI_road"></a>
+
+
 ### Road network
+
+- [Burundi Road Network](https://lca.logcluster.org/23-burundi-road-network) (LCA):<br>
+
+| Network profile | |
+| ---             | --- |
+| Network size:   | 12,000 km |
+| Axle load limit:| 48 t |
+| Map: | [Logistics Cluster](https://lca.logcluster.org/sites/default/files/confluence/BDI_LCA_RoadNetwork_A4P_20201211.png%3Fversion%3D1%26modificationDate%3D1612521545000%26api%3Dv2) |
+
+Of the ~12.000 km road network
+
+- 4,456 km lie within the responsibility of the [Burundi Road Agency](https://www.agenceroutiereduburundi.bi/) (l'Agence Routière du Burundi, ARB)
+  - 1,952 km of these are national Roads (22)
+    - 1,647 km (85 %) of the national roads are paved, 305 km (15 %) are unpaved
+  - 2504 km are provincial roads (91)
 
 Responsible for vehicle inspections and running some bus lines is the state-owned [Public Transport Office](https://mctit.gov.bi/office-de-transport-en-commun-otraco/) (OTRACO).
 
+<br>
 <a name="BF_railway"></a>
-### Rail network
-Currently, Burundi has no railway system. As part of the EAC's [East African Railways Master Plan](https://www.eac.int/infrastructure/railways-transport-sub-sector/92-sector/infrastructure/railways) it is planned to connect [Bujumbura](#bujumbura) to [Mombasa](#mombasa) (Kenya) via [Kigali](#kigali) (Rwanda) and Uganda.
 
+
+### Rail network
+- Currently, Burundi has no railway system. As part of the EAC's [East African Railways Master Plan](https://www.eac.int/infrastructure/railways-transport-sub-sector/92-sector/infrastructure/railways) it is planned to connect [Bujumbura](#bujumbura) to [Mombasa](#mombasa) (Kenya) via [Kigali](#kigali) (Rwanda) and Uganda.
+- According to [Logistics Cluster](https://lca.logcluster.org/24-burundi-railway-assessment) (LCA), "there is \[also] a project to build railways which will connect Isaka (Tanzania), Gitega (Burundi) and Musongati (Burundi) with total distance of 691Km. The project will be funded by African Development Bank."
+
+<br>
 <a name="BI_water"></a>
+
+
 ### Water-bourne transport
 
 - [Maritime and Port Authority of Burundi](https://mctit.gov.bi/autorite-maritime-et-portuaire-du-burundi-ampb/) (AMPB)
@@ -1309,16 +1342,30 @@ Currently, Burundi has no railway system. As part of the EAC's [East African Rai
 Ports
 
 <a name="bujumbura_port"></a>
-- Port of Bujumbura
+- [Port of Bujumbura](https://lca.logcluster.org/21-burundi-port-bujumbura) (LCA)
   - Operator: [Global Port Services Burundi](https://mctit.gov.bi/brarudi/) (GPSB) [Site [gpsb.bi](https://gpsb.bi) broken (June 2025)] 
     - Public-private partnership
   - Largest port on Lake Tanganyika
   - [Volume of handled goods (2010)](https://www.afdb.org/en/documents/burundi-bujumbura-port-and-lake-tanganyika-transport-corridor-development-project-esia-summary): 100.000 t by lake and 70.000 t by land
- 
-<a name="BI_fleet"></a>
-### Fleet characteristics
+  - "Bujumbura port is located North of Tanganyika Lake. The port handles not only Burundi cargo, but also transit cargo to Rwanda, Zambia and DRC. Bujumbura port is a hub of three corridors: northern corridor (Mombasa), Central Corridor (Dar-Es-Salaam) and Southern corridor (Mpulungu-Zambia)." ([Logistics Cluster](https://lca.logcluster.org/2-burundi-logistics-infrastructure))
 
+<br> 
+<a name="BI_fleet"></a>
+
+
+### Fleet characteristics
+Water-bourne
+
+- Total carrying capacity of Burundi owned vessels on Lake Tanganyika: 10.000 t ([Logistics Cluster](https://lca.logcluster.org/21-burundi-port-bujumbura))
+  1. ARNOLAC Cargo Shipping operates seven barges and four tugboats and two oil tankers, able to carry about 5,000 tons respectively 535 cubic meters in total.
+  2. BATRALAC operates three cargo vessels, the Rwegura with 500 tons, the Tora with 1,100 tons, and the Teza with 1,500 tons of capacity.
+  3. RAD MARINE operates two vessels with 560 tons (MV Bihanga) respectively 1,500 tons (MV Byamwezi) of capacity. (Hamburg Port Consultants, 2018)
+  4. AH. THUMBA operates one vessel, MV Kiriri.
+
+<br>
 <a name="BI_cities"></a>
+
+
 ### Important cities along the corridors
 <a name="bujumbura"></a>
 <details><!-- Bujumbura -->
@@ -1347,14 +1394,17 @@ Ports
 
 </details><!-- Muyinga -->
 
+<br>
 ### Further information
 
+- [LCA](https://lca.logcluster.org/burundi)
 - [Ministry for Trade, Transport, Industry and Tourism](https://mctit.gov.bi/) (Ministère du Commerce, du Transport, de l'Industrie et du Tourisme (MCTIT))
   - [General Directorate of Commerce](https://mctit.gov.bi/direction-generale-du-commerce/)
   - [General Directorate of Transport](https://mctit.gov.bi/direction-general-du-transport/)
   - [General Directorate of Industry](https://mctit.gov.bi/direction-generale-de-lindustrie/)
+- [Ministry of Foreign Affairs and Development Cooperation](https://www.mae.gov.bi/en/) (Ministre des Affaires Etrangères et de la Coopération au Développement, MAE)
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="CV"></a>
 ## Cabo Verde 
@@ -1378,7 +1428,7 @@ Ports
 <a name="CV_cities"></a>
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="CM"></a>
 ## Cameroon 
@@ -1412,7 +1462,7 @@ Ports
 <a name="CM_cities"></a>
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="CF"></a>
 ## Central African Republic 
@@ -1436,7 +1486,7 @@ Ports
 <a name="CF_cities"></a>
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="TD"></a>
 ## Chad 
@@ -1460,7 +1510,7 @@ Ports
 <a name="TD_cities"></a>
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="CI"></a>
 ## Côte d'Ivoire 
@@ -1494,7 +1544,7 @@ Ports
 <a name="CI_cities"></a>
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="CD"></a>
 ## Democratic Republic of the Congo 
@@ -1528,7 +1578,7 @@ Ports
 <a name="CD_cities"></a>
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="DJ"></a>
 ## Djibouti 
@@ -1567,7 +1617,7 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 <a name="DJ_cities"></a>
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="EG"></a>
 ## Egypt 
@@ -1606,7 +1656,7 @@ Overview of the [Egyptian National Railways stations](https://egytrains.com/)
 <a name="EG_cities"></a>
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="GQ"></a>
 ## Equatorial Guinea 
@@ -1629,7 +1679,7 @@ Overview of the [Egyptian National Railways stations](https://egytrains.com/)
 
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="SZ"></a>
 ## Eswatini 
@@ -1662,7 +1712,7 @@ Overview of the [Egyptian National Railways stations](https://egytrains.com/)
 <a name="SZ_cities"></a>
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="ET"></a>
 ## Ethiopia 
@@ -1701,7 +1751,7 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 <a name="ET_cities"></a>
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="GA"></a>
 ## Gabon 
@@ -1734,7 +1784,7 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 <a name="GA_cities"></a>
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="GM"></a>
 ## Gambia 
@@ -1758,7 +1808,7 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 <a name="GM_cities"></a>
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="GH"></a>
@@ -1799,7 +1849,7 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 <a name="GH_cities"></a>
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="GN"></a>
 ## Guinea 
@@ -1848,7 +1898,7 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 <a name="GN_cities"></a>
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="GW"></a>
@@ -1873,7 +1923,7 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 <a name="GW_cities"></a>
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="KE"></a>
 ## Kenya 
@@ -1931,7 +1981,7 @@ Ports
 
 - [Kenya National Bureau of Statistics](https://www.knbs.or.ke/)
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="LR"></a>
 ## Liberia 
@@ -1958,7 +2008,7 @@ Ports
 
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="MZ"></a>
 ## Mozambique 
@@ -1985,7 +2035,7 @@ Ports
 
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="NA"></a>
 ## Namibia 
@@ -2012,7 +2062,7 @@ Ports
 
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="NE"></a>
 ## Niger 
@@ -2039,7 +2089,7 @@ Ports
 
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="NG"></a>
 ## Nigeria 
@@ -2066,7 +2116,7 @@ Ports
 
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="RW"></a>
 ## Rwanda 
@@ -2085,7 +2135,7 @@ Ports
 
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="ST"></a>
 ## São Tomé and Príncipe 
@@ -2103,7 +2153,7 @@ Ports
 
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="SN"></a>
 ## Senegal 
@@ -2145,7 +2195,7 @@ Ports
 
 </details><!-- dakar -->
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="SL"></a>
 ## Sierra Leone 
@@ -2179,7 +2229,7 @@ Ports
 <a name="SL_cities"></a>
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="SO"></a>
 ## Somalia 
@@ -2203,7 +2253,7 @@ Ports
 <a name="SO_cities"></a>
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="ZA"></a>
 ## South Africa 
@@ -2238,7 +2288,7 @@ Passenger Transport
 <a name="ZA_cities"></a>
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="SS"></a>
 ## South Sudan 
@@ -2273,7 +2323,7 @@ The single railway line connects Wau to Sudan.
 <a name="SS_cities"></a>
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="SD"></a>
 ## Sudan 
@@ -2329,7 +2379,7 @@ The single railway line connects Wau to Sudan.
 </details><!-- wadi_halfa -->
 
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="TZ"></a>
 ## Tanzania 
@@ -2379,7 +2429,7 @@ The single railway line connects Wau to Sudan.
 
 </details><!-- isaka -->
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="TG"></a>
 ## Togo 
@@ -2420,7 +2470,7 @@ The single railway line connects Wau to Sudan.
 
 </details><!-- lome -->
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="UG"></a>
 ## Uganda 
@@ -2447,7 +2497,7 @@ The single railway line connects Wau to Sudan.
 
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="ZM"></a>
 ## Zambia 
@@ -2476,7 +2526,7 @@ Currently only [265 km are servicable](https://www.eac.int/infrastructure/railwa
 
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="ZW"></a>
 ## Zimbabwe 
@@ -2503,7 +2553,7 @@ Currently only [265 km are servicable](https://www.eac.int/infrastructure/railwa
 
 ### Important cities along the corridors
 
-[Country overview](#countries) | [Back to the top](#top)
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 ---
 ---
