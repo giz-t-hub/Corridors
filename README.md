@@ -126,7 +126,8 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="C8"></a>
 ## 08. Mombasa - Kisangani 
-[Map view](https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-0.09998550463464073%2C32.74194600937502&z=7)
+[Map view](https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-0.09998550463464073%2C32.74194600937502&z=7)<br>
+Includes most of the EAC's [Northern Corridor](https://www.eac.int/infrastructure/road-transport-sub-sector) ([Mombasa](#mombasa) - [Nairobi](#nairobi) (both Kenya) - [Kampala](#kampala) (Uganda) - [Kigali](#kigali) (Rwanda) - [Bujumbura](#bujumbura) (Burundi)).
 
 ### Related Countries
 [Democratic Republic of the Congo](#CD), [Kenya](#KE), [Rwanda](#RW), [Uganda](#UG)
@@ -193,8 +194,8 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="Ccentral"></a>
 ## Central Corridor 
-[Map view](https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-4.4338554114748785%2C34.07183650000001&z=7)
-[Map overview](https://centralcorridor-ttfa.org/organization-structure/)
+[Map view](https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-4.4338554114748785%2C34.07183650000001&z=7)<br>
+[Map overview](https://centralcorridor-ttfa.org/organization-structure/) (CCTTFA)<br>
 This is the [EAC's Central Corridor](https://www.eac.int/infrastructure/road-transport-sub-sector), coordinated by the multilateral [Central Corridor Transit Transport Facilitation Agency](https://centralcorridor-ttfa.org/) (CCTTFA), connecting Burundi, DR Congo, Malawi, Rwanda, Tanzania, Uganda and Zambia.
  
 <details><!-- I -->
@@ -208,27 +209,47 @@ This is the [EAC's Central Corridor](https://www.eac.int/infrastructure/road-tra
 
 </details><!-- II -->
 <details><!-- III -->
+<summary>DR Congo</summary>
+
+[Country page](#CD)
+- [](#)
+
+</details><!-- III -->
+<details><!-- IV -->
+<summary>Malawi</summary>
+
+- [](#)
+
+</details><!-- IV -->
+<details><!-- V -->
 <summary>Rwanda</summary>
 
 [Country page](#RW)
 - [](#)
 
-</details><!-- III -->
-<details><!-- IV -->
+</details><!-- V -->
+<details><!-- VI -->
 <summary>Tanzania</summary>
 
 [Country page](#TZ)
-- [Dar es Salaam](#dar_es_salaam) (Capital)
+- [Dar es Salaam](#dar_es_salaam) (Capital), [(deep) sea port](#dar_port)
 - [Isaka](#isaka)
 
-</details><!-- IV -->
-<details><!-- V -->
+</details><!-- VI -->
+<details><!-- VII -->
 <summary>Uganda</summary>
 
 [Country page](#UG)
 - [](#)
 
-</details><!-- V -->
+</details><!-- VII -->
+<details><!-- VIII -->
+<summary>Zambia</summary>
+
+[Country page](#ZM)
+- [](#)
+
+</details><!-- VIII -->
 
 Kenya (only [Kisumu port](#kisumu_port))
 </details><!-- I -->
