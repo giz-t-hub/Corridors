@@ -23,7 +23,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [10| Durban - Lusaka](#C10)
 	- [11| Cairo - Khartoum - Juba - Kampala](#C11)
 	- [12| Lobito - Kabwe](#C12)
-	- [Central Corridor](#central)
+	- [Central Corridor](#Ccentral)
 - <b>[Countries](#countries)</b>
 	- [Angola](#AO)
 	- [Benin](#BJ)		| [Botswana](#BW)	| [Burkina-Faso](#BF)				| [Burundi](#BI)
@@ -58,7 +58,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 - [10| Durban - Lusaka](#C10)
 - [11| Cairo - Khartoum - Juba - Kampala](#C11)
 - [12| Lobito - Kabwe](#C12)
-- [Central Corridor](#central)
+- [Central Corridor](#Ccentral)
 
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="C1"></a>
@@ -191,7 +191,7 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 
 [Corridor overview](#corridors) | [Back to the top](#top)
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
-<a name="central"></a>
+<a name="Ccentral"></a>
 ## Central Corridor 
 [Map view](https://www.google.com/maps/d/viewer?mid=1ENTMAlTRZe9FcCgVZPISppEB556YW5g&ll=-4.4338554114748785%2C34.07183650000001&z=7)
 
@@ -1022,7 +1022,12 @@ Angola has three independent railway lines:
 ### Important cities along the corridors
 
 <a name="benguela"></a>
-- ***Benguela*** 
+<details><!-- benguele -->
+<summary>Benguela</summary>
+
+
+
+</details><!-- benguela -->
 
 [Country overview](#countries) | [Back to the top](#top)
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
@@ -1094,15 +1099,28 @@ Angola has three independent railway lines:
 
 <a name="BW_cities"></a>
 ### Important cities along the corridors
-
 <a name="francistown"></a>
-- **Francistown**
-<a name="gaborone"></a>
-- **Gaborone**
-<a name="palapye"></a>
-- **Palapye**
-	-  Capital of Botswana
+<details><!-- Francistown -->
+<summary>Francistown</summary>
 
+
+
+</details><!-- Francistown -->
+<a name="gaborone"></a>
+<details><!-- Gaborone -->
+<summary>Gaborone</summary>
+-  Capital of Botswana
+
+
+</details><!-- Gaborone -->
+<a name="palapye"></a>
+<details><!-- Palapye -->
+<summary>Palapye</summary>
+
+
+</details><!-- Palapye -->
+
+### further Information
 
 [Country overview](#countries) | [Back to the top](#top)
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
@@ -1143,26 +1161,81 @@ Angola has three independent railway lines:
 [Country overview](#countries) | [Back to the top](#top)
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="BI"></a>
-## Burundi 
+## Republic of Burundi 
+Population: 14,151,540 (2024)
 
 <a name="BI_corridors"></a>
 ### Related Corridors 
-[Central Corridor](#central)
+[Central Corridor](#Ccentral)
 
 <a name="BI_trade"></a>
 ### Trade volumes
 
+- [General Directorate of Commerce](https://mctit.gov.bi/direction-generale-du-commerce/)
+- Exports:
+  - Coffee
+  - Cotton
+  - Tin ore
+
 <a name="BI_road"></a>
 ### Road network
+
+Responsible for vehicle inspections and running some bus lines is the state-owned [Public Transport Office](https://mctit.gov.bi/office-de-transport-en-commun-otraco/) (OTRACO).
+
+<a name="BF_railway"></a>
+### Rail network
+Currently, Burundi has no railway system. As part of the EAC's [East African Railways Master Plan](https://www.eac.int/infrastructure/railways-transport-sub-sector/92-sector/infrastructure/railways) it is planned to connect [Bujumbura](#bujumbura) to [Mombasa](#mombasa) (Kenya) via [Kigali](#kigali) (Rwanda) and Uganda.
 
 <a name="BI_water"></a>
 ### Water-bourne transport
 
+- [Maritime and Port Authority of Burundi](https://mctit.gov.bi/autorite-maritime-et-portuaire-du-burundi-ampb/) (AMPB)
+
+Ports
+
+<a name="bujumbura_port"></a>
+- Port of Bujumbura
+  - Operator: [Global Port Services Burundi](https://mctit.gov.bi/brarudi/) (GPSB) [Site [gpsb.bi](https://gpsb.bi) offline (June 2025)] 
+    - Public-private partnership
+ 
 <a name="BI_fleet"></a>
 ### Fleet characteristics
 
 <a name="BI_cities"></a>
 ### Important cities along the corridors
+<a name="bujumbura"></a>
+<details><!-- Bujumbura -->
+<summary>Bujumbura</summary>
+
+- Population: 374,809 (2023)
+- Economic capital of Burundi
+- 
+
+</details><!-- Bujumbura -->
+<a name="gitega"></a>
+<details><!-- Gitega -->
+<summary>Gitega</summary>
+
+- Population: 135,467 (2020)
+- Political capital of Burundi
+- 
+
+</details><!-- Gitega -->
+<a name="muyinga"></a>
+<details><!-- Muyinga -->
+<summary>Muyinga</summary>
+
+- Population: 100,715 (2012)
+- 
+
+</details><!-- Muyinga -->
+
+### Further information
+
+- [Ministry for Trade, Transport, Industry and Tourism](https://mctit.gov.bi/) (Ministère du Commerce, du Transport, de l'Industrie et du Tourisme (MCTIT))
+  - [General Directorate of Commerce](https://mctit.gov.bi/direction-generale-du-commerce/)
+  - [General Directorate of Transport](https://mctit.gov.bi/direction-general-du-transport/)
+  - [General Directorate of Industry](https://mctit.gov.bi/direction-generale-de-lindustrie/)
 
 [Country overview](#countries) | [Back to the top](#top)
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
@@ -1702,8 +1775,8 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 ### Rail network
 | Network profile | |
 | ---             | --- |
-| System Size:    | 3,383 km |
-| Track gauge:    | 1,000 mm (2,778 km)<br> 1,435 mm (605 km) |
+| System Size:    | 3,357 km |
+| Track gauge:    | 1,000 mm (2,778 km)<br> 1,435 mm (579 km) |
 | Operators:      | state-owned Kenya Railways (KR) |
 <!-- | System Map:     | []() | -->
 
@@ -1715,9 +1788,11 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 Ports
 
   <a name="kisumu_port"></a>
-- [Kisumu Small Port](https://www.kpa.co.ke/OurBusiness/Pages/Kisumu.aspx)
+- [Kisumu Small Port](https://www.kpa.co.ke/OurBusiness/Pages/Kisumu.aspx) (Lake Victoria)
   <a name="mombasa_port"></a>
 - [Port of Mombasa](https://www.kpa.co.ke/SitePages/PortofMombasa.aspx)
+- ...
+
   
 <a name="KE_fleet"></a>
 ### Fleet characteristics
@@ -2156,7 +2231,7 @@ The single railway line connects Wau to Sudan.
 ### Rail network
 | Network profile | |
 | ---             | --- |
-| System Size:    | ~3,600 km |
+| System Size:    | 3,676 km |
 | Track gauge:    | 1,000 mm (~2,600 km)<br> 1,067 mm (~1,000 km) |
 | Operators:      | state-owned [Tanzania Railways Corporation](https://www.trc.co.tz/) (TRC)<br> state-owned [Tanzania-Zambia Railway Authority](https://tazarasite.com/) (TAZARA) |
 | System Map:     | [TRC](https://www.trc.co.tz/site/files/trl-routes.pdf) (PDF) |
@@ -2270,10 +2345,12 @@ The single railway line connects Wau to Sudan.
 ### Rail network
 | Network profile | |
 | ---             | --- |
-| System Size:    |  km |
+| System Size:    | 1,250 km |
 | Track gauge:    |  mm |
 | Operators:      |  |
 | System Map:     | []() |
+
+Currently only [265 km are servicable](https://www.eac.int/infrastructure/railways-transport-sub-sector/92-sector/infrastructure/railways).
 
 
 ### Water-bourne transport
