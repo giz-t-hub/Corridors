@@ -205,30 +205,31 @@ This is the [EAC's Central Corridor](https://www.eac.int/infrastructure/road-tra
 <summary>Burndi</summary>
 
 [Country page](#BI)
-- [Bujumbura](#bujumbura)
-- [Gitega](#gitega)
+- [Bujumbura](#bujumbura) (economic capital)
+- [Gitega](#gitega) (political capital)
+- [Muyinga](#muyinga)
 
-</details><!-- II -->
+</details><!-- /II -->
 <details><!-- III -->
 <summary>DR Congo</summary>
 
 [Country page](#CD)
 - [](#)
 
-</details><!-- III -->
+</details><!-- /III -->
 <details><!-- IV -->
 <summary>Malawi</summary>
 
 - [](#)
 
-</details><!-- IV -->
+</details><!-- /IV -->
 <details><!-- V -->
 <summary>Rwanda</summary>
 
 [Country page](#RW)
 - [](#)
 
-</details><!-- V -->
+</details><!-- /V -->
 <details><!-- VI -->
 <summary>Tanzania</summary>
 
@@ -236,24 +237,24 @@ This is the [EAC's Central Corridor](https://www.eac.int/infrastructure/road-tra
 - [Dar es Salaam](#dar_es_salaam) (Capital), [(deep) sea port](#dar_port)
 - [Isaka](#isaka)
 
-</details><!-- VI -->
+</details><!-- /VI -->
 <details><!-- VII -->
 <summary>Uganda</summary>
 
 [Country page](#UG)
 - [](#)
 
-</details><!-- VII -->
+</details><!-- /VII -->
 <details><!-- VIII -->
 <summary>Zambia</summary>
 
 [Country page](#ZM)
 - [](#)
 
-</details><!-- VIII -->
+</details><!-- /VIII -->
 
 Kenya (only [Kisumu port](#kisumu_port))
-</details><!-- I -->
+</details><!-- /I -->
 
 "The Central Corridor is the integrated multimodal transport and logistics network that connects the Central Corridor Transit Transport Facilitation Agency (CCTTFA) Member States to the sea through the [port of Dar es Salaam](#dar_port)" ([CCTTFA](https://centralcorridor-ttfa.org/overview/))
 
@@ -277,29 +278,42 @@ Kenya (only [Kisumu port](#kisumu_port))
 13. Association Burundaise des Agences en Douanes et Transitaires (ABADT)
 14. Association des Transporteurs Internationaux du Burundi (ATIB)
 
-</details><!-- burundi stakeholders -->
+</details><!-- /burundi stakeholders -->
+<details><!-- drcongo stakeholders -->
+<summary>DR Congo</summary>
+
+1. 
+
+</details><!-- /drcongo stakeholders -->
+<details><!-- malawi stakeholders -->
+<summary>Malawi</summary>
+
+1. 
+
+</details><!-- /malawi stakeholders -->
 <details><!-- rwanda stakeholders -->
 <summary>Rwanda</summary>
 
-1. Ministry of Infrastructure
-2. Ministry of Trade & Industry
-3. Private Sector Federation – Rwanda
+1. [Ministry of Infrastructure](https://www.mininfra.gov.rw/) (MININFRA)
+2. [Ministry of Trade & Industry](https://www.minicom.gov.rw/) (MINICOM)
+3. [Private Sector Federation](https://psf.org.rw/) (PSF)
 4. Magasins Généraux du Rwanda (MAGERWA)
-5. Association of Transporters of Rwanda – ATAR
-6. Association of Insurers of Rwanda
-7. Association of Clearing & Forwarding Agents of Rwanda – ADAR
-8. Rwanda Revenue Authority
-9. Rwanda Transport Development Authority (RTDA)
-10. Rwanda Mining Association
-11. Rwanda Petroleum Exporters Association
-12. Rwanda Police Force – Traffic Police
-13. Rwanda Development Board
-14. Rwanda Standards Board (RSB)
-15. Ministry of Finance & Economic Planning
-16. Ministry of Foreign Affairs & Cooperation
-17. Directorate of Rwanda Immigration/Emigration
+5. [Association of Transporters of Rwanda](#RW-ATAR) (ATAR)
+7. Association of Insurers of Rwanda (ASSAR)
+8. [Rwanda Freight Forwarders Association](https://rwaffa.com/) (RWAFFA) \[French: Association des Agences en Douane au Rwanda (ADR)]
+9. [Rwanda Revenue Authority](https://www.rra.gov.rw/en/home) (RRA)
+10. [Rwanda Transport Development Agency](https://www.rtda.gov.rw/home) (RTDA)
+11. [Rwanda Mining Association](https://rma.org.rw/index.html) (RMA)
+12. [Rwanda Association of Petroleum Products Importers](http://assimper.rw/) (ASSIMPER)
+13. Rwanda Petroleum Exporters Association
+14. Rwanda Police Force – Traffic Police
+15. [Rwanda Development Board](https://rdb.rw/) (RDB)
+16. [Rwanda Standards Board](https://www.rsb.gov.rw/) (RSB)
+17. [Ministry of Finance & Economic Planning](https://www.minecofin.gov.rw/) (MINECOFIN)
+18. [Ministry of Foreign Affairs & Cooperation](https://www.minaffet.gov.rw/) (MINAFFET)
+19. [Directorate of Rwanda Immigration/Emigration](https://www.migration.gov.rw/)
 
-</details>
+</details><!-- /rwanda stakeholders -->
 <details><!-- tanzania stakeholders -->
 <summary>Tanzania</summary>	
 
@@ -324,7 +338,7 @@ Kenya (only [Kisumu port](#kisumu_port))
 19. Directorate of Tanzania Immigration
 20. Tanzania Bureau of Standards (TBS)
  
-</details><!-- tanzania stakeholders -->
+</details><!-- /tanzania stakeholders -->
 <details><!-- uganda stakeholders -->
 <summary>Uganda</summary>	
 
@@ -345,13 +359,19 @@ Kenya (only [Kisumu port](#kisumu_port))
 15. Uganda Police Force
 16. Directorate of Uganda Immigration
  
-</details><!-- uganda stakeholders -->
+</details><!-- /uganda stakeholders -->
+<details><!-- zambia stakeholders -->
+<summary>Zambia</summary>
 
-- **[Tanzania Railways Corporation](https://www.trc.co.tz/)** (TRC)
+1. 
+
+</details><!-- /zambia stakeholders -->
+
+- [Tanzania Railways Corporation](https://www.trc.co.tz/) (TRC)
   - state-owned by Tanzania
   - operator and owner of Tanzania's ~2,600 km metre gauge railway system
   - operator and owner of [Isaka Dry Port](https://www.trc.co.tz/pages/dry-ports) in tanzania
-- **[Tanzania-Zambia Railway Authority](https://tazarasite.com/)** (TAZARA)
+- [Tanzania-Zambia Railway Authority](https://tazarasite.com/) (TAZARA)
   - state-owned by Tanzania and Zambia
   - 
 
@@ -1093,6 +1113,80 @@ Kenya (only [Kisumu port](#kisumu_port))
 	  	</details>
 
   </details>
+<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> COUTRY TEMPLATE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<a name="ISO2"></a>
+## Country 
+
+<br>
+<a name="ISO2_corridors"></a>
+
+
+### Related Corridors 
+[Corridor X](#Cx) | [Corridor Y](#Cy)
+
+<br>
+<a name="ISO2_trade"></a>
+
+
+### Trade volumes
+
+<br>
+<a name="ISO2_road"></a>
+
+
+### Road network
+| Network profile |     |
+| ---             | --- |
+| Network size:   |  km |
+| Axle load limit:|  t  |
+| Network map:    | []()|
+
+<br>
+<a name="ISO2_railway"></a>
+
+
+### Rail network
+| Network profile |     |
+| ---             | --- |
+| Systen size:    |  km |
+| Track gauge:    |  mm |
+| Operators:      | []()|
+| System Map:     | []()|
+
+<br>
+<a name="ISO2_water"></a>
+
+
+### Water-bourne transport
+
+<br> 
+<a name="ISO2_fleet"></a>
+
+
+### Fleet characteristics
+
+<br>
+<a name="ISO2_cities"></a>
+
+
+### Important cities along the corridors
+<a name="city"></a>
+<details><!-- city - ->
+<summary>City</summary>
+
+- Population: 
+- 
+
+</details><!-- /city - ->
+
+<br>
+
+### Further information
+
+<br><br>++
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> /COUTRY TEMPLATE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="AO"></a>
 ## Angola
@@ -1311,8 +1405,8 @@ Population: 14,151,540 (2024)
 | Network profile | |
 | ---             | --- |
 | Network size:   | 12,000 km |
-| Axle load limit:| 48 t |
-| Map: | [Logistics Cluster](https://lca.logcluster.org/sites/default/files/confluence/BDI_LCA_RoadNetwork_A4P_20201211.png%3Fversion%3D1%26modificationDate%3D1612521545000%26api%3Dv2) |
+| Axle load limit:| 53 t on seven standard axles |
+| Network map: | [Logistics Cluster](https://lca.logcluster.org/sites/default/files/confluence/BDI_LCA_RoadNetwork_A4P_20201211.png%3Fversion%3D1%26modificationDate%3D1612521545000%26api%3Dv2) |
 
 Of the ~12.000 km road network
 
@@ -1337,7 +1431,7 @@ Responsible for vehicle inspections and running some bus lines is the state-owne
 
 ### Water-bourne transport
 
-- [Maritime and Port Authority of Burundi](https://mctit.gov.bi/autorite-maritime-et-portuaire-du-burundi-ampb/) (AMPB)
+- [Maritime and Port Authority of Burundi](https://mctit.gov.bi/autorite-maritime-et-portuaire-du-burundi-ampb/) (Autorité Portuaire, Maritime et Ferroviaire du Burundi, AMPF)
 
 Ports
 
@@ -1395,6 +1489,7 @@ Water-bourne
 </details><!-- Muyinga -->
 
 <br>
+
 ### Further information
 
 - [LCA](https://lca.logcluster.org/burundi)
@@ -1403,7 +1498,14 @@ Water-bourne
   - [General Directorate of Transport](https://mctit.gov.bi/direction-general-du-transport/)
   - [General Directorate of Industry](https://mctit.gov.bi/direction-generale-de-lindustrie/)
 - [Ministry of Foreign Affairs and Development Cooperation](https://www.mae.gov.bi/en/) (Ministre des Affaires Etrangères et de la Coopération au Développement, MAE)
+- Ministry of Transport, Works & Equipment
+- [Ministry of Commerce and Industries](https://mctit.gov.bi/)
+- [Customs](https://www.obr.bi/index.php/en/) (Office Burundais des Recettes, OBR)
+- [Burundi Road Agency](https://www.agenceroutiereduburundi.bi/) (l'Agence Routière du Burundi, ARB)
+- [Bureau Burundais de Normalisation](https://mctit.gov.bi/bureau-burundais-de-normalisation-bbn/) (BBN)
+- [Burundi Global Ports Services](https://mctit.gov.bi/brarudi/) (GPS)
 
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="CV"></a>
@@ -2121,20 +2223,154 @@ Ports
 <a name="RW"></a>
 ## Rwanda 
 
+<br>
+<a name="RW_corridors"></a>
+
+
 ### Related Corridors 
 [08 Mombasa - Kisangani](#C8) | [Central Corridor](#central)
 
+<br>
+<a name="RW_trade"></a>
+
+
 ### Trade volumes
 
+<br>
+<a name="RW_road"></a>
+
+
 ### Road network
-"Currently [2025], Rwanda has no railway network. However, the country is working in partnership with other countries of the region to find a railway network." ([Ministry of Infrastructure Rwanda](https://www.mininfra.gov.rw/1/transport) (MININFRA))
+
+- [Rwanda Transport Development Agency](https://www.rtda.gov.rw/home) (RTDA)
+
+| Network profile | |
+| ---             | --- |
+| Network size:   | 18,846 km |
+| Axle load limit:| 53 t on seven standard axles |
+| Network map:    | [RTDA](https://www.rtda.gov.rw/index.php?eID=dumpFile&t=f&f=58902&token=ce223abc45196da6ab617b5f5fb5a7b2e3a7360d) |
+
+Of the 18,846 km
+
+- ~7,500 km are paved
+- 11,346 km are unpaved
+
+<br>
+
+- In-land port "[Kigali Logistics Platform](https://www.dpworld.com/rwanda/about-us/what-we-do)" operated by [DP World](https://www.dpworld.com/) (UAE)
+
+<br>
+<a name="BF_railway"></a>
+
+
+### Rail network
+"Currently [2025], Rwanda has no railway network. However, the country is working in partnership with other countries of the region to find a railway network." ([Ministry of Infrastructure Rwanda](https://www.mininfra.gov.rw/1/transport) (MININFRA))<br>
+"At present, two major rail transport corridors connecting the country to the Indian Ocean are in pipeline, with the Northern Corridor running from Mombasa-Nairobi-Kampala to Kigali, and the Central Corridor linking Kigali with Dar Es Salaam. The proposed railway in Rwanda will be a single ballasted, standard gauge system with maximum speed of 120 Kph for passenger and 80 Kph for freight." [Logistics Cluster
+](https://lca.logcluster.org/rwanda-24-railway-assessment)
+
+<br>
+<a name="BI_water"></a>
+
 
 ### Water-bourne transport
+"Rwanda is a landlocked country and thus has no coastline or maritime claims. It therefore relies on the ports of Mombasa in Kenya and Dar es Salaam in Tanzania for most of its imports and exports." [Logistics Cluster](https://lca.logcluster.org/rwanda-21-port-assessment) (see "Road network")
+
+<br> 
+<a name="BI_fleet"></a>
+
 
 ### Fleet characteristics
 
-### Important cities along the corridors
+<br>
+<a name="BI_cities"></a>
 
+
+### Important cities along the corridors
+<a name="kigali"></a>
+<details><!-- kigali -->
+<summary>Kigali</summary>
+
+- Population: 
+- Capital of Rwanda
+- 
+
+</details><!-- kigali -->
+
+<br>
+
+### Further information
+
+- [LCA](https://lca.logcluster.org/rwanda)
+- [Ministry of Infrastructure](https://www.mininfra.gov.rw/) (MININFRA)
+- [Ministry of Trade & Industry](https://www.minicom.gov.rw/) (MINICOM)
+- [Ministry of Finance & Economic Planning](https://www.minecofin.gov.rw/) (MINECOFIN)
+- [Ministry of Foreign Affairs & Cooperation](https://www.minaffet.gov.rw/) (MINAFFET)
+- [Directorate of Rwanda Immigration/Emigration](https://www.migration.gov.rw/)
+- [Rwanda Revenue Authority](https://www.rra.gov.rw/en/home) (RRA)
+- [Rwanda Transport Development Agency](https://www.rtda.gov.rw/home) (RTDA)
+- [Rwanda Mines, Petroleum and Gas Board](https://www.rmb.gov.rw/) (RMB)
+- [Private Sector Federation](https://psf.org.rw/) (PSF)
+  <a name="RW-ATAR"></a>
+- Association of Transporters of Rwanda (ATAR)
+	<details>
+	<summary>ATAR summary</summary>
+	
+	(Source: [PSF chamber of commerce and services](http://chamberofcommerce.rw/regional-transporters-atar/#) \[association with PSF unclear])<br><br>
+	MISSION
+
+	- Finding the solutions to the problems they are facing.
+	- Advocacy for transporters
+	- Revising means for transporter to find employment either with in the country or outside its borders.
+	<br>
+	The association did achieve all its goals but like as every inch of Rwanda the association was destroyed by the 1994 Genocide against Tutsi and after the genocide the member found it difficult to re-organise again hence the association being dormant.<br><br>
+	REANIMATION OF A.T.A.R<br><br>
+	On 23/08/2019 PSF called forth a meeting of all international transporters and it was delegated by the president of PSF.<br><br>
+	GOALS
+
+	- Electing a committee
+	- Establishing the Executive committee
+	<br>
+	DUTIES OF THE COMMITTEE
+
+	- Preparing general meeting
+	- Describing in details the duties of the executive committee.
+	<br>
+	ACHIEVEMENTS
+
+	- Registration of the association in all the ministries MINICOM, MININFRA and all the organization with transport in their duties.
+	- Revising transport as a sector and attending all the meetings in question and giving suggestions in prospect to transport.
+  
+	</details> 
+- [Rwanda Freight Forwarders Association](https://rwaffa.com/) (RWAFFA) \[French: Association des Agences en Douane au Rwanda (ADR)]
+- [Rwanda Mining Association](https://rma.org.rw/index.html) (RMA)
+- [Rwanda Association of Petroleum Products Importers](http://assimper.rw/) (ASSIMPER)
+	<details>
+	<summary>ASSIMPER summary</summary>
+	
+	(Source: [PSF chamber of commerce and services](http://chamberofcommerce.rw/importers-of-petroleum-products-assimper/) \[association with PSF unclear])<br><br>
+	The “Rwanda Association of Petroleum Products Importers (ASSIMPER)” include 18 oil companies that are active in the importation and distributions of petroleum products in the Rwanda Market.<br>
+	ASSIMPER is a Rwandan association that was founded based on the following main objectives:
+
+	- To help improving the standards of the Oil sector in Rwanda, and consequently improve the quality of related services
+	- To join the Economical bodies as an active member in order to contribute in the development of the national economy
+	- To play a proactive role with the national administration and legislative bodies in order to modernize the laws and regulations related to the Oil Industry in Rwanda
+	<br>
+	PETROLEUM OVERVIEW<br>
+	Rwanda has an ambitious target of increasing its strategic storage capacity to an equivalent of 4 months from 1.5 months of consumption requirements, the target being to have a storage capacity of 150 million litres by 2017. Currently the total fuel storage capacity splits among 5 depots in Rwanda which is 31,700 M3. Due this reason, the GoR has been encouraging the private sector to consider investing in oil storage depots to cater for the growing demand and supply security at times of necessity given the uncertainty surrounding the supply which comes exclusively overland.<br>
+	<br>
+	PETROL SERVICE STATIONS<br>
+	Petroleum products account for 11% of the primary energy use in Rwanda.  The products are mainly used for transportation and more than 80% is consumed as diesel or petrol. The total use of petroleum products corresponds to a daily oil consumption of 5,600 bbls.  The use of petroleum products is expected to grow with an annual average rate of 10%.  The combination of high prices of fuels on the international market and the very long and expensive overland supply route is resulting in very high prices for petroleum products in Rwanda.<br>
+	Petroleum products sold at the Rwandan market include white fuels (gasoline, diesel, kerosene, various industrial & auto lubricants, etc.); black fuels (bitumen, black oil, etc.) and other petroleum products such as Liquefied Petroleum Gas (LPG).<br>
+	<br>
+	LIQUIFIED PETROLEUM GAS (LPG)<br>
+	The national energy balance shows that 86% of all energy consumed in Rwanda is utilized in the form of biomass. In order to reduce the strong reliance on biomass, various strategies were identified in the forms of alternative energy including LPG to replace wood and charcoal for domestic and institutional heating and cooking.<br>
+	Distribution of LPG in Rwanda is through the mainstream of oil marketers who source the product through Kenya and Tanzania by road using bulk trucks of maximum 20 Mt. Retail channels of distribution are through service stations, distributors and supermarkets in an assortment of cylinder sizes ranging from 3 Kg to 35 Kg.
+
+ 	</details>
+- [Rwanda Development Board](https://rdb.rw/) (RDB)
+- [Rwanda Standards Board](https://www.rsb.gov.rw/) (RSB)
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="ST"></a>
@@ -2153,6 +2389,7 @@ Ports
 
 ### Important cities along the corridors
 
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="SN"></a>
