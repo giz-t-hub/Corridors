@@ -227,7 +227,8 @@ This is the [EAC's Central Corridor](https://www.eac.int/infrastructure/road-tra
 <summary>Rwanda</summary>
 
 [Country page](#RW)
-- [](#)
+- [Gisenyi](#gisenyi)
+- [Kigali](#kigali)
 
 </details><!-- /V -->
 <details><!-- VI -->
@@ -282,13 +283,41 @@ Kenya (only [Kisumu port](#kisumu_port))
 <details><!-- drcongo stakeholders -->
 <summary>DR Congo</summary>
 
-1. 
+1. Ministry of Transport and Ways of Communications
+2. Ministry responsible for Public Works and Infrastructure
+3. Ministry of Regional Cooperation
+4. Ministry of Small and Medium Entreprises
+5. Ministry of Trade and Industry
+6. Société Nationale des Chemins de Fer du Congo (SNCC)
+7. La Générale des Carrières et des Mines (GECAMINES)
+8. Régie des Voies Fluviales ( RVF)
+9. Société Commecilale des Transports et des Ports (SCTP)
+10. Office des Routes (OR)
+11. Office de Gestion du Fret Multimodal (OGEFREM)
+12. Lignes Maritimes Congolaises (LMC)
+13. Direction Générales des Douanes et Accises (DGDA)
+14. Chemin de Fer des Uélé (CFU)
+15. Office Congolais de Contrôle (OCC)
+16. Direction Générale des Migrations
+17. Fédération des Entreprises du Congo (FEC)
 
 </details><!-- /drcongo stakeholders -->
 <details><!-- malawi stakeholders -->
 <summary>Malawi</summary>
 
-1. 
+1. Ministry of Transport and Public Works
+2. Malawi Bureau of Standards
+3. The Roads Authority
+4. Ministry responsible for Trade
+5. Ministry responsible for Industrial development
+6. Malawi Confederation of the Chambers of Commerce and Industry (MCCCI)
+7. Malawi Revenue Authority
+8. Ministry/ Department responsible for Immigration services
+9. Malawi Railways (1994) Limited
+10. Marine transport Operators
+11. Association of Freight Forwarders and Clearing Agents
+12. Road Transporters Association of Malawi
+13. Private Sector Federation
 
 </details><!-- /malawi stakeholders -->
 <details><!-- rwanda stakeholders -->
@@ -363,7 +392,21 @@ Kenya (only [Kisumu port](#kisumu_port))
 <details><!-- zambia stakeholders -->
 <summary>Zambia</summary>
 
-1. 
+1. Ministry of Transport and Logistics – Zambia
+2. Zambia Railways Limited (ZRL)
+3. Zambia Revenue Authority (ZRA)
+4. Road Transport Safety Agency (RTSA)
+5. Zambia Bureau of Standards (ZABS)
+6. Zambia Compulsory Standards Agency (ZCSA)
+7. Department of Immigration
+8. Zambia Development Agency (ZDA)
+9. Road Development Agency (RDA)
+10. Ministry of Commerce, Trade and Industry
+11. Ministry of Infrastructure
+12. Oil Transporters Association of Zambia
+13. SADC Truck Drivers Association of Zambia
+14. Petroleum Transporters Association of Zambia
+15. Copperbelt Open Truckers Association
 
 </details><!-- /zambia stakeholders -->
 
@@ -890,7 +933,8 @@ Kenya (only [Kisumu port](#kisumu_port))
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
 
-	  	- [](#)
+	  	- [Gisenyi](#gisenyi)
+   		- [Kigali](#kigali)
 
 	  	</details>
 
@@ -1184,7 +1228,7 @@ Kenya (only [Kisumu port](#kisumu_port))
 
 ### Further information
 
-<br><br>++
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>> /COUTRY TEMPLATE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
@@ -1651,17 +1695,29 @@ Water-bourne
 <a name="CD"></a>
 ## Democratic Republic of the Congo 
 
+<br>
 <a name="CD_corridors"></a>
+
+
 ### Related Corridors 
 [06 Douala/Kribi - Kampala](#C6) | [08 Mombasa - Kisangani](#C8) | [12 Lobito - Kabwe](#C12)
 
+<br>
 <a name="CD_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="CD_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="CD_railway"></a>
+
+
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -1671,14 +1727,39 @@ Water-bourne
 | System Map:     | [SNCC](https://www.snccsa.com/qui-sommes-nous/) |
 
 
+<br>
 <a name="CD_water"></a>
-### Water-bourne transport
 
+
+### Water-bourne transport
+![Port network](https://lca.logcluster.org/sites/default/files/2023-07/COD_LCA_Port_A4P_20230713.png)
+
+
+<br>
 <a name="CD_fleet"></a>
+
+
 ### Fleet characteristics
+
+<br>
+
 
 <a name="CD_cities"></a>
 ### Important cities along the corridors
+<a name="muyinga"></a>
+<details><!-- Muyinga -->
+<summary>Muyinga</summary>
+
+- Population: 100,715 (2012)
+- 
+
+</details><!-- Muyinga -->
+
+<br>
+
+### Further information
+
+<br><br>
 
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
@@ -2255,42 +2336,53 @@ Of the 18,846 km
 - ~7,500 km are paved
 - 11,346 km are unpaved
 
+> Many of the paved primary roads are steep, especially in the Northern and Southern provinces, and therefore travel speeds along these roads should be quite slow.<br>
+Secondary roads are generally acceptable for small trucks (15 MT max) but require 4WD during rainy seasons especially on roads in mountainous areas. These roads are narrow, steep and difficult to pass during the 6 – 7 month long rainy season. The condition of the district roads in rural areas will only allow small trucks of a 10 MT capacity during the dry season and only about 5 mt during the rainy season. ([Logistics Cluster](https://lca.logcluster.org/rwanda-23-road-network))
+
 <br>
 
 - In-land port "[Kigali Logistics Platform](https://www.dpworld.com/rwanda/about-us/what-we-do)" operated by [DP World](https://www.dpworld.com/) (UAE)
 
 <br>
-<a name="BF_railway"></a>
+<a name="RW_railway"></a>
 
 
 ### Rail network
-"Currently [2025], Rwanda has no railway network. However, the country is working in partnership with other countries of the region to find a railway network." ([Ministry of Infrastructure Rwanda](https://www.mininfra.gov.rw/1/transport) (MININFRA))<br>
-"At present, two major rail transport corridors connecting the country to the Indian Ocean are in pipeline, with the Northern Corridor running from Mombasa-Nairobi-Kampala to Kigali, and the Central Corridor linking Kigali with Dar Es Salaam. The proposed railway in Rwanda will be a single ballasted, standard gauge system with maximum speed of 120 Kph for passenger and 80 Kph for freight." [Logistics Cluster
-](https://lca.logcluster.org/rwanda-24-railway-assessment)
+> Currently [2025], Rwanda has no railway network. However, the country is working in partnership with other countries of the region to find a railway network. ([Ministry of Infrastructure Rwanda](https://www.mininfra.gov.rw/1/transport) (MININFRA))<br>
+> At present, two major rail transport corridors connecting the country to the Indian Ocean are in pipeline, with the Northern Corridor running from Mombasa-Nairobi-Kampala to Kigali, and the Central Corridor linking Kigali with Dar Es Salaam. The proposed railway in Rwanda will be a single ballasted, standard gauge system with maximum speed of 120 Kph for passenger and 80 Kph for freight. ([Logistics Cluster](https://lca.logcluster.org/rwanda-24-railway-assessment))
 
 <br>
-<a name="BI_water"></a>
+<a name="RW_water"></a>
 
 
 ### Water-bourne transport
-"Rwanda is a landlocked country and thus has no coastline or maritime claims. It therefore relies on the ports of Mombasa in Kenya and Dar es Salaam in Tanzania for most of its imports and exports." [Logistics Cluster](https://lca.logcluster.org/rwanda-21-port-assessment) (see "Road network")
+> Rwanda is a landlocked country and thus has no coastline or maritime claims. It therefore relies on the ports of Mombasa in Kenya and Dar es Salaam in Tanzania for most of its imports and exports. [Logistics Cluster](https://lca.logcluster.org/rwanda-21-port-assessment) (see "Road network")
 
 <br> 
-<a name="BI_fleet"></a>
+<a name="RW_fleet"></a>
 
 
 ### Fleet characteristics
 
 <br>
-<a name="BI_cities"></a>
+<a name="RW_cities"></a>
 
 
 ### Important cities along the corridors
+<a name="gisenyi"></a>
+<details><!-- gisenyi -->
+<summary>Gisenyi</summary>
+
+- Population: 252,090 (2022)
+- Capital of th Western Province of Rwanda
+- 
+
+</details><!-- gisenyi -->
 <a name="kigali"></a>
 <details><!-- kigali -->
 <summary>Kigali</summary>
 
-- Population: 
+- Population: 1,745,555
 - Capital of Rwanda
 - 
 
