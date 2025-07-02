@@ -284,22 +284,23 @@ Kenya (only [Kisumu port](#kisumu_port))
 <summary>DR Congo</summary>
 
 1. Ministry of Transport and Ways of Communications
-2. Ministry responsible for Public Works and Infrastructure
-3. Ministry of Regional Cooperation
-4. Ministry of Small and Medium Entreprises
-5. Ministry of Trade and Industry
-6. Société Nationale des Chemins de Fer du Congo (SNCC)
-7. La Générale des Carrières et des Mines (GECAMINES)
-8. Régie des Voies Fluviales ( RVF)
-9. Société Commecilale des Transports et des Ports (SCTP)
-10. Office des Routes (OR)
-11. Office de Gestion du Fret Multimodal (OGEFREM)
-12. Lignes Maritimes Congolaises (LMC)
-13. Direction Générales des Douanes et Accises (DGDA)
-14. Chemin de Fer des Uélé (CFU)
-15. Office Congolais de Contrôle (OCC)
-16. Direction Générale des Migrations
-17. Fédération des Entreprises du Congo (FEC)
+2. [Ministry responsible for Public Works and Infrastructure](https://infrastructures.gouv.cd/)
+3. [Ministry of Regional Cooperation](https://integration-regionale.gouv.cd/le-ministre.php)
+4. [Ministry of Small and Medium Entreprises](https://pme.gouv.cd/)
+5. [Ministry of Foreign Trade](https://commerce.gouv.cd/)
+6. Ministry of Trade and Industry
+7. [Société Nationale des Chemins de Fer du Congo](https://www.snccsa.com/) (SNCC)
+8. [La Générale des Carrières et des Mines](https://gecamines.cd/) (GECAMINES)
+9. Régie des Voies Fluviales ( RVF)
+10. [Société Commecilale des Transports et des Ports](https://sctp-sa-rdc.online/) (SCTP)
+11. [Office des Routes](https://www.officedesroutes.cd/) (OR)
+12. [Office de Gestion du Fret Multimodal](https://ogefremsite.org/) (OGEFREM)
+13. [Lignes Maritimes Congolaises](https://lmc.cd/) (LMC)
+14. [Direction Générales des Douanes et Accises](https://douane.gouv.cd/) (DGDA)
+15. Chemin de Fer des Uélé (CFU)
+16. [Office Congolais de Contrôle](https://www.occ.cd/) (OCC)
+17. [Direction Générale des Migrations](https://interieur.gouv.cd/services/details/DGM)
+18. [Fédération des Entreprises du Congo](https://fec-rdc.com/) (FEC)
 
 </details><!-- /drcongo stakeholders -->
 <details><!-- malawi stakeholders -->
@@ -1732,7 +1733,15 @@ Water-bourne
 
 
 ### Water-bourne transport
-![Port network](https://lca.logcluster.org/sites/default/files/2023-07/COD_LCA_Port_A4P_20230713.png)
+The DR Congo has a total of 16,238 km of navigable waterways and counts around forty river and lake ports: 
+[Port network](https://lca.logcluster.org/sites/default/files/2023-07/COD_LCA_Port_A4P_20230713.png)<br>
+Port of Matadi: [Matadi Gateway Terminal](https://www.mgt.cd/en) (MGT)
+
+- Capacity:
+	- 175,000 [TEU](https://en.wikipedia.org/wiki/Twenty-foot_equivalent_unit)
+	- 350,000 t
+- operated by ICTSI DR Congo S.A. (IDRCSA), a subsidiary of the joint venture between ICTSI Cooperatif U.A. (subs. of [International Container Terminal Services, Inc.](https://www.ictsi.com/) (ICTSI)) and La Société De Gestion Immobilière Lengo (SIMOBILE)
+
 
 
 <br>
@@ -1758,6 +1767,22 @@ Water-bourne
 <br>
 
 ### Further information
+
+- [LCA](https://lca.logcluster.org/democratic-republic-congo)
+- [Ministry responsible for Public Works and Infrastructure](https://infrastructures.gouv.cd/)
+- [Ministry of Regional Cooperation](https://integration-regionale.gouv.cd/le-ministre.php)
+- [Ministry of Small and Medium Entreprises](https://pme.gouv.cd/)
+- [Ministry of Foreign Trade](https://commerce.gouv.cd/)
+- [Société Nationale des Chemins de Fer du Congo](https://www.snccsa.com/) (SNCC)
+- [La Générale des Carrières et des Mines](https://gecamines.cd/) (GECAMINES)
+- [Société Commecilale des Transports et des Ports](https://sctp-sa-rdc.online/) (SCTP)
+- [Office des Routes](https://www.officedesroutes.cd/) (OR)
+- [Office de Gestion du Fret Multimodal](https://ogefremsite.org/) (OGEFREM)
+- [Lignes Maritimes Congolaises](https://lmc.cd/) (LMC)
+- [Direction Générales des Douanes et Accises](https://douane.gouv.cd/) (DGDA)
+- [Office Congolais de Contrôle](https://www.occ.cd/) (OCC)
+- [Direction Générale des Migrations](https://interieur.gouv.cd/services/details/DGM)
+- [Fédération des Entreprises du Congo](https://fec-rdc.com/) (FEC)
 
 <br><br>
 
