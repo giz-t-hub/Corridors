@@ -215,7 +215,19 @@ This is the [EAC's Central Corridor](https://www.eac.int/infrastructure/road-tra
 <summary>DR Congo</summary>
 
 [Country page](#CD)
-- [](#)
+- [Beni](#beni)
+- [Bukavu](#bukavu)
+- [Bunia](#bunia)
+- [Butembo](#butembo)
+- [Gbadolite](#gbadolite)
+- [Gemena](#gemena)
+- [Goma](#goma)
+- [Kinshasa](#kinshasa)
+- [Kisangani](#kisangani)
+- [Kolwezi](#kolwezi)
+- [Likasi](#likasi)
+- [Lubumbashi](#lubumbashi)
+- [Uvira](#uvira)
 
 </details><!-- /III -->
 <details><!-- IV -->
@@ -307,19 +319,18 @@ Kenya (only [Kisumu port](#kisumu_port))
 <details><!-- malawi stakeholders -->
 <summary>Malawi</summary>
 
-1. Ministry of Transport and Public Works
-2. Malawi Bureau of Standards
-3. The Roads Authority
-4. Ministry responsible for Trade
-5. Ministry responsible for Industrial development
-6. Malawi Confederation of the Chambers of Commerce and Industry (MCCCI)
-7. Malawi Revenue Authority
-8. Ministry/ Department responsible for Immigration services
-9. Malawi Railways (1994) Limited
-10. Marine transport Operators
-11. Association of Freight Forwarders and Clearing Agents
-12. Road Transporters Association of Malawi
-13. Private Sector Federation
+1. [Ministry of Transport and Public Works](https://www.transport.gov.mw/)
+2. [Malawi Bureau of Standards](https://mbsmw.org/) (MBS)
+3. [Roads Authority](https://www.ra.org.mw/)
+4. [Ministry of Trade and Industry](https://www.trade.gov.mw/)
+5. [Malawi Confederation of the Chambers of Commerce and Industry](https://www.mccci.org/) (MCCCI)
+6. [Malawi Revenue Authority](https://www.mra.mw/)
+7. [Department of Immigration and Citizenship Services](https://www.immigration.gov.mw/)
+8. Malawi Railways (1994) Limited
+9. Marine transport Operators
+10. Association of Freight Forwarders and Clearing Agents
+11. Road Transporters Association of Malawi
+12. Private Sector Federation
 
 </details><!-- /malawi stakeholders -->
 <details><!-- rwanda stakeholders -->
@@ -625,7 +636,19 @@ Kenya (only [Kisumu port](#kisumu_port))
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
 
-	  	- [](#)
+	  	- [Beni](#beni)
+		- [Bukavu](#bukavu)
+		- [Bunia](#bunia)
+		- [Butembo](#butembo)
+		- [Gbadolite](#gbadolite)
+		- [Gemena](#gemena)
+		- [Goma](#goma)
+		- [Kinshasa](#kinshasa)
+		- [Kisangani](#kisangani)
+		- [Kolwezi](#kolwezi)
+		- [Likasi](#likasi)
+		- [Lubumbashi](#lubumbashi)
+		- [Uvira](#uvira)
 
 	  	</details>
 
@@ -1239,7 +1262,6 @@ Kenya (only [Kisumu port](#kisumu_port))
 <summary>City</summary>
 
 - Population: 
-- 
 
 </details><!-- /city - ->
 
@@ -2094,15 +2116,98 @@ Port of Boma
 
 
 ### Important cities along the corridors
-<a name="muyinga"></a>
-<details><!-- Muyinga -->
-<summary>Muyinga</summary>
+<a name="beni"></a>
+<details><!-- beni -->
+<summary>Beni</summary>
 
-- Population: 100,715 (2012)
-- 
+- Population: 231,952 (2013)
 
-</details><!-- Muyinga -->
+</details><!-- /beni -->
+<a name="bukavu"></a>
+<details><!-- bukavu -->
+<summary>Bukavu</summary>
 
+- Population: 1,369,430 (2025)
+
+</details><!-- bukavu -->
+<a name="bunia"></a>
+<details><!-- bunia -->
+<summary>Bunia</summary>
+
+- Population: 900,351 (2025)
+
+</details><!-- bunia -->
+<a name="butembo"></a>
+<details><!-- butembo -->
+<summary>Butembo</summary>
+
+- Population: 154,621 (2024)
+
+</details><!-- /butembo -->
+<a name="gbadolite"></a>
+<details><!-- gbadolite -->
+<summary>Gbadolite</summary>
+
+- Population: 198,839 (2015)
+
+</details><!-- /gbadolite -->
+<a name="gemena"></a>
+<details><!-- gemena -->
+<summary>Gemena</summary>
+
+- Population: 138,527 (2012)
+
+</details><!-- /gemena - ->
+<a name="goma"></a>
+<details><!-- goma -->
+<summary>Goma</summary>
+
+- Population: 819,854 (2025)
+
+</details><!-- goma -->
+<a name="kinshasa"></a>
+<details><!-- kinshasa -->
+<summary>Kinshasa</summary>
+
+- Population: 17,778,500 (2012)
+- Capital of the Democratic Republic of the Congo
+
+</details><!-- kinshasa -->
+<a name="kisangani"></a>
+<details><!-- kisangani -->
+<summary>Kisangani</summary>
+
+- Population: 1,546,690 (2025)
+
+</details><!-- kisangani -->
+<a name="kolwezi"></a>
+<details><!-- kolwezi -->
+<summary>Kolwezi</summary>
+
+- Population: 555,059 (2025)
+
+</details><!-- kolwezi -->
+<a name="likasi"></a>
+<details><!-- likasi -->
+<summary>Likasi</summary>
+
+- Population: 675,991 (2025)
+
+</details><!-- likasi -->
+<a name="lubumbashi"></a>
+<details><!-- lubumbashi -->
+<summary>Lubumbashi</summary>
+
+- Population: 3,061,340 (2025)
+
+</details><!-- lubumbashi -->
+<a name="uvira"></a>
+<details><!-- uvira -->
+<summary>Uvira</summary>
+
+- Population: 760,857 (2025)
+
+</details><!-- uvira -->
 <br>
 
 
@@ -3257,7 +3362,6 @@ Secondary roads are generally acceptable for small trucks (15 MT max) but requir
 
 - Population: 252,090 (2022)
 - Capital of th Western Province of Rwanda
-- 
 
 </details><!-- gisenyi -->
 <a name="kigali"></a>
@@ -3266,7 +3370,6 @@ Secondary roads are generally acceptable for small trucks (15 MT max) but requir
 
 - Population: 1,745,555
 - Capital of Rwanda
-- 
 
 </details><!-- kigali -->
 
@@ -4205,6 +4308,13 @@ Currently only [265 km are servicable](https://www.eac.int/infrastructure/railwa
 <br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
+---
+# Important sources (inconclusive):
+
+- [Logistics Cluster](https://logcluster.org/en): [Logistics Capacity Assessments](https://lca.logcluster.org/) (LCAs)
+- World Bank Group: [World Bank Open Data](https://data.worldbank.org/)
+- World Trade Organization: [WTO Tariff & Trade Data](https://ttd.wto.org/en/profiles)
+
 ---
 ---
 Overview/Table of Content: https://github.com/giz-t-hub/Overview
