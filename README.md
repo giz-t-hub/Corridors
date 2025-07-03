@@ -7,8 +7,8 @@ Plans, data and other documents on transport regarding the Global Gateway corrid
 Have something to add or change? Contact: Niklas.Matern@giz.de
 
 ------------------------------
-
-# Table of Contents<a name="top"></a>
+<a name="top"></a>
+# Table of Contents
 
 - <b>[Corridors](#corridors)</b>
  	- [ 1| Abidjan - Lagos](#C1)
@@ -42,7 +42,8 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Zambia](#ZM)		| [Zimbabwe](#ZW)
 
 ---
-# Corridors<a name="corridors"></a>
+<a name="corridors"></a>
+# Corridors
 
 
 ## List of Corridors
@@ -1966,7 +1967,7 @@ Water-bourne
 
 
 ### Related Corridors 
-[06 Douala/Kribi - Kampala](#C6) | [08 Mombasa - Kisangani](#C8) | [12 Lobito - Kabwe](#C12)
+[06 Douala/Kribi - Kampala](#C6) | [08 Mombasa - Kisangani](#C8) | [12 Lobito - Kabwe](#C12) | [Central Corrridor](#Ccentral)
 
 <br>
 <a name="CD_trade"></a>
@@ -1979,6 +1980,10 @@ Water-bourne
 
 
 ### Road network
+
+> The road network comprises 58,358 km of national roads, 86,615 km of rural roads, and 7,400 km of urban roads. ([Logistics Cluster](https://lca.logcluster.org/democratic-republic-congo-23-democratic-republic-congo-road-network))<br>
+
+5% of the national roads are sealed/paved, most of the road network is in need of repair.
 
 <br>
 <a name="CD_railway"></a>
@@ -2002,12 +2007,18 @@ The DR Congo has a total of 16,238 km of navigable waterways and counts around f
 [Port network](https://lca.logcluster.org/sites/default/files/2023-07/COD_LCA_Port_A4P_20230713.png)<br>
 Port of Matadi: [Matadi Gateway Terminal](https://www.mgt.cd/en) (MGT)
 
+- largest port in DRC (Congo River)
 - Capacity:
 	- 175,000 [TEU](https://en.wikipedia.org/wiki/Twenty-foot_equivalent_unit)
 	- 350,000 t
 - operated by ICTSI DR Congo S.A. (IDRCSA), a subsidiary of the joint venture between ICTSI Cooperatif U.A. (subs. of [International Container Terminal Services, Inc.](https://www.ictsi.com/) (ICTSI)) and La Société De Gestion Immobilière Lengo (SIMOBILE)
 
+Port of Boma
 
+- second largest port in DRC (Congo River)
+- Capacity:
+  - 1,200 TEU
+- operated by Société Commerciale des Transports et des Ports (SCTP)
 
 <br>
 <a name="CD_fleet"></a>
