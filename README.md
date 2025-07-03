@@ -1236,17 +1236,29 @@ Kenya (only [Kisumu port](#kisumu_port))
 <a name="AO"></a>
 ## Angola
 
+<br>
 <a name="AO_corridors"></a>
+
+
 ### Related Corridors
 [12 Lobito - Kabwe](#C12)
 
+<br>
 <a name="AO_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="AO_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="AO_railway"></a>
+
+
 ### Rail network
 | Network profile | | |
 | ---             | --- | --- |
@@ -1265,16 +1277,24 @@ Angola has three independent railway lines:
 	
 </details>
 
+<br>
 <a name="AO_water"></a>
+
+
 ### Water-bourne transport
 - port of Namibe
 
+<br>
 <a name="AO_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="AO_cities"></a>
-### Important cities along the corridors
 
+
+### Important cities along the corridors
 <a name="benguela"></a>
 <details><!-- benguele -->
 <summary>Benguela</summary>
@@ -1283,22 +1303,40 @@ Angola has three independent railway lines:
 
 </details><!-- benguela -->
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="BJ"></a>
 ## Benin 
 
+<br>
 <a name="BJ_corridors"></a>
+
+
 ### Related Corridors 
 [01 Abidjan - Lagos](#C1) | [04 Cotonou - Niamey](#C4)
 
+<br>
 <a name="BJ_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="BJ_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="BJ_railway"></a>
+
+
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -1307,31 +1345,58 @@ Angola has three independent railway lines:
 | Operators:      | currently <ins>[none](https://de.wikipedia.org/wiki/Organisation_Commune_B%C3%A9nin-Niger_des_Chemins_de_fer_et_des_Transports)</ins> (since 2019) |
 <!-- | System Map:     | []() | -->
 
+<br>
 <a name="BJ_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="BJ_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="BJ_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="BW"></a>
 ## Botswana 
 
+<br>
 <a name="BW_corridors"></a>
+
+
 ### Related Corridors 
 [09 Maputo - Gaborone - Walvis Bay](#C9) | [10 Durban - Lusaka](#C10)
 
+<br>
 <a name="BW_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="BW_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="BW_railway"></a>
+
+
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -1345,13 +1410,22 @@ Angola has three independent railway lines:
 - [Gaborone Container Terminal (GABCON)](https://www.gabcon.co.bw/)
 - [Palapye Container Terminal (PALCON)](https://www.botswanarailways.co.bw/palcon-0)
 
+<br>
 <a name="BW_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="BW_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="BW_cities"></a>
+
+
 ### Important cities along the corridors
 <a name="francistown"></a>
 <details><!-- Francistown -->
@@ -1374,24 +1448,40 @@ Angola has three independent railway lines:
 
 </details><!-- Palapye -->
 
-### further Information
+<br>
 
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="BF"></a>
 ## Burkina-Faso 
 
+<br>
 <a name="BF_corridors"></a>
+
+
 ### Related Corridors 
 [02 Abidjan - Ouagadougou](#C2)
 
+<br>
 <a name="BF_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="BF_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="BF_railway"></a>
+
+
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -1400,18 +1490,30 @@ Angola has three independent railway lines:
 | Operator:       | SITARAIL (subsidiary of [AGL](https://www.aglgroup.com/en/transport-logistics-africa/burkina-faso/)) |
 <!-- | System Map:     | []() | -->
 
-
+<br>
 <a name="BF_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="BF_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="BF_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
 
 
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="BI"></a>
@@ -1556,41 +1658,90 @@ Water-bourne
 <a name="CV"></a>
 ## Cabo Verde 
 
+<br>
 <a name="CV_corridors"></a>
+
+
 ### Related Corridors 
 [03 Praia/Dakar - Abidjan](#C3)
 
+<br>
 <a name="CV_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="CV_road"></a>
+
+
 ### Road network
 
+<!-- <br>
+<a name="CV_railway"></a>
+
+
+### Rail network
+| Network profile | |
+| ---             | --- |
+| System Size:    |  km |
+| Track gauge:    |  mm  |
+| Operators:      | |
+| System Map:     | []() |
+
+-->
+<br>
 <a name="CV_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="CV_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="CV_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="CM"></a>
 ## Cameroon 
 
+<br>
 <a name="CM_corridors"></a>
+
+
 ### Related Corridors 
 [05 Libreville/Kribi/Douala - N'djamena](#C5) | [06 Douala/Kribi - Kampala](#C6)
 
+<br>
 <a name="CM_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="CM_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="CM_railway"></a>
+
+
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -1599,80 +1750,180 @@ Water-bourne
 | Operator:      | [CAMRAIL](https://camrail.cm/en) (subsidiary of [AGL](https://www.aglgroup.com/en/transport-logistics-africa/cameroon/)) |
 <!-- | System Map:     | []() | -->
 
-
+<br>
 <a name="CM_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="CM_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="CM_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="CF"></a>
 ## Central African Republic 
 
+<br>
 <a name="CF_corridors"></a>
+
+
 ### Related Corridors 
 [06 Douala/Kribi - Kampala](#C6)
 
+<br>
 <a name="CF_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="CF_road"></a>
+
+
 ### Road network
 
+<!-- <br>
+<a name="CF_railway"></a>
+
+
+### Rail network
+| Network profile | |
+| ---             | --- |
+| System Size:    |  km |
+| Track gauge:    |  mm  |
+| Operators:      | |
+| System Map:     | []() |
+
+-->
+<br>
 <a name="CF_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="CF_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="CF_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="TD"></a>
 ## Chad 
 
+<br>
 <a name="TD_corridors"></a>
+
+
 ### Related Corridors 
 [05 Libreville/Kribi/Douala - N'djamena](#C5)
 
+<br>
 <a name="TD_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="TD_road"></a>
+
+
 ### Road network
 
+<!-- <br>
+<a name="TD_railway"></a>
+
+
+### Rail network
+| Network profile | |
+| ---             | --- |
+| System Size:    |  km |
+| Track gauge:    |  mm  |
+| Operators:      | |
+| System Map:     | []() |
+
+-->
+<br>
 <a name="TD_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="TD_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="TD_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="CI"></a>
 ## Côte d'Ivoire 
 
+<br>
 <a name="CI_corridors"></a>
+
+
 ### Related Corridors 
 [01 Abidjan - Lagos](#C1) | [02 Abidjan - Ouagadougou](#C2) | [03 Praia/Dakar - Abidjan](#C3)
 
+<br>
 <a name="CI_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="CI_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="CI_railway"></a>
+
+
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -1681,16 +1932,30 @@ Water-bourne
 | Operator:      | subsidiary of [AGL](https://www.aglgroup.com/en/transport-logistics-africa/ivory-coast/) |
 <!-- | System Map:     | []() | -->
 
-
+<br>
 <a name="CI_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="CI_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="CI_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="CD"></a>
@@ -1751,9 +2016,9 @@ Port of Matadi: [Matadi Gateway Terminal](https://www.mgt.cd/en) (MGT)
 ### Fleet characteristics
 
 <br>
-
-
 <a name="CD_cities"></a>
+
+
 ### Important cities along the corridors
 <a name="muyinga"></a>
 <details><!-- Muyinga -->
@@ -1765,6 +2030,7 @@ Port of Matadi: [Matadi Gateway Terminal](https://www.mgt.cd/en) (MGT)
 </details><!-- Muyinga -->
 
 <br>
+
 
 ### Further information
 
@@ -1785,23 +2051,34 @@ Port of Matadi: [Matadi Gateway Terminal](https://www.mgt.cd/en) (MGT)
 - [Fédération des Entreprises du Congo](https://fec-rdc.com/) (FEC)
 
 <br><br>
-
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="DJ"></a>
 ## Djibouti 
 
+<br>
 <a name="DJ_corridors"></a>
+
+
 ### Related Corridors 
 [07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7)
 
+<br>
 <a name="DJ_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="DJ_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="DJ_railway"></a>
+
+
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -1816,31 +2093,58 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 	
 </details>
 
+<br>
 <a name="DJ_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="DJ_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="DJ_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="EG"></a>
 ## Egypt 
 
+<br>
 <a name="EG_corridors"></a>
+
+
 ### Related Corridors 
 [11 Cairo - Khartoum - Juba - Kampala](#C11)
 
+<br>
 <a name="EG_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="EG_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="EG_railway"></a>
+
+
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -1855,54 +2159,119 @@ Overview of the [Egyptian National Railways stations](https://egytrains.com/)
 	
 </details>
 
+<br>
 <a name="EG_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="EG_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="EG_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="GQ"></a>
 ## Equatorial Guinea 
 
+<br>
 <a name="GQ_corridors"></a>
+
+
 ### Related Corridors 
 [05 Libreville/Kribi/Douala - N'djamena](#C5)
 
+<br>
 <a name="GQ_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="GQ_road"></a>
+
+
 ### Road network
 
+<!-- <br>
+<a name="GQ_railway"></a>
+
+
+### Rail network
+| Network profile | |
+| ---             | --- |
+| System Size:    |  km |
+| Track gauge:    |  mm  |
+| Operators:      | |
+| System Map:     | []() |
+
+-->
+<br>
 <a name="GQ_water"></a>
+
+
 ### Water-bourne transport
 
-<a name="GQ_cities"></a>
+<br>
+<a name="GQ_fleet"></a>
+
+
 ### Fleet characteristics
+
+<br>
+<a name="GQ_cities"></a>
+
 
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="SZ"></a>
 ## Eswatini 
 
+<br>
 <a name="SZ_corridors"></a>
+
+
 ### Related Corridors 
 [09 Maputo - Gaborone - Walvis Bay](#C9)
 
+<br>
 <a name="SZ_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="SZ_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="SZ_railway"></a>
+
+
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -1911,31 +2280,58 @@ Overview of the [Egyptian National Railways stations](https://egytrains.com/)
 | Operator:      | state-owned [Eswatini Railways](https://eswatinirail.co.sz/) (ESR)<br> no passenger transport |
 | System Map:     | [ESR](https://eswatinirail.co.sz/about/eswatini-rail-network/) |
 
+<br>
 <a name="SZ_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="SZ_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="SZ_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="ET"></a>
 ## Ethiopia 
 
+<br>
 <a name="ET_corridors"></a>
+
+
 ### Related Corridors 
 [07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7)
 
+<br>
 <a name="ET_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="ET_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="ET_railway"></a>
+
+
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -1950,31 +2346,58 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 	
 </details>
 
+<br>
 <a name="ET_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="ET_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="ET_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="GA"></a>
 ## Gabon 
 
+<br>
 <a name="GA_corridors"></a>
+
+
 ### Related Corridors 
 [05 Libreville/Kribi/Douala - N'djamena](#C5)
 
+<br>
 <a name="GA_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="GA_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="GA_railway"></a>
+
+
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -1983,56 +2406,120 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 | Operator:       | partly state-owned [Sociéte d’Exploitation du Transgabonais](https://setrag.ga/) (Setrag) |
 | System Map:     | [Setrag](https://setrag.ga/) |
 
+<br>
 <a name="GA_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="GA_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="GA_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="GM"></a>
 ## Gambia 
 
+<br>
 <a name="GM_corridors"></a>
+
+
 ### Related Corridors 
 [03 Praia/Dakar - Abidjan](#C3)
 
+<br>
 <a name="GM_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="GM_road"></a>
+
+
 ### Road network
 
+<!-- <br>
+<a name="GM_railway"></a>
+
+
+### Rail network
+| Network profile | |
+| ---             | --- |
+| System Size:    |  km |
+| Track gauge:    |  mm  |
+| Operators:      | |
+| System Map:     | []() |
+
+-->
+<br>
 <a name="GM_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="GM_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="GM_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="GH"></a>
 ## Ghana 
 
+<br>
 <a name="GH_corridors"></a>
+
+
 ### Related Corridors 
 [01 Abidjan - Lagos](#C1)
 
+<br>
 <a name="GH_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="GH_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="GH_railway"></a>
+
+
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -2046,33 +2533,60 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 	- "Promote the development of Railways and Railways service, hold, administer and improve Railway Assets"
  	- "Promote the development and management of suburban railway"
 
+<br>
 <a name="GH_water"></a>
+
+
 ### Water-bourne transport
 
 [Ghana Ports and Harbours Authority](https://www.ghanaports.gov.gh/) (GPHA)
 
+<br>
 <a name="GH_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="GH_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="GN"></a>
 ## Guinea 
 
+<br>
 <a name="GN_corridors"></a>
+
+
 ### Related Corridors 
 [03 Praia/Dakar - Abidjan](#C3)
 
+<br>
 <a name="GN_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="GN_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="GN_railway"></a>
+
+
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -2097,56 +2611,120 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 
 </details>
 
+<br>
 <a name="GN_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="GN_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="GN_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="GW"></a>
 ## Guinea-Bissau 
 
+<br>
 <a name="GW_corridors"></a>
+
+
 ### Related Corridors 
 [03 Praia/Dakar - Abidjan](#C3)
 
+<br>
 <a name="GW_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="GW_road"></a>
+
+
 ### Road network
 
+<!-- <br>
+<a name="GW_railway"></a>
+
+
+### Rail network
+| Network profile | |
+| ---             | --- |
+| System Size:    |  km |
+| Track gauge:    |  mm  |
+| Operators:      | |
+| System Map:     | []() |
+
+-->
+<br>
 <a name="GW_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="GW_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="GW_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="KE"></a>
 ## Kenya 
 
+<br>
 <a name="KE_corridors"></a>
+
+
 ### Related Corridors 
 [07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7) | [08 Mombasa - Kisangani](#C8)
 
+<br>
 <a name="KE_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="KE_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="KE_railway"></a>
+
+
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -2155,7 +2733,10 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 | Operators:      | state-owned Kenya Railways (KR) |
 <!-- | System Map:     | []() | -->
 
+<br>
 <a name="KE_water"></a>
+
+
 ### Water-bourne transport
 
 [Kenya Ports Authority](https://www.kpa.co.ke/)
@@ -2168,13 +2749,18 @@ Ports
 - [Port of Mombasa](https://www.kpa.co.ke/SitePages/PortofMombasa.aspx)
 - ...
 
-  
+
+<br>
 <a name="KE_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="KE_cities"></a>
-### Important cities along the corridors
 
+
+### Important cities along the corridors
 <a name="kisumu"></a>
 <details><!-- kisumu -->
 <summary>Kisumu</summary>
@@ -2185,21 +2771,41 @@ Ports
 
 </details><!-- kisumu -->
 
+<br>
+
+
 ### Further information
 
 - [Kenya National Bureau of Statistics](https://www.knbs.or.ke/)
 
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="LR"></a>
 ## Liberia 
 
+<br>
+<a name="LR_corridors"></a>
+
+
 ### Related Corridors 
 [03 Praia/Dakar - Abidjan](#C3)
 
+<br>
+<a name="LR_trade"></a>
+
+
 ### Trade volumes
 
+<br>
+<a name="LR_road"></a>
+
+
 ### Road network
+
+<br>
+<a name="LR_railway"></a>
+
 
 ### Rail network
 | Network profile | |
@@ -2210,23 +2816,57 @@ Ports
 | System Map:     | []() |
 
 
+<br>
+<a name="LR_water"></a>
+
+
 ### Water-bourne transport
+
+<br>
+<a name="LR_fleet"></a>
+
 
 ### Fleet characteristics
 
+<br>
+<a name="LR_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="MZ"></a>
 ## Mozambique 
 
+<br>
+<a name="MZ_corridors"></a>
+
+
 ### Related Corridors 
 [09 Maputo - Gaborone - Walvis Bay](#C9)
 
+<br>
+<a name="MZ_trade"></a>
+
+
 ### Trade volumes
 
+<br>
+<a name="MZ_road"></a>
+
+
 ### Road network
+
+<br>
+<a name="MZ_railway"></a>
+
 
 ### Rail network
 | Network profile | |
@@ -2236,24 +2876,57 @@ Ports
 | Operator:       | state-owned [Portos e Caminhos de Ferro de Moçambique](https://www.cfm.co.mz/) (CFM) |
 <!-- | System Map:     | []() | -->
 
+<br>
+<a name="MZ_water"></a>
+
 
 ### Water-bourne transport
 
+<br>
+<a name="MZ_fleet"></a>
+
+
 ### Fleet characteristics
+
+<br>
+<a name="MZ_cities"></a>
+
 
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="NA"></a>
 ## Namibia 
 
+<br>
+<a name="NA_corridors"></a>
+
+
 ### Related Corridors 
 [09 Maputo - Gaborone - Walvis Bay](#C9)
 
+<br>
+<a name="NA_trade"></a>
+
+
 ### Trade volumes
 
+<br>
+<a name="NA_road"></a>
+
+
 ### Road network
+
+<br>
+<a name="NA_railway"></a>
+
 
 ### Rail network
 | Network profile | |
@@ -2264,23 +2937,57 @@ Ports
 | System Map:     | [TransNamib](https://www.transnamib.com.na/railway-network/) |
 
 
+<br>
+<a name="NA_water"></a>
+
+
 ### Water-bourne transport
+
+<br>
+<a name="NA_fleet"></a>
+
 
 ### Fleet characteristics
 
+<br>
+<a name="NA_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="NE"></a>
 ## Niger 
 
+<br>
+<a name="NE_corridors"></a>
+
+
 ### Related Corridors 
 [04 Cotonou - Niamey](#C4)
 
+<br>
+<a name="NE_trade"></a>
+
+
 ### Trade volumes
 
+<br>
+<a name="NE_road"></a>
+
+
 ### Road network
+
+<br>
+<a name="NE_railway"></a>
+
 
 ### Rail network
 | Network profile | |
@@ -2291,23 +2998,57 @@ Ports
 <!-- | System Map:     | []() | -->
 
 
+<br>
+<a name="NE_water"></a>
+
+
 ### Water-bourne transport
+
+<br>
+<a name="NE_fleet"></a>
+
 
 ### Fleet characteristics
 
+<br>
+<a name="NE_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="NG"></a>
 ## Nigeria 
 
+<br>
+<a name="NG_corridors"></a>
+
+
 ### Related Corridors 
 [01 Abidjan - Lagos](#C1)
 
+<br>
+<a name="NG_trade"></a>
+
+
 ### Trade volumes
 
+<br>
+<a name="NG_road"></a>
+
+
 ### Road network
+
+<br>
+<a name="NG_railway"></a>
+
 
 ### Rail network
 | Network profile | |
@@ -2318,12 +3059,30 @@ Ports
 <!-- | System Map:     | []() | -->
 
 
+<br>
+<a name="NG_water"></a>
+
+
 ### Water-bourne transport
+
+<br>
+<a name="NG_fleet"></a>
+
 
 ### Fleet characteristics
 
+<br>
+<a name="NG_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="RW"></a>
@@ -2493,18 +3252,61 @@ Secondary roads are generally acceptable for small trucks (15 MT max) but requir
 <a name="ST"></a>
 ## São Tomé and Príncipe 
 
+<br>
+<a name="ST_corridors"></a>
+
+
 ### Related Corridors 
 [05 Libreville/Kribi/Douala - N'djamena](#C5)
 
+<br>
+<a name="ST_trade"></a>
+
+
 ### Trade volumes
+
+<br>
+<a name="ST_road"></a>
+
 
 ### Road network
 
+<!-- <br>
+<a name="ST_railway"></a>
+
+
+### Rail network
+| Network profile | |
+| ---             | --- |
+| System Size:    |  km |
+| Track gauge:    |  mm  |
+| Operators:      | |
+| System Map:     | []() |
+
+-->
+<br>
+<a name="ST_water"></a>
+
+
+
 ### Water-bourne transport
+
+<br>
+<a name="ST_fleet"></a>
+
 
 ### Fleet characteristics
 
+<br>
+<a name="ST_cities"></a>
+
+
 ### Important cities along the corridors
+
+<br>
+
+
+### Further information
 
 <br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
@@ -2512,17 +3314,29 @@ Secondary roads are generally acceptable for small trucks (15 MT max) but requir
 <a name="SN"></a>
 ## Senegal 
 
+<br>
 <a name="SN_corridors"></a>
+
+
 ### Related Corridors 
 [03 Praia/Dakar - Abidjan](#C3)
 
+<br>
 <a name="SN_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="SN_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="SN_railway"></a>
+
+
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -2532,15 +3346,23 @@ Secondary roads are generally acceptable for small trucks (15 MT max) but requir
 | System Map:     | [TER](https://www.terdakar.sn/acceder-au-plan-de-la-ligne/) |
 
 
+<br>
 <a name="SN_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="SN_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="SN_cities"></a>
-### Important cities along the corridors
 
+
+### Important cities along the corridors
 <a name="dakar"></a>
 <details><!-- dakar -->
 <summary>Dakar</summary>
@@ -2549,22 +3371,40 @@ Secondary roads are generally acceptable for small trucks (15 MT max) but requir
 
 </details><!-- dakar -->
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="SL"></a>
 ## Sierra Leone 
 
+<br>
 <a name="SL_corridors"></a>
+
+
 ### Related Corridors 
 [03 Praia/Dakar - Abidjan](#C3)
 
+<br>
 <a name="SL_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="SL_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="SL_railway"></a>
+
+
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -2574,55 +3414,119 @@ Secondary roads are generally acceptable for small trucks (15 MT max) but requir
 <!-- | System Map:     | []() | -->
 
 
+<br>
 <a name="SL_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="SL_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="SL_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="SO"></a>
 ## Somalia 
 
+<br>
 <a name="SO_corridors"></a>
+
+
 ### Related Corridors 
 [07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7)
 
+<br>
 <a name="SO_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="SO_road"></a>
+
+
 ### Road network
 
+<!-- <br>
+<a name="SO_railway"></a>
+
+
+### Rail network
+| Network profile | |
+| ---             | --- |
+| System Size:    |  km |
+| Track gauge:    |  mm  |
+| Operators:      | |
+| System Map:     | []() |
+
+-->
+<br>
 <a name="SO_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="SO_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="SO_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="ZA"></a>
 ## South Africa 
 
+<br>
 <a name="ZA_corridors"></a>
+
+
 ### Related Corridors 
 [09 Maputo - Gaborone - Walvis Bay](#C9) | [10 Durban - Lusaka](#C10)
 
+<br>
 <a name="ZA_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="ZA_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="ZA_railway"></a>
+
+
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -2631,33 +3535,61 @@ Secondary roads are generally acceptable for small trucks (15 MT max) but requir
 | Operators:      | State owned "[Transnet](https://www.transnet.net/)" ([freight services](https://www.transnet.net/SubsiteRender.aspx?id=2286141)) and "[PRASA](https://www.prasa.com)" (passenger transport)<!-- https://www.transport.gov.za/?page_id=1039 --> |
 <!-- | System Map:     | []() | -->
 
+
+<br>
 <a name="ZA_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="ZA_fleet"></a>
+
+
 ### Fleet characteristics
 Passenger Transport
 	4,735 coaches
 
+<br>
 <a name="ZA_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="SS"></a>
 ## South Sudan 
 
+<br>
 <a name="SS_corridors"></a>
+
+
 ### Related Corridors 
 [11 Cairo - Khartoum - Juba - Kampala](#C11)
 
+<br>
 <a name="SS_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="SS_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="SS_railway"></a>
+
+
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -2668,31 +3600,58 @@ Passenger Transport
 
 The single railway line connects Wau to Sudan.
 
+<br>
 <a name="SS_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="SS_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="SS_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="SD"></a>
 ## Sudan 
 
+<br>
 <a name="SD_corridors"></a>
+
+
 ### Related Corridors 
 [11 Cairo - Khartoum - Juba - Kampala](#C11)
 
+<br>
 <a name="SD_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="SD_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="SD_railway"></a>
+
+
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -2702,15 +3661,23 @@ The single railway line connects Wau to Sudan.
 <!-- | System Map:     | []() | -->
 
 
+<br>
 <a name="SD_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="SD_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="SD_cities"></a>
-### Important cities along the corridors
 
+
+### Important cities along the corridors
 <a name="khartoum"></a>
 <details><!-- khartoum -->
 <summary>Khartoum</summary>
@@ -2732,23 +3699,40 @@ The single railway line connects Wau to Sudan.
 
 </details><!-- wadi_halfa -->
 
+<br>
 
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="TZ"></a>
 ## Tanzania 
 
+<br>
 <a name="TZ_corridors"></a>
+
+
 ### Related Corridors 
 [07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7) | [Central Corridor](#central)
 
+<br>
 <a name="TZ_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="TZ_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="TZ_railway"></a>
+
+
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -2760,15 +3744,23 @@ The single railway line connects Wau to Sudan.
 ***Dry port***
 - [Isaka Dry Port](https://www.trc.co.tz/pages/dry-ports)
 
+<br>
 <a name="TZ_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="TZ_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="TZ_cities"></a>
-### Important cities along the corridors
 
+
+### Important cities along the corridors
 <a name="dar_es_salaam"></a>
 <details><!-- dar_es_salaam -->
 <summary>Dar es Salaam</summary>
@@ -2783,22 +3775,40 @@ The single railway line connects Wau to Sudan.
 
 </details><!-- isaka -->
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="TG"></a>
 ## Togo 
 
+<br>
 <a name="TG_corridors"></a>
+
+
 ### Related Corridors 
 [01 Abidjan - Lagos](#C1)
 
+<br>
 <a name="TG_trade"></a>
+
+
 ### Trade volumes
 
+<br>
 <a name="TG_road"></a>
+
+
 ### Road network
 
+<br>
 <a name="TG_railway"></a>
+
+
 ### Rail network
 | Network profile | |
 | ---             | --- |
@@ -2808,15 +3818,23 @@ The single railway line connects Wau to Sudan.
 <!-- | System Map:     | []() | -->
 
 
+<br>
 <a name="TG_water"></a>
+
+
 ### Water-bourne transport
 
+<br>
 <a name="TG_fleet"></a>
+
+
 ### Fleet characteristics
 
+<br>
 <a name="TG_cities"></a>
-### Important cities along the corridors
 
+
+### Important cities along the corridors
 <a name="lome"></a>
 <details><!-- lome -->
 <summary>Lomé</summary>
@@ -2824,17 +3842,39 @@ The single railway line connects Wau to Sudan.
 
 </details><!-- lome -->
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="UG"></a>
 ## Uganda 
 
+<br>
+<a name="UG_corridors"></a>
+
+
 ### Related Corridors 
 [06 Douala/Kribi - Kampala](#C6) | [08 Mombasa - Kisangani](#C8) | [11 Cairo - Khartoum - Juba - Kampala](#C11) | [Central Corridor](#central)
 
+<br>
+<a name="UG_trade"></a>
+
+
 ### Trade volumes
 
+<br>
+<a name="UG_road"></a>
+
+
 ### Road network
+
+<br>
+<a name="UG_railway"></a>
+
 
 ### Rail network
 | Network profile | |
@@ -2845,23 +3885,57 @@ The single railway line connects Wau to Sudan.
 | System Map:     | []() |
 
 
+<br>
+<a name="UG_water"></a>
+
+
 ### Water-bourne transport
+
+<br>
+<a name="UG_fleet"></a>
+
 
 ### Fleet characteristics
 
+<br>
+<a name="UG_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="ZM"></a>
 ## Zambia 
 
+<br>
+<a name="ZM_corridrs"></a>
+
+
 ### Related Corridors 
 [10 Durban - Lusaka](#C10) | [12 Lobito - Kabwe](#C12)
 
+<br>
+<a name="ZM_trade"></a>
+
+
 ### Trade volumes
 
+<br>
+<a name="ZM_road"></a>
+
+
 ### Road network
+
+<br>
+<a name="ZM_railway"></a>
+
 
 ### Rail network
 | Network profile | |
@@ -2874,23 +3948,57 @@ The single railway line connects Wau to Sudan.
 Currently only [265 km are servicable](https://www.eac.int/infrastructure/railways-transport-sub-sector/92-sector/infrastructure/railways).
 
 
+<br>
+<a name="ZM_water"></a>
+
+
 ### Water-bourne transport
+
+<br>
+<a name="ZM_fleet"></a>
+
 
 ### Fleet characteristics
 
+<br>
+<a name="ZM_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="ZW"></a>
 ## Zimbabwe 
 
+<br>
+<a name="ZW_corridors"></a>
+
+
 ### Related Corridors 
 [10 Durban - Lusaka](#C10)
 
+<br>
+<a name="ZW_trade"></a>
+
+
 ### Trade volumes
 
+<br>
+<a name="ZW_road"></a>
+
+
 ### Road network
+
+<br>
+<a name="ZW_railway"></a>
+
 
 ### Rail network
 | Network profile | |
@@ -2901,12 +4009,30 @@ Currently only [265 km are servicable](https://www.eac.int/infrastructure/railwa
 | System Map:     | [NRZ](https://nrz.co.zw/network-system/) |
 
 
+<br>
+<a name="ZW_water"></a>
+
+
 ### Water-bourne transport
+
+<br>
+<a name="ZW_fleet"></a>
+
 
 ### Fleet characteristics
 
+<br>
+<a name="ZW_cities"></a>
+
+
 ### Important cities along the corridors
 
+<br>
+
+
+### Further information
+
+<br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 ---
@@ -2918,9 +4044,8 @@ Disclaimer: Findings, interpretations and conclusions expressed in this reposito
 
 For more information about our work, please refer to: 
 - Changing Transport: https://changing-transport.org/
--	Transformative Urban Mobility Initiative (TUMI): https://transformative-mobility.org/
--	MobiliseYourCity: https://www.mobiliseyourcity.net/
+- Transformative Urban Mobility Initiative (TUMI): https://transformative-mobility.org/
+- MobiliseYourCity: https://www.mobiliseyourcity.net/
 		
 Compiled by / Contact:
-- Niklas Matern: niklas.matern@giz.de
-- (as of April 2025)
+- Niklas Matern: niklas.matern@giz.de (as of April 2025)
