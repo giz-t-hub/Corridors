@@ -1164,6 +1164,12 @@ Kenya (only [Kisumu port](#kisumu_port))
 <a name="ISO2"></a>
 ## Country 
 
+<ins>Labor force participation rate</ins> (Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)
+
+- Total: 
+- Male: 
+- Female: 
+
 <br>
 <a name="ISO2_corridors"></a>
 
@@ -1177,6 +1183,17 @@ Kenya (only [Kisumu port](#kisumu_port))
 
 ### Trade volumes
 
+<ins>Export</ins>
+
+- <b>Exports/capita: $</b>
+-  ($ / %)
+
+<ins>Import</ins>
+
+- <b>Imports/capita: $</b>
+-  ($ / %)
+
+(Source: WTO, 2022)
 <br>
 <a name="ISO2_road"></a>
 
@@ -1520,7 +1537,13 @@ Angola has three independent railway lines:
 <a name="BI"></a>
 ## Republic of Burundi 
 [Présidence de la République \[du Burundi\]](https://presidence.gov.bi/)<br>
-Population: 14,151,540 (2024)
+Population: 14,151,540 (2024)<br>
+
+<ins>Labor force participation rate</ins> (Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)
+
+- Total: [79%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=BI&start=2024&type=points&view=bar)
+- Male: [77%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=BI&start=2024&type=points&view=bar)
+- Female: [80%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=BI&start=2024&type=points&view=bar)
 
 <br>
 <a name="BI_corridors"></a>
@@ -1535,12 +1558,26 @@ Population: 14,151,540 (2024)
 
 ### Trade volumes
 
-- [General Directorate of Commerce](https://mctit.gov.bi/direction-generale-du-commerce/)
-- Exports:
-  - Coffee
-    - [Office pour le Développement du Café](https://odeca.gov.bi/industrie-du-cafe/) [Site currently broken (June 2025)]
-  - Cotton
-  - Tin ore
+[General Directorate of Commerce](https://mctit.gov.bi/direction-generale-du-commerce/)<br>
+<ins>Export</ins>
+
+- <b>Exports/capita: ~$16</b>
+- Coffee ($53.6M / 25.8%)
+  - [Office pour le Développement du Café](https://odeca.gov.bi/industrie-du-cafe/) [Site currently broken (June 2025)]
+- Gold ($51.9M / 25.0%)
+- Tea ($22.7M / 10.9%)
+- Cigarettes ($10.3M / 4.9%)
+- Beer ($9.9M / 4.8%)
+
+<ins>Import</ins>
+
+- <b>Imports/capita: ~$97</b>
+- Refined petroleum ($295.7M / 23.4%)
+- Phosphatic fertilizers ($79.4M / 6.3%)
+- Medicaments ($43.5M / 3.5%)
+- Wheat and meslin ($34.2M / 2.7%)
+
+(Source: [WTO](https://ttd.wto.org/en/profiles/burundi), 2022)
 
 <br>
 <a name="BI_road"></a>
@@ -1962,6 +1999,12 @@ Water-bourne
 <a name="CD"></a>
 ## Democratic Republic of the Congo 
 
+<ins>Labor force participation rate</ins> (Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)
+
+- Total: 
+- Male: 
+- Female:
+
 <br>
 <a name="CD_corridors"></a>
 
@@ -1974,6 +2017,26 @@ Water-bourne
 
 
 ### Trade volumes
+<ins>Export</ins>
+
+- <b>Exports/capita: $154</b>
+- Refined Copper ($12.5B / 79.4%)
+- Cobalt ($2,3B / 14.6%)
+- Raw Copper ($190.2M / 1.2%)
+- Refined petroleum ($96.9M / 0.6%)
+
+DR Congo is the world's leading exporter of cobalt, tin ores, copper alloys, and cobalt ore. 
+
+<ins>Import</ins>
+
+- <b>Imports/capita: $111.4</b>
+- Refined Petroleum ($2.62B / 22.9%)
+- Sulphur ($908.3M / 8.0%)
+- Sulphuric acid ($254.9M / 2.2%)
+- Fused magnesia ($228.5M / 2.0%)
+- Durum wheat (187.8M / 1.6%)
+
+(Source: [WTO](https://ttd.wto.org/en/profiles/democratic-republic-of-the-congo), 2022)
 
 <br>
 <a name="CD_road"></a>
@@ -1994,7 +2057,7 @@ Water-bourne
 | ---             | --- |
 | System Size:    | 3,641 km |
 | Track gauge:    | 1,067 mm |
-| Operator:      | state owned "[Société nationale des Chemins de fer du Congo](https://www.snccsa.com/)"(SNCC) |
+| Operator:       | state owned "[Société nationale des Chemins de fer du Congo](https://www.snccsa.com/)"(SNCC) |
 | System Map:     | [SNCC](https://www.snccsa.com/qui-sommes-nous/) |
 
 
@@ -3099,6 +3162,12 @@ Ports
 <a name="RW"></a>
 ## Rwanda 
 
+<ins>Labor force participation rate</ins> (Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)
+
+- Total: [64%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=RW&start=2024&type=points&view=bar)
+- Male: [70%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=RW&start=2024&type=points&view=bar)
+- Female: [58%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=RW&start=2024&type=points&view=bar)
+
 <br>
 <a name="RW_corridors"></a>
 
@@ -3111,7 +3180,25 @@ Ports
 
 
 ### Trade volumes
+<ins>Export</ins>
 
+- <b>Exports/capita: $147</b>
+- Gold ($555.7M / 27.5%)
+- Refined petroleum ($197.0M / 9.8%)
+- Tea ($101.2M / 5.0%)
+- Coffee ($96.1M / 4.8%)
+- Tin ores ($64.81M / 3.2%)
+
+<ins>Import</ins>
+
+- <b>Imports/capita: $374</b>
+- Refined petroleum ($718.6 / 14.0%)
+- Gold ($510.0M / 10.0%)
+- Palm oil ($151.6M / 3.0%)
+- Milled rice ($136.9 / 2.7%)
+- Sugar ($133.1 / 2.6%)
+
+(Source: WTO, 2022)
 <br>
 <a name="RW_road"></a>
 
@@ -3721,6 +3808,12 @@ The single railway line connects Wau to Sudan.
 <a name="TZ"></a>
 ## Tanzania 
 
+<ins>Labor force participation rate</ins> (Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)
+
+- Total: [84%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=TZ&start=2024&type=points&view=bar)
+- Male: [87%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=TZ&start=2024&type=points&view=bar)
+- Female: [80%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=TZ&start=2024&type=points&view=bar)
+
 <br>
 <a name="TZ_corridors"></a>
 
@@ -3733,7 +3826,25 @@ The single railway line connects Wau to Sudan.
 
 
 ### Trade volumes
+<ins>Export</ins>
 
+- <b>Exports/capita: $134</b>
+- Gold ($3.4B / 39.3%)
+- Cashew nuts ($564.6M / 6.5%)
+- Tobacco ($509.5M / 5.9%)
+- Coffee ($304.0M / 3.5%)
+- Sesamum seeds ($268.2M / 3.1%)
+
+<ins>Import</ins>
+
+- <b>Imports/capita: $242</b>
+- Refined petroleum ($2.8B / 17.9%)
+- Trucks ($294.5 / 2.5%)
+- Wheat and meslin ($392.2M / 2.5%)
+- Line pipe for gas or oil ($226.3M / 1.4%)
+- Medicaments ($214.8M / 1.4%)
+
+(Source: [WTO](https://ttd.wto.org/en/profiles/tanzania), 2022)
 <br>
 <a name="TZ_road"></a>
 
@@ -3864,6 +3975,12 @@ The single railway line connects Wau to Sudan.
 <a name="UG"></a>
 ## Uganda 
 
+<ins>Labor force participation rate</ins> (Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)
+
+- Total: [81%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=UG&start=2024&type=points&view=bar)
+- Male: [85%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=UG&start=2024&type=points&view=bar)
+- Female: [76%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=UG&start=2024&type=points&view=bar)
+
 <br>
 <a name="UG_corridors"></a>
 
@@ -3876,7 +3993,25 @@ The single railway line connects Wau to Sudan.
 
 
 ### Trade volumes
+<ins>Export</ins>
 
+- <b>Exports/capita: $86</b>
+- Gold ($1.0B / 26.0%)
+- Coffee ($718.0M / 18.1%)
+- Cocoa ($105.8M / 2.7%)
+- Refined petroleum ($99.4M / 2.5%)
+- Sugar ($85.8M / 2.2%)
+ 
+<ins>Import</ins>
+
+- <b>Imports/capita: $198</b>
+- Refined petroleum ($1.2B / 13.6%)
+- Gold ($1.1B / 12.0%)
+- Medicaments ($266.2M / 2.9%)
+- Crude palm oil ($259.8M / 2.9%)
+- Milled rice ($218.4 / 2.4%)
+
+(Source: [WTO](https://ttd.wto.org/en/profiles/uganda), 2021)
 <br>
 <a name="UG_road"></a>
 
@@ -3925,6 +4060,12 @@ The single railway line connects Wau to Sudan.
 <a name="ZM"></a>
 ## Zambia 
 
+<ins>Labor force participation rate</ins> (Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)
+
+- Total: [59%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=ZM&start=2024&type=points&view=bar)
+- Male: [65%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=ZM&start=2024&type=points&view=bar)
+- Female: [54%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=ZM&start=2024&type=points&view=bar)
+
 <br>
 <a name="ZM_corridrs"></a>
 
@@ -3937,7 +4078,25 @@ The single railway line connects Wau to Sudan.
 
 
 ### Trade volumes
+<ins>Export</ins>
 
+- <b>Exports/capita: $526</b>
+- Unrefined copper ($5.8B / 51.9%)
+- Refined copper ($1.7B / 14.8%)
+- Nickel ($323.4M / 2.9%)
+- Electrical energy ($267.8M / 2.4%)
+- Cement ($160.1M / 1.4%)
+
+<ins>Import</ins>
+
+- <b>Imports/capita: $526</b>
+- Refined petroleum ($2.1B / 19.1%)
+- Electrical energy ($312.9M / 2.8%)
+- Dumpers for off-highway use ($222.3M / 2.0%)
+- Trucks ($197.6M / 1.8%)
+- Medicaments ($195.1M / 1.7%)
+
+(Source: [WTO](https://ttd.wto.org/en/profiles/zambia), 2024)
 <br>
 <a name="ZM_road"></a>
 
