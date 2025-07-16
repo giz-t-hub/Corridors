@@ -368,18 +368,26 @@ Kenya (only [Kisumu port](#kisumu_port))
 7. [Tanzania Ports Authority](https://www.ports.go.tz/index.php/en/) (TPA) (© 2025)
 8. [Tanzania International Container Terminal Services](https://ticts.simplybook.me/v2/) (TICTS) (© 2025)
 9. [Tanzania Railways Ltd](https://www.trc.co.tz/) (TRC) (© 2025)
-10. [Surface and Marine Transport Regulatory Authority](http://www.sumatra.or.tz) (SUMATRA) (site currently unavailable)
-11. [Tanzania Revenue Authority](https://www.tra.go.tz/) (TRA) (© 2025)
-12. [Marine Services Company Limited](http://www.mscl.go.tz/) (MSCL) (site currently unavailable)
-13. Tanzania Shipping Agencies Association (TASAA)
-14. Tanzania Chamber of Commerce Industries and Agriculture (TCCIA)
-15. Tanzania Freight Forwarders Association (TAFFA)
-16. Marine Services Company Limited (MSC)
-17. Tanzania Truck Owners Association (TATOA)
-18. National Development Corporation (NDC)
-19. Tanzania Police Force – Traffic Police
-20. Directorate of Tanzania Immigration
-21. Tanzania Bureau of Standards (TBS)
+   - state-owned by Tanzania
+   - operator and owner of Tanzania's ~2,600 km metre gauge railway system
+   - operator and owner of [Isaka Dry Port](https://www.trc.co.tz/pages/dry-ports) in Tanzania
+10. [Tanzania-Zambia Railway Authority](https://tazarasite.com/) (TAZARA) (© 2025)
+    - state-owned by Tanzania and Zambia
+11. [Surface and Marine Transport Regulatory Authority](http://www.sumatra.or.tz) (SUMATRA) (site currently unavailable)
+12. [Tanzania Revenue Authority](https://www.tra.go.tz/) (TRA) (© 2025)
+13. [Marine Services Company Limited](http://www.mscl.go.tz/) (MSCL) (site currently unavailable)
+14. Tanzania Shipping Agencies Association (TASAA)
+15. [Tanzania Shipping Agencies Corporation](https://www.tasac.go.tz/) (TASAC) (© 2025)
+16. [Tanzania Chamber of Commerce Industries and Agriculture](https://tccia.or.tz/) (TCCIA) (© 2025)
+17. [Tanzania Freight Forwarders Association](https://taffa.or.tz/) (TAFFA) (© 2025)
+18. [Tanzania Customs Agents Association](https://tacas.or.tz/) (TACAS) (© 2024)
+19. [Customs Agents and Logistics Association of Tanzania](https://calat.or.tz/) (CALAT) (© 2025)
+21. [Tanzania Truck Owners Association](https://www.tatoa.co.tz/) (TATOA) (© 2024)
+22. [Tanzania Medium and Small Truck Owners Association](https://www.tamstoa.co.tz/) (TAMSTOA) (© 2024)
+23. [National Development Corporation](https://ndc.go.tz/) (NDC) (© 20)
+24. [Tanzania Police Force](https://polisi.go.tz/) – Traffic Police
+25. [Tanzania Immigration Department](https://www.immigration.go.tz/) (© 2025)
+26. [Tanzania Bureau of Standards](https://www.tbs.go.tz/) (TBS) (© 2025)
  
 </details><!-- /tanzania stakeholders -->
 <details><!-- uganda stakeholders -->
@@ -408,30 +416,26 @@ Kenya (only [Kisumu port](#kisumu_port))
 
 1. Ministry of Transport and Logistics – Zambia
 2. Zambia Railways Limited (ZRL)
-3. Zambia Revenue Authority (ZRA)
-4. Road Transport Safety Agency (RTSA)
-5. Zambia Bureau of Standards (ZABS)
-6. Zambia Compulsory Standards Agency (ZCSA)
-7. Department of Immigration
-8. Zambia Development Agency (ZDA)
-9. Road Development Agency (RDA)
-10. Ministry of Commerce, Trade and Industry
-11. Ministry of Infrastructure
-12. Oil Transporters Association of Zambia
-13. SADC Truck Drivers Association of Zambia
-14. Petroleum Transporters Association of Zambia
-15. Copperbelt Open Truckers Association
+3. [Tanzania-Zambia Railway Authority](https://tazarasite.com/) (TAZARA) (© 2025)
+    - state-owned by Tanzania and Zambia
+4. Zambia Revenue Authority (ZRA)
+5. Road Transport Safety Agency (RTSA)
+6. Zambia Bureau of Standards (ZABS)
+7. Zambia Compulsory Standards Agency (ZCSA)
+8. Department of Immigration
+9. Zambia Development Agency (ZDA)
+10. Road Development Agency (RDA)
+11. Ministry of Commerce, Trade and Industry
+12. Ministry of Infrastructure
+13. Oil Transporters Association of Zambia
+14. SADC Truck Drivers Association of Zambia
+15. Petroleum Transporters Association of Zambia
+16. Copperbelt Open Truckers Association
+
 
 </details><!-- /zambia stakeholders -->
 
-- [Tanzania Railways Corporation](https://www.trc.co.tz/) (TRC)
-  - state-owned by Tanzania
-  - operator and owner of Tanzania's ~2,600 km metre gauge railway system
-  - operator and owner of [Isaka Dry Port](https://www.trc.co.tz/pages/dry-ports) in tanzania
-- [Tanzania-Zambia Railway Authority](https://tazarasite.com/) (TAZARA)
-  - state-owned by Tanzania and Zambia
-  - 
-
+<br><br>
 [Corridor overview](#corridors) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 ---
@@ -3969,6 +3973,7 @@ The single railway line connects Wau to Sudan.
 
 ***Dry port***
 - [Isaka Dry Port](https://www.trc.co.tz/pages/dry-ports)
+  - owned and operated by [TRC](https://www.trc.co.tz/)
 
 <br>
 <a name="TZ_water"></a>
@@ -4005,6 +4010,32 @@ The single railway line connects Wau to Sudan.
 
 
 ### Further information
+
+- [LCA](https://lca.logcluster.org/tanzania-united-republic)
+- [Ministry of Infrastructure, Communication and Transport](https://moic.go.tz/eng/) (MOIC) (© 2024)
+- [Ministry of Transport](https://www.uchukuzi.go.tz/) (MoT) (© 2025)
+- [Ministry of Works](https://www.mow.go.tz/) (MoW) (© 2025)
+- [Ministry of Industry and Trade](https://www.viwanda.go.tz/) (MIT) (© 2025)
+- [Tanzania Roads Agency](https://www.tanroads.go.tz/) (TANROADS) (© 2016)
+- [Land Transport Regulatory Authority](https://www.latra.go.tz/) (LATRA) (© 2025)
+- [Tanzania Ports Authority](https://www.ports.go.tz/index.php/en/) (TPA) (© 2025)
+- [Tanzania Revenue Authority](https://www.tra.go.tz/) (TRA) (© 2025)
+- [Tanzania International Container Terminal Services](https://ticts.simplybook.me/v2/) (TICTS) (© 2025)
+- [Surface and Marine Transport Regulatory Authority](http://www.sumatra.or.tz) (SUMATRA) (site currently unavailable)
+- [Marine Services Company Limited](http://www.mscl.go.tz/) (MSCL) (site currently unavailable)
+- Tanzania Shipping Agencies Association (TASAA)
+- [Tanzania Shipping Agencies Corporation](https://www.tasac.go.tz/) (TASAC) (© 2025)
+- [Tanzania Chamber of Commerce Industries and Agriculture](https://tccia.or.tz/) (TCCIA) (© 2025)
+- [Tanzania Freight Forwarders Association](https://taffa.or.tz/) (TAFFA) (© 2025)
+- [Tanzania Customs Agents Association](https://tacas.or.tz/) (TACAS) (© 2024)
+- [Customs Agents and Logistics Association of Tanzania](https://calat.or.tz/) (CALAT) (© 2025)
+- [Tanzania Truck Owners Association](https://www.tatoa.co.tz/) (TATOA) (© 2024)
+- [Tanzania Medium and Small Truck Owners Association](https://www.tamstoa.co.tz/) (TAMSTOA) (© 2024)
+- [National Development Corporation](https://ndc.go.tz/) (NDC) (© 20)
+- [Tanzania Investment Centre](https://www.tic.go.tz/) (TIC) (© 2025)
+- [Tanzania Police Force](https://polisi.go.tz/) – Traffic Police
+- [Tanzania Immigration Department](https://www.immigration.go.tz/) (© 2025)
+- [Tanzania Bureau of Standards](https://www.tbs.go.tz/) (TBS) (© 2025)
 
 <br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
