@@ -359,26 +359,27 @@ Kenya (only [Kisumu port](#kisumu_port))
 <details><!-- tanzania stakeholders -->
 <summary>Tanzania</summary>	
 
-1. Ministry of Transport
-2. Ministry of Works
-3. Ministry of Trade & Industry
-4. Tanzania Roads Agency (TANROADS)
-5. Tanzania Ports Authority (TPA)
-6. Tanzania International Container Terminal Services (TICTS)
-7. Tanzania Railways Ltd
-8. Rail Assets Holding Company (RAHCO)
-9. Surface and Marine Transport Regulatory Authority (SUMATRA)
-10. Tanzania Revenue Authority
-11. Marine Services Company Limited (MSCL)
-12. Tanzania Shipping Agencies Association (TASAA)
-13. Tanzania Chamber of Commerce Industries and Agriculture (TCCIA)
-14. Tanzania Freight Forwarders Association (TAFFA)
-15. Marine Services Company Limited (MSC)
-16. Tanzania Truck Owners Association (TATOA)
-17. National Development Corporation (NDC)
-18. Tanzania Police Force – Traffic Police
-19. Directorate of Tanzania Immigration
-20. Tanzania Bureau of Standards (TBS)
+1. [Ministry of Infrastructure, Communication and Transport](https://moic.go.tz/eng/) (MOIC) (© 2024)
+2. [Ministry of Transport](https://www.uchukuzi.go.tz/) (MoT) (© 2025)
+3. [Ministry of Works](https://www.mow.go.tz/) (MoW) (© 2025)
+4. [Ministry of Industry and Trade](https://www.viwanda.go.tz/) (MIT) (© 2025)
+5. [Tanzania Roads Agency](https://www.tanroads.go.tz/) (TANROADS) (© 2016)
+6. [Land Transport Regulatory Authority](https://www.latra.go.tz/) (LATRA) (© 2025)
+7. [Tanzania Ports Authority](https://www.ports.go.tz/index.php/en/) (TPA) (© 2025)
+8. [Tanzania International Container Terminal Services](https://ticts.simplybook.me/v2/) (TICTS) (© 2025)
+9. [Tanzania Railways Ltd](https://www.trc.co.tz/) (TRC) (© 2025)
+10. [Surface and Marine Transport Regulatory Authority](http://www.sumatra.or.tz) (SUMATRA) (site currently unavailable)
+11. [Tanzania Revenue Authority](https://www.tra.go.tz/) (TRA) (© 2025)
+12. [Marine Services Company Limited](http://www.mscl.go.tz/) (MSCL) (site currently unavailable)
+13. Tanzania Shipping Agencies Association (TASAA)
+14. Tanzania Chamber of Commerce Industries and Agriculture (TCCIA)
+15. Tanzania Freight Forwarders Association (TAFFA)
+16. Marine Services Company Limited (MSC)
+17. Tanzania Truck Owners Association (TATOA)
+18. National Development Corporation (NDC)
+19. Tanzania Police Force – Traffic Police
+20. Directorate of Tanzania Immigration
+21. Tanzania Bureau of Standards (TBS)
  
 </details><!-- /tanzania stakeholders -->
 <details><!-- uganda stakeholders -->
@@ -2023,9 +2024,9 @@ Water-bourne
 
 <ins>Labor force participation rate</ins> (Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)
 
-- Total: 
-- Male: 
-- Female:
+- Total: [65%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=CD&start=2024&view=bar)
+- Male: [69%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=CD&start=2024&view=bar)
+- Female: [62%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=CD&start=2024&view=bar)
 
 <br>
 <a name="CD_corridors"></a>
