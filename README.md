@@ -123,6 +123,28 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 ### Related Countries
 [Djibouti](#DJ), [Ethiopia](#ET), [Kenya](#KE), [Somalia](#SO), [Tanzania](#TZ)
 
+<details><!-- VI -->
+<summary>Tanzania</summary>
+
+[Country page](#TZ)
+- [Arusha](#arusha)
+- [Bukoba](#bukoba)
+- [Dar es Salaam](#dar_es_salaam) (Capital), [(deep) sea port](#dar_es_salaam_port)
+- [Isaka](#isaka)
+- [Kahama](#kahama)
+- [Kibaha](#kibaha)
+- [Morogoro](#morogoro)
+- [Moshi](#moshi)
+- [Musoma](#musoma)
+- [Mwanza](#mwanza)
+- [Shinyanga](#shinyanga)
+- [Singida](#singida)
+- [Tabora](#tabora)
+- [Tanga](#tanga)
+
+</details><!-- /VI -->
+
+<br><br>
 [Corridor overview](#corridors) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="C8"></a>
@@ -248,8 +270,20 @@ This is the [EAC's Central Corridor](https://www.eac.int/infrastructure/road-tra
 <summary>Tanzania</summary>
 
 [Country page](#TZ)
-- [Dar es Salaam](#dar_es_salaam) (Capital), [(deep) sea port](#dar_port)
+- [Arusha](#arusha)
+- [Bukoba](#bukoba)
+- [Dar es Salaam](#dar_es_salaam), [(deep) sea port](#dar_es_salaam_port)
+- [Dodoma](#dodoma) (Capital)
 - [Isaka](#isaka)
+- [Kahama](#kahama)
+- [Kibaha](#kibaha)
+- [Morogoro](#morogoro)
+- [Moshi](#moshi)
+- [Mwanza](#mwanza)
+- [Shinyanga](#shinyanga)
+- [Singida](#singida)
+- [Tabora](#tabora)
+- [Tanga](#tanga)
 
 </details><!-- /VI -->
 <details><!-- VII -->
@@ -270,7 +304,7 @@ This is the [EAC's Central Corridor](https://www.eac.int/infrastructure/road-tra
 Kenya (only [Kisumu port](#kisumu_port))
 </details><!-- /I -->
 
-"The Central Corridor is the integrated multimodal transport and logistics network that connects the Central Corridor Transit Transport Facilitation Agency (CCTTFA) Member States to the sea through the [port of Dar es Salaam](#dar_port)" ([CCTTFA](https://centralcorridor-ttfa.org/overview/))
+> The Central Corridor is the integrated multimodal transport and logistics network that connects the Central Corridor Transit Transport Facilitation Agency (CCTTFA) Member States to the sea through the [port of Dar es Salaam](#dar_es_salaam_port) ([CCTTFA](https://centralcorridor-ttfa.org/overview/))
 
 ### Stakeholders
 
@@ -336,58 +370,58 @@ Kenya (only [Kisumu port](#kisumu_port))
 <details><!-- rwanda stakeholders -->
 <summary>Rwanda</summary>
 
-1. [Ministry of Infrastructure](https://www.mininfra.gov.rw/) (MININFRA)
-2. [Ministry of Trade & Industry](https://www.minicom.gov.rw/) (MINICOM)
-3. [Private Sector Federation](https://psf.org.rw/) (PSF)
+1. [Ministry of Infrastructure](https://www.mininfra.gov.rw/) (MININFRA) <sub>(© 2025)</sub>
+2. [Ministry of Trade & Industry](https://www.minicom.gov.rw/) (MINICOM) <sub>(© 2025)</sub>
+3. [Private Sector Federation](https://psf.org.rw/) (PSF) <sub>(© 2025)</sub>
 4. Magasins Généraux du Rwanda (MAGERWA)
 5. [Association of Transporters of Rwanda](#RW-ATAR) (ATAR)
 7. Association of Insurers of Rwanda (ASSAR)
-8. [Rwanda Freight Forwarders Association](https://rwaffa.com/) (RWAFFA) \[French: Association des Agences en Douane au Rwanda (ADR)]
-9. [Rwanda Revenue Authority](https://www.rra.gov.rw/en/home) (RRA)
-10. [Rwanda Transport Development Agency](https://www.rtda.gov.rw/home) (RTDA)
-11. [Rwanda Mining Association](https://rma.org.rw/index.html) (RMA)
-12. [Rwanda Association of Petroleum Products Importers](http://assimper.rw/) (ASSIMPER)
+8. [Rwanda Freight Forwarders Association](https://rwaffa.com/) (RWAFFA) <sub>(© 2025)</sub> \[French: Association des Agences en Douane au Rwanda (ADR)]
+9. [Rwanda Revenue Authority](https://www.rra.gov.rw/en/home) (RRA) <sub>(© 2022)</sub>
+10. [Rwanda Transport Development Agency](https://www.rtda.gov.rw/home) (RTDA) <sub>(© unknown)</sub>
+11. [Rwanda Mining Association](https://rma.org.rw/index.html) (RMA) <sub>(© 2025)</sub>
+12. [Rwanda Association of Petroleum Products Importers](http://assimper.rw/) (ASSIMPER) <sub>(© 2018)</sub>
 13. Rwanda Petroleum Exporters Association
 14. Rwanda Police Force – Traffic Police
-15. [Rwanda Development Board](https://rdb.rw/) (RDB)
-16. [Rwanda Standards Board](https://www.rsb.gov.rw/) (RSB)
-17. [Ministry of Finance & Economic Planning](https://www.minecofin.gov.rw/) (MINECOFIN)
-18. [Ministry of Foreign Affairs & Cooperation](https://www.minaffet.gov.rw/) (MINAFFET)
-19. [Directorate of Rwanda Immigration/Emigration](https://www.migration.gov.rw/)
+15. [Rwanda Development Board](https://rdb.rw/) (RDB) <sub>(© 2025)</sub>
+16. [Rwanda Standards Board](https://www.rsb.gov.rw/) (RSB) <sub>(© 2025)</sub>
+17. [Ministry of Finance & Economic Planning](https://www.minecofin.gov.rw/) (MINECOFIN) <sub>(© 2025)</sub>
+18. [Ministry of Foreign Affairs & Cooperation](https://www.minaffet.gov.rw/) (MINAFFET) <sub>(© 2025)</sub>
+19. [Directorate of Rwanda Immigration/Emigration](https://www.migration.gov.rw/) <sub>(© 2024)</sub>
 
 </details><!-- /rwanda stakeholders -->
 <details><!-- tanzania stakeholders -->
 <summary>Tanzania</summary>	
 
-1. [Ministry of Infrastructure, Communication and Transport](https://moic.go.tz/eng/) (MOIC) (© 2024)
-2. [Ministry of Transport](https://www.uchukuzi.go.tz/) (MoT) (© 2025)
-3. [Ministry of Works](https://www.mow.go.tz/) (MoW) (© 2025)
-4. [Ministry of Industry and Trade](https://www.viwanda.go.tz/) (MIT) (© 2025)
-5. [Tanzania Roads Agency](https://www.tanroads.go.tz/) (TANROADS) (© 2016)
-6. [Land Transport Regulatory Authority](https://www.latra.go.tz/) (LATRA) (© 2025)
-7. [Tanzania Ports Authority](https://www.ports.go.tz/index.php/en/) (TPA) (© 2025)
-8. [Tanzania International Container Terminal Services](https://ticts.simplybook.me/v2/) (TICTS) (© 2025)
-9. [Tanzania Railways Ltd](https://www.trc.co.tz/) (TRC) (© 2025)
+1. [Ministry of Infrastructure, Communication and Transport](https://moic.go.tz/eng/) (MOIC) *(© 2024, see MoT below)*
+2. [Ministry of Transport](https://www.uchukuzi.go.tz/) (MoT) <sub>(© 2025)</sub>
+3. [Ministry of Works](https://www.mow.go.tz/) (MoW) <sub>(© 2025)</sub>
+4. [Ministry of Industry and Trade](https://www.viwanda.go.tz/) (MIT) <sub>(© 2025)</sub>
+5. [Tanzania Roads Agency](https://www.tanroads.go.tz/) (TANROADS) <sub>(© 2016)</sub>
+6. [Land Transport Regulatory Authority](https://www.latra.go.tz/) (LATRA) <sub>(© 2025)</sub>
+7. [Tanzania Ports Authority](https://www.ports.go.tz/index.php/en/) (TPA) <sub>(© 2025)</sub>
+8. [Tanzania International Container Terminal Services](https://ticts.simplybook.me/v2/) (TICTS) <sub>(© 2025)</sub>
+9. [Tanzania Railways Ltd](https://www.trc.co.tz/) (TRC) <sub>(© 2025)</sub>
    - state-owned by Tanzania
    - operator and owner of Tanzania's ~2,600 km metre gauge railway system
    - operator and owner of [Isaka Dry Port](https://www.trc.co.tz/pages/dry-ports) in Tanzania
-10. [Tanzania-Zambia Railway Authority](https://tazarasite.com/) (TAZARA) (© 2025)
+10. [Tanzania-Zambia Railway Authority](https://tazarasite.com/) (TAZARA) <sub>(© 2025)</sub>
     - state-owned by Tanzania and Zambia
-11. [Surface and Marine Transport Regulatory Authority](http://www.sumatra.or.tz) (SUMATRA) (site currently unavailable)
-12. [Tanzania Revenue Authority](https://www.tra.go.tz/) (TRA) (© 2025)
-13. [Marine Services Company Limited](http://www.mscl.go.tz/) (MSCL) (site currently unavailable)
+11. [Surface and Marine Transport Regulatory Authority](http://www.sumatra.or.tz) (SUMATRA) *(site currently unavailable)*
+12. [Tanzania Revenue Authority](https://www.tra.go.tz/) (TRA) <sub>(© 2025)</sub>
+13. [Marine Services Company Limited](http://www.mscl.go.tz/) (MSCL) *(site currently unavailable)*
 14. Tanzania Shipping Agencies Association (TASAA)
-15. [Tanzania Shipping Agencies Corporation](https://www.tasac.go.tz/) (TASAC) (© 2025)
-16. [Tanzania Chamber of Commerce Industries and Agriculture](https://tccia.or.tz/) (TCCIA) (© 2025)
-17. [Tanzania Freight Forwarders Association](https://taffa.or.tz/) (TAFFA) (© 2025)
-18. [Tanzania Customs Agents Association](https://tacas.or.tz/) (TACAS) (© 2024)
-19. [Customs Agents and Logistics Association of Tanzania](https://calat.or.tz/) (CALAT) (© 2025)
-21. [Tanzania Truck Owners Association](https://www.tatoa.co.tz/) (TATOA) (© 2024)
-22. [Tanzania Medium and Small Truck Owners Association](https://www.tamstoa.co.tz/) (TAMSTOA) (© 2024)
-23. [National Development Corporation](https://ndc.go.tz/) (NDC) (© 20)
-24. [Tanzania Police Force](https://polisi.go.tz/) – Traffic Police
-25. [Tanzania Immigration Department](https://www.immigration.go.tz/) (© 2025)
-26. [Tanzania Bureau of Standards](https://www.tbs.go.tz/) (TBS) (© 2025)
+15. [Tanzania Shipping Agencies Corporation](https://www.tasac.go.tz/) (TASAC) <sub>(© 2025)</sub>
+16. [Tanzania Chamber of Commerce Industries and Agriculture](https://tccia.or.tz/) (TCCIA) <sub>(© 2025)</sub>
+17. [Tanzania Freight Forwarders Association](https://taffa.or.tz/) (TAFFA) <sub>(© 2025)</sub>
+18. [Tanzania Customs Agents Association](https://tacas.or.tz/) (TACAS) <sub>(© 2024)</sub>
+19. [Customs Agents and Logistics Association of Tanzania](https://calat.or.tz/) (CALAT) <sub>(© 2025)</sub>
+21. [Tanzania Truck Owners Association](https://www.tatoa.co.tz/) (TATOA) <sub>(© 2024)</sub>
+22. [Tanzania Medium and Small Truck Owners Association](https://www.tamstoa.co.tz/) (TAMSTOA) <sub>(© 2024)</sub>
+23. [National Development Corporation](https://ndc.go.tz/) (NDC) <sub>(© unknown)</sub>
+24. [Tanzania Police Force](https://polisi.go.tz/) – Traffic Police <sub>(© unknown)</sub>
+25. [Tanzania Immigration Department](https://www.immigration.go.tz/) <sub>(© 2025)</sub>
+26. [Tanzania Bureau of Standards](https://www.tbs.go.tz/) (TBS) <sub>(© 2025)</sub>
  
 </details><!-- /tanzania stakeholders -->
 <details><!-- uganda stakeholders -->
@@ -1109,9 +1143,21 @@ Kenya (only [Kisumu port](#kisumu_port))
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
 
-	  	- [Dar es Salaam](#dar_es_salaam)
+	  	- [Arusha](#arusha)
+		- [Bukoba](#bukoba)
+		- [Dar es Salaam](#dar_es_salaam)
+		- [Dodoma](#dodoma) (Capital)
 		- [Isaka](#isaka)
-
+		- [Kahama](#kahama)
+		- [Kibaha](#kibaha)
+		- [Morogoro](#morogoro)
+		- [Moshi](#moshi)
+  		- [Musoma](#musoma)
+		- [Mwanza](#mwanza)
+		- [Shinyanga](#shinyanga)
+		- [Singida](#singida)
+		- [Tabora](#tabora)
+		- [Tanga](#tanga)
 	  	</details>
   </details>
 - [Togo](#TG)
@@ -1566,12 +1612,13 @@ Angola has three independent railway lines:
 [Présidence de la République \[du Burundi\]](https://presidence.gov.bi/)<br>
 Population: 14,151,540 (2024)<br>
 
-<ins>Labor force participation rate</ins> (Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)
+| Labor force | participation rate |
+| --- | --- | 
+| Total: | [79%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=BI&start=2024&type=points&view=bar)   |
+| Male:  | [77%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=BI&start=2024&type=points&view=bar)|
+| Female:| [80%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=BI&start=2024&type=points&view=bar)|
 
-- Total: [79%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=BI&start=2024&type=points&view=bar)
-- Male: [77%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=BI&start=2024&type=points&view=bar)
-- Female: [80%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=BI&start=2024&type=points&view=bar)
-
+<sup>(Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)</sup>
 <br>
 <a name="BI_corridors"></a>
 
@@ -1586,25 +1633,13 @@ Population: 14,151,540 (2024)<br>
 ### Trade volumes
 
 [General Directorate of Commerce](https://mctit.gov.bi/direction-generale-du-commerce/)<br>
-<ins>Export</ins>
+| Export | Import |
+|---|---|
+| Exports/capita: ~$16 | Imports/capita: ~$97 |
+| 1. Coffee ($53.6M / 25.8%)<br> 2. Gold ($51.9M / 25.0%)<br> 3. Tea ($22.7M / 10.9%)<br> 4. Cigarettes ($10.3M / 4.9%)<br> 5. Beer ($9.9M / 4.8%) | 1. Refined petroleum ($295.7M / 23.4%)<br> 2. Phosphatic fertilizers ($79.4M / 6.3%)<br> 3. Medicaments ($43.5M / 3.5%)<br> 4. Wheat and meslin ($34.2M / 2.7%)<br> 5. Portland cement ($27.4M / 2.2%) |
 
-- <b>Exports/capita: ~$16</b>
-- Coffee ($53.6M / 25.8%)
-  - [Office pour le Développement du Café](https://odeca.gov.bi/industrie-du-cafe/) [Site currently broken (June 2025)]
-- Gold ($51.9M / 25.0%)
-- Tea ($22.7M / 10.9%)
-- Cigarettes ($10.3M / 4.9%)
-- Beer ($9.9M / 4.8%)
-
-<ins>Import</ins>
-
-- <b>Imports/capita: ~$97</b>
-- Refined petroleum ($295.7M / 23.4%)
-- Phosphatic fertilizers ($79.4M / 6.3%)
-- Medicaments ($43.5M / 3.5%)
-- Wheat and meslin ($34.2M / 2.7%)
-
-(Source: [WTO](https://ttd.wto.org/en/profiles/burundi), 2022)
+<sup>(Source: [WTO](https://ttd.wto.org/en/profiles/burundi), 2022)</sup><br>
+[Office pour le Développement du Café](https://odeca.gov.bi/industrie-du-cafe/) [Site currently broken (June 2025)]
 
 <br>
 <a name="BI_road"></a>
@@ -2026,12 +2061,12 @@ Water-bourne
 <a name="CD"></a>
 ## Democratic Republic of the Congo 
 
-<ins>Labor force participation rate</ins> (Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)
-
-- Total: [65%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=CD&start=2024&view=bar)
-- Male: [69%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=CD&start=2024&view=bar)
-- Female: [62%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=CD&start=2024&view=bar)
-
+| Labor force | participation rate |
+| --- | --- |
+| Total: | [65%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=CD&start=2024&view=bar)   |
+| Male:  | [69%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=CD&start=2024&view=bar)|
+| Female:| [62%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=CD&start=2024&view=bar)|
+<sup>(Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)</sup>
 <br>
 <a name="CD_corridors"></a>
 
@@ -2044,26 +2079,14 @@ Water-bourne
 
 
 ### Trade volumes
-<ins>Export</ins>
+| Export | Import |
+|---|---|
+| Exports/capita: $154 | Imports/capita: $111.4 |
+| 1. Refined Copper ($12.5B / 79.4%)<br> 2. Cobalt ($2,3B / 14.6%)<br> 3. Raw Copper ($190.2M / 1.2%)<br> 4. Refined petroleum ($96.9M / 0.6%)<br> | 1. Refined Petroleum ($2.62B / 22.9%)<br> 2. Sulphur ($908.3M / 8.0%)<br> 3. Sulphuric acid ($254.9M / 2.2%)<br> 4. Fused magnesia ($228.5M / 2.0%)<br> 5. Durum wheat (187.8M / 1.6%)|
 
-- <b>Exports/capita: $154</b>
-- Refined Copper ($12.5B / 79.4%)
-- Cobalt ($2,3B / 14.6%)
-- Raw Copper ($190.2M / 1.2%)
-- Refined petroleum ($96.9M / 0.6%)
-
+<sup>(Source: [WTO](https://ttd.wto.org/en/profiles/democratic-republic-of-the-congo), 2022)</sup><br>
 DR Congo is the world's leading exporter of cobalt, tin ores, copper alloys, and cobalt ore. 
 
-<ins>Import</ins>
-
-- <b>Imports/capita: $111.4</b>
-- Refined Petroleum ($2.62B / 22.9%)
-- Sulphur ($908.3M / 8.0%)
-- Sulphuric acid ($254.9M / 2.2%)
-- Fused magnesia ($228.5M / 2.0%)
-- Durum wheat (187.8M / 1.6%)
-
-(Source: [WTO](https://ttd.wto.org/en/profiles/democratic-republic-of-the-congo), 2022)
 
 <br>
 <a name="CD_road"></a>
@@ -2461,7 +2484,7 @@ Overview of the [Egyptian National Railways stations](https://egytrains.com/)
 | ---             | --- |
 | System Size:    | 310 km |
 | Track gauge:    | 1,067 mm |
-| Operator:      | state-owned [Eswatini Railways](https://eswatinirail.co.sz/) (ESR)<br> no passenger transport |
+| Operator:       | state-owned [Eswatini Railways](https://eswatinirail.co.sz/) (ESR)<br> no passenger transport |
 | System Map:     | [ESR](https://eswatinirail.co.sz/about/eswatini-rail-network/) |
 
 <br>
@@ -2521,7 +2544,7 @@ Overview of the [Egyptian National Railways stations](https://egytrains.com/)
 | ---             | --- |
 | System Size:    | 1,401 km |
 | Track gauge:    | 1,435 mm |
-| Operator:      | state-owned [Ethiopian Railway Corporation](https://erc.gov.et/) (ERC) |
+| Operator:       | state-owned [Ethiopian Railway Corporation](https://erc.gov.et/) (ERC) |
 <!-- | System Map:     | []() | -->
 <details>
 <summary>Details on the Ethiopian railway lines</summary>
@@ -3272,12 +3295,13 @@ Ports
 <a name="RW"></a>
 ## Rwanda 
 
-<ins>Labor force participation rate</ins> (Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)
+| Labor force | participation rate |
+| --- | --- | 
+| Total: | [64%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=RW&start=2024&type=points&view=bar)   |
+| Male:  | [70%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=RW&start=2024&type=points&view=bar)|
+| Female:| [58%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=RW&start=2024&type=points&view=bar)|
 
-- Total: [64%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=RW&start=2024&type=points&view=bar)
-- Male: [70%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=RW&start=2024&type=points&view=bar)
-- Female: [58%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=RW&start=2024&type=points&view=bar)
-
+<sup>(Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)</sup>
 <br>
 <a name="RW_corridors"></a>
 
@@ -3290,25 +3314,12 @@ Ports
 
 
 ### Trade volumes
-<ins>Export</ins>
+| Export | Import |
+|---|---|
+| Exports/capita: $147 | Imports/capita: $374 |
+| 1. Gold ($555.7M / 27.5%)<br> 2. Refined petroleum ($197.0M / 9.8%)<br> 3. Tea ($101.2M / 5.0%)<br> 4. Coffee ($96.1M / 4.8%)<br> 5. Tin ores ($64.81M / 3.2%) | 1. Refined petroleum ($718.6 / 14.0%)<br> 2. Gold ($510.0M / 10.0%)<br> 3. Palm oil ($151.6M / 3.0%)<br> 4. Milled rice ($136.9 / 2.7%)<br> 5. Sugar ($133.1 / 2.6%) |
 
-- <b>Exports/capita: $147</b>
-- Gold ($555.7M / 27.5%)
-- Refined petroleum ($197.0M / 9.8%)
-- Tea ($101.2M / 5.0%)
-- Coffee ($96.1M / 4.8%)
-- Tin ores ($64.81M / 3.2%)
-
-<ins>Import</ins>
-
-- <b>Imports/capita: $374</b>
-- Refined petroleum ($718.6 / 14.0%)
-- Gold ($510.0M / 10.0%)
-- Palm oil ($151.6M / 3.0%)
-- Milled rice ($136.9 / 2.7%)
-- Sugar ($133.1 / 2.6%)
-
-(Source: WTO, 2022)
+<sup>(Source: [WTO](https://ttd.wto.org/en/profiles/rwanda), 2022)</sup>
 <br>
 <a name="RW_road"></a>
 
@@ -3383,15 +3394,15 @@ Secondary roads are generally acceptable for small trucks (15 MT max) but requir
 ### Further information
 
 - [LCA](https://lca.logcluster.org/rwanda)
-- [Ministry of Infrastructure](https://www.mininfra.gov.rw/) (MININFRA)
-- [Ministry of Trade & Industry](https://www.minicom.gov.rw/) (MINICOM)
-- [Ministry of Finance & Economic Planning](https://www.minecofin.gov.rw/) (MINECOFIN)
-- [Ministry of Foreign Affairs & Cooperation](https://www.minaffet.gov.rw/) (MINAFFET)
-- [Directorate of Rwanda Immigration/Emigration](https://www.migration.gov.rw/)
-- [Rwanda Revenue Authority](https://www.rra.gov.rw/en/home) (RRA)
-- [Rwanda Transport Development Agency](https://www.rtda.gov.rw/home) (RTDA)
+- [Ministry of Infrastructure](https://www.mininfra.gov.rw/) (MININFRA) <sub>(© 2025)</sub>
+- [Ministry of Trade & Industry](https://www.minicom.gov.rw/) (MINICOM) <sub>(© 2025)</sub>
+- [Ministry of Finance & Economic Planning](https://www.minecofin.gov.rw/) (MINECOFIN) <sub>(© 2025)</sub>
+- [Ministry of Foreign Affairs & Cooperation](https://www.minaffet.gov.rw/) (MINAFFET) <sub>(© 2025)</sub>
+- [Directorate of Rwanda Immigration/Emigration](https://www.migration.gov.rw/) <sub>(© 2024)</sub>
+- [Rwanda Revenue Authority](https://www.rra.gov.rw/en/home) (RRA) <sub>(© 2022)</sub>
+- [Rwanda Transport Development Agency](https://www.rtda.gov.rw/home) (RTDA) <sub>(© unknown)</sub>
 - [Rwanda Mines, Petroleum and Gas Board](https://www.rmb.gov.rw/) (RMB)
-- [Private Sector Federation](https://psf.org.rw/) (PSF)
+- [Private Sector Federation](https://psf.org.rw/) (PSF) <sub>(© 2025)</sub>
   <a name="RW-ATAR"></a>
 - Association of Transporters of Rwanda (ATAR)
 	<details>
@@ -3423,9 +3434,9 @@ Secondary roads are generally acceptable for small trucks (15 MT max) but requir
 	- Revising transport as a sector and attending all the meetings in question and giving suggestions in prospect to transport.
   
 	</details> 
-- [Rwanda Freight Forwarders Association](https://rwaffa.com/) (RWAFFA) \[French: Association des Agences en Douane au Rwanda (ADR)]
-- [Rwanda Mining Association](https://rma.org.rw/index.html) (RMA)
-- [Rwanda Association of Petroleum Products Importers](http://assimper.rw/) (ASSIMPER)
+- [Rwanda Freight Forwarders Association](https://rwaffa.com/) (RWAFFA) <sub>(© 2025)</sub> \[French: Association des Agences en Douane au Rwanda (ADR)]
+- [Rwanda Mining Association](https://rma.org.rw/index.html) (RMA) <sub>(© 2025)</sub>
+- [Rwanda Association of Petroleum Products Importers](http://assimper.rw/) (ASSIMPER) <sub>(© 2018)</sub>
 	<details>
 	<summary>ASSIMPER summary</summary>
 	
@@ -3449,8 +3460,8 @@ Secondary roads are generally acceptable for small trucks (15 MT max) but requir
 	Distribution of LPG in Rwanda is through the mainstream of oil marketers who source the product through Kenya and Tanzania by road using bulk trucks of maximum 20 Mt. Retail channels of distribution are through service stations, distributors and supermarkets in an assortment of cylinder sizes ranging from 3 Kg to 35 Kg.
 
  	</details>
-- [Rwanda Development Board](https://rdb.rw/) (RDB)
-- [Rwanda Standards Board](https://www.rsb.gov.rw/) (RSB)
+- [Rwanda Development Board](https://rdb.rw/) (RDB) <sub>(© 2025)</sub>
+- [Rwanda Standards Board](https://www.rsb.gov.rw/) (RSB) <sub>(© 2025)</sub>
 
 <br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
@@ -3914,13 +3925,15 @@ The single railway line connects Wau to Sudan.
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 <a name="TZ"></a>
-## Tanzania 
+## United Republic of Tanzania
 
-<ins>Labor force participation rate</ins> (Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)
+| Labor force | participation rate |
+|---|---|
+| Total: | [84%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=TZ&start=2024&type=points&view=bar)   |
+| Male:  | [87%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=TZ&start=2024&type=points&view=bar)|
+| Female:| [80%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=TZ&start=2024&type=points&view=bar)|
 
-- Total: [84%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=TZ&start=2024&type=points&view=bar)
-- Male: [87%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=TZ&start=2024&type=points&view=bar)
-- Female: [80%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=TZ&start=2024&type=points&view=bar)
+<sup>(Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)</sup>
 
 <br>
 <a name="TZ_corridors"></a>
@@ -3934,30 +3947,35 @@ The single railway line connects Wau to Sudan.
 
 
 ### Trade volumes
-<ins>Export</ins>
+| Export | Import |
+| --- | --- |
+| Exports/capita: $134 | Imports/capita: $242 |
+| 1. Gold ($3.4B / 39.3%) <br> 2. Cashew nuts ($564.6M / 6.5%) <br>  3. Tobacco ($509.5M / 5.9%) <br> 4. Coffee ($304.0M / 3.5%) <br> 5. Sesamum seeds ($268.2M / 3.1%) |  1. Refined petroleum ($2.8B / 17.9%) <br> 2. Trucks ($294.5 / 2.5%) <br> 3. Wheat and meslin ($392.2M / 2.5%) <br> 4. Line pipe for gas or oil ($226.3M / 1.4%) <br> 5. Medicaments ($214.8M / 1.4%)|
 
-- <b>Exports/capita: $134</b>
-- Gold ($3.4B / 39.3%)
-- Cashew nuts ($564.6M / 6.5%)
-- Tobacco ($509.5M / 5.9%)
-- Coffee ($304.0M / 3.5%)
-- Sesamum seeds ($268.2M / 3.1%)
-
-<ins>Import</ins>
-
-- <b>Imports/capita: $242</b>
-- Refined petroleum ($2.8B / 17.9%)
-- Trucks ($294.5 / 2.5%)
-- Wheat and meslin ($392.2M / 2.5%)
-- Line pipe for gas or oil ($226.3M / 1.4%)
-- Medicaments ($214.8M / 1.4%)
-
-(Source: [WTO](https://ttd.wto.org/en/profiles/tanzania), 2022)
+<sup>(Source: [WTO](https://ttd.wto.org/en/profiles/tanzania), 2022)</sup>
 <br>
 <a name="TZ_road"></a>
 
 
 ### Road network
+Total network: 181,189.77 km
+
+- 36,760 km managed by [Tanzania Roads Agency](https://www.tanroads.go.tz/) (TANROADS) *(© 2016)* <br> [network map](https://lca.logcluster.org/sites/default/files/inline-images/image-20240403154919-1.png)
+  - 12,223 km Trunk roads
+  - 23,846 km regional roads
+  - 691 km Designated District roads
+- 144,427.77 km managed by [Tanzania Rural and Urban Roads Agency](https://www.tarura.go.tz/) (TARURA) <sub>(© 2025)</sub>
+  - rural, urban and feeder roads
+
+Road infrastrukture stakeholders:
+
+- [TANROADS](https://www.tanroads.go.tz/)
+- [TARURA](https://www.tarura.go.tz/)
+- [Tanzania Road Association](https://www.tara.or.tz/) (TARA) <sub>(© 2025)</sub>
+- [National Institute of Transport](https://nit.ac.tz/) (NIT) <sub>(© 2025)</sub>
+- Road Safety Ambassadors (RSA)
+- [Roads Fund Board](https://www.roadsfund.go.tz/en) (RFB) <sub>(© 2025)</sub>
+- development banks, mobility clubs, road safety NGOs and industry
 
 <br>
 <a name="TZ_railway"></a>
@@ -3980,6 +3998,28 @@ The single railway line connects Wau to Sudan.
 
 
 ### Water-bourne transport
+[Tanzania port network](https://lca.logcluster.org/sites/default/files/confluence/TZA_LCA_PortNetwork_A4P_20200909.png%3Fversion%3D1%26modificationDate%3D1615275809000%26api%3Dv2)<br>
+All of Tanzania's ports are managed by the [Tanzania Ports Authority](https://www.ports.go.tz/index.php/en/) (TPA) <sub>(© 2025)</sub>. Tanzania's three main sea port are Dar es Salaam, Tanga and Mtwara ports, of which only the first two are related to the [two corridors](#TZ_corridors).<br>
+<a name="dar_es_salaam_port"></a>
+<details><!-- dar_es_salaam_port -->
+<summary>Dar es Salaam port</summary>
+
+- [Tanzania's main port](https://www.ports.go.tz/index.php/en/ports/dar-es-salaam-ports), handling about 95% of international trade
+- rated capacity: 14.1 million (MT) dry cargo and 6.0 million (MT) bulk liquid cargo
+- serves the landlocked countries of [Zambia](#ZM), [Democratic Republic of Congo](#CD), [Burundi](#BI), [Rwanda](#RW), Malawi, [Uganda](#UG) and [Zimbabwe](#ZW)
+- 
+
+</details><!-- /dar_es_salaam_port -->
+<a name="tanga_port"></a>
+<details><!-- tanga_port -->
+<summary>Tanga port</summary>
+
+- [Tanzania's oldest and second largest port](https://www.ports.go.tz/index.php/en/ports/tanga-ports)
+- capacity: 3 million (MT)
+- linked to Dar es Salaam port by highway
+
+</details><!-- /tanga_port -->
+In addition to the large sea ports Tanzania also has several smaller ones, river ports and lake ports. The main ports along the corridor are 
 
 <br>
 <a name="TZ_fleet"></a>
@@ -3992,19 +4032,109 @@ The single railway line connects Wau to Sudan.
 
 
 ### Important cities along the corridors
+<a name="arusha"></a>
+<details><!-- arusha -->
+<summary>Arusha</summary>
+
+- population: 617,631 (2022)
+
+</details><!-- /arusha -->
+<a name="bukoba"></a>
+<details><!-- bukoba -->
+<summary>Bukoba</summary>
+
+- population: 144,938 (2022)
+
+</details><!-- /bukoba -->
 <a name="dar_es_salaam"></a>
 <details><!-- dar_es_salaam -->
 <summary>Dar es Salaam</summary>
-- Capital of Tanzania
 
-</details><!-- dar_es_salaam -->
-<a name="isaka"></a>
-<details><!-- isaka -->
-<summary>Isaka</summary>
-- Tanzanias's only(?) dry port
+- seat of gouvernment and largest city of Tanzania
+- population: 7,776,000 (2023)
+- [largest sea port](#dar_es_salaam_port)
 
+</details><!-- /dar_es_salaam -->
+<a name="dodoma"></a>
+<details><!-- dodoma -->
+<summary>Dodoma</summary>
 
-</details><!-- isaka -->
+- capital
+- population: 765,179 (2022)
+
+</details><!-- /dodoma -->
+<a name="kahama"></a>
+<details><!-- kahama -->
+<summary>Kahama</summary>
+
+- population: 453,654 (2022)
+
+</details><!-- /kahama -->
+<a name="kibaha"></a>
+<details><!-- kibaha -->
+<summary>Kibaha</summary>
+
+- population: 265,360 (2022)
+
+</details><!-- /kibaha -->
+<a name="morogoro"></a>
+<details><!-- morogoro -->
+<summary>Morogoro</summary>
+
+- population: 471,409 (2022)
+
+</details><!-- /morogoro -->
+<a name="moshi"></a>
+<details><!-- moshi -->
+<summary>Moshi</summary>
+
+- population: 201,150 (2022)
+
+</details><!-- /moshi -->
+<a name="musoma"></a>
+<details><!-- musoma -->
+<summary>Musoma</summary>
+
+- population: 164,172 (2022)
+
+</details><!-- /musoma -->
+<a name="mwanza"></a>
+<details><!-- mwanza -->
+<summary>Mwanza</summary>
+
+- population: 1,104,521 (2022)
+- [largest lake ports](#) on Lake Victory
+
+</details><!-- /mwanza -->
+<a name="shinyanga"></a>
+<details><!-- shinyanga -->
+<summary>Shinyanga</summary>
+
+- population: 139,727 (2022)
+
+</details><!-- /shinyanga -->
+<a name="singida"></a>
+<details><!-- singida -->
+<summary>Singida</summary>
+
+- population: 232,459 (2022)
+
+</details><!-- /singida -->
+<a name="tabora"></a>
+<details><!-- tabora -->
+<summary>Tabora</summary>
+
+- population: 308,741 (2022)
+
+</details><!-- /tabora -->
+<a name="tanga"></a>
+<details><!-- tanga -->
+<summary>Tanga</summary>
+
+- population: 393,429 (2022)
+- [second largest sea port](#tanga_port)
+
+</details><!-- /tanga -->
 
 <br>
 
@@ -4012,30 +4142,27 @@ The single railway line connects Wau to Sudan.
 ### Further information
 
 - [LCA](https://lca.logcluster.org/tanzania-united-republic)
-- [Ministry of Infrastructure, Communication and Transport](https://moic.go.tz/eng/) (MOIC) (© 2024)
-- [Ministry of Transport](https://www.uchukuzi.go.tz/) (MoT) (© 2025)
-- [Ministry of Works](https://www.mow.go.tz/) (MoW) (© 2025)
-- [Ministry of Industry and Trade](https://www.viwanda.go.tz/) (MIT) (© 2025)
-- [Tanzania Roads Agency](https://www.tanroads.go.tz/) (TANROADS) (© 2016)
-- [Land Transport Regulatory Authority](https://www.latra.go.tz/) (LATRA) (© 2025)
-- [Tanzania Ports Authority](https://www.ports.go.tz/index.php/en/) (TPA) (© 2025)
-- [Tanzania Revenue Authority](https://www.tra.go.tz/) (TRA) (© 2025)
-- [Tanzania International Container Terminal Services](https://ticts.simplybook.me/v2/) (TICTS) (© 2025)
-- [Surface and Marine Transport Regulatory Authority](http://www.sumatra.or.tz) (SUMATRA) (site currently unavailable)
-- [Marine Services Company Limited](http://www.mscl.go.tz/) (MSCL) (site currently unavailable)
-- Tanzania Shipping Agencies Association (TASAA)
-- [Tanzania Shipping Agencies Corporation](https://www.tasac.go.tz/) (TASAC) (© 2025)
-- [Tanzania Chamber of Commerce Industries and Agriculture](https://tccia.or.tz/) (TCCIA) (© 2025)
-- [Tanzania Freight Forwarders Association](https://taffa.or.tz/) (TAFFA) (© 2025)
-- [Tanzania Customs Agents Association](https://tacas.or.tz/) (TACAS) (© 2024)
-- [Customs Agents and Logistics Association of Tanzania](https://calat.or.tz/) (CALAT) (© 2025)
-- [Tanzania Truck Owners Association](https://www.tatoa.co.tz/) (TATOA) (© 2024)
+- [Ministry of Infrastructure, Communication and Transport](https://moic.go.tz/eng/) (MOIC) *(© 2024, see also MoT below)*
+- [Ministry of Transport](https://www.uchukuzi.go.tz/) (MoT) <sub>(© 2025)</sub>
+- [Ministry of Works](https://www.mow.go.tz/) (MoW) <sub>(© 2025)</sub>
+- [Ministry of Industry and Trade](https://www.viwanda.go.tz/) (MIT) <sub>(© 2025)</sub>
+- [Land Transport Regulatory Authority](https://www.latra.go.tz/) (LATRA) <sub>(© 2025)</sub>
+- [Tanzania Revenue Authority](https://www.tra.go.tz/) (TRA) <sub>(© 2025)</sub>
+- [Tanzania International Container Terminal Services](https://ticts.simplybook.me/v2/) (TICTS) <sub>(© 2025)</sub>
+- [Surface and Marine Transport Regulatory Authority](http://www.sumatra.or.tz) (SUMATRA) *(site currently unavailable)*
+- [Marine Services Company Limited](http://www.mscl.go.tz/) (MSCL) *(site currently unavailable)*
+- [Tanzania Shipping Agencies Corporation](https://www.tasac.go.tz/) (TASAC) <sub>(© 2025)</sub>
+- [Tanzania Chamber of Commerce Industries and Agriculture](https://tccia.or.tz/) (TCCIA) <sub>(© 2025)</sub>
+- [Tanzania Freight Forwarders Association](https://taffa.or.tz/) (TAFFA) <sub>(© 2025)</sub>
+- [Tanzania Customs Agents Association](https://tacas.or.tz/) (TACAS) <sub>(© 2024)</sub>
+- [Customs Agents and Logistics Association of Tanzania](https://calat.or.tz/) (CALAT) <sub>(© 2025)</sub>
+- [Tanzania Truck Owners Association](https://www.tatoa.co.tz/) (TATOA) <sub>(© 2024)</sub>
 - [Tanzania Medium and Small Truck Owners Association](https://www.tamstoa.co.tz/) (TAMSTOA) (© 2024)
-- [National Development Corporation](https://ndc.go.tz/) (NDC) (© 20)
-- [Tanzania Investment Centre](https://www.tic.go.tz/) (TIC) (© 2025)
-- [Tanzania Police Force](https://polisi.go.tz/) – Traffic Police
-- [Tanzania Immigration Department](https://www.immigration.go.tz/) (© 2025)
-- [Tanzania Bureau of Standards](https://www.tbs.go.tz/) (TBS) (© 2025)
+- [National Development Corporation](https://ndc.go.tz/) (NDC) <sub>(© unknown)</sub>
+- [Tanzania Investment Centre](https://www.tic.go.tz/) (TIC) <sub>(© 2025)</sub>
+- [Tanzania Police Force](https://polisi.go.tz/) – Traffic Police <sub>(© unknown)</sub>
+- [Tanzania Immigration Department](https://www.immigration.go.tz/) <sub>(© 2025)</sub>
+- [Tanzania Bureau of Standards](https://www.tbs.go.tz/) (TBS) <sub>(© 2025)</sub>
 
 <br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
@@ -4110,11 +4237,13 @@ The single railway line connects Wau to Sudan.
 <a name="UG"></a>
 ## Uganda 
 
-<ins>Labor force participation rate</ins> (Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)
+| Labor force | participation rate |
+|---|---|
+| Total: | [81%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=UG&start=2024&type=points&view=bar)   |
+| Male:  | [85%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=UG&start=2024&type=points&view=bar)|
+| Female:| [76%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=UG&start=2024&type=points&view=bar)|
 
-- Total: [81%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=UG&start=2024&type=points&view=bar)
-- Male: [85%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=UG&start=2024&type=points&view=bar)
-- Female: [76%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=UG&start=2024&type=points&view=bar)
+<sup>(Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)</sup>
 
 <br>
 <a name="UG_corridors"></a>
@@ -4128,25 +4257,12 @@ The single railway line connects Wau to Sudan.
 
 
 ### Trade volumes
-<ins>Export</ins>
+| Export | Import |
+|---|---|
+| Exports/capita: $86 | Imports/capita: $198 |
+| 1. Gold ($1.0B / 26.0%)v 2. Coffee ($718.0M / 18.1%)<br> 3. Cocoa ($105.8M / 2.7%)<br> 4. Refined petroleum ($99.4M / 2.5%)<br> 5. Sugar ($85.8M / 2.2%) | 1. Refined petroleum ($1.2B / 13.6%)<br> 2. Gold ($1.1B / 12.0%)<br> 3. Medicaments ($266.2M / 2.9%)<br> 4. Crude palm oil ($259.8M / 2.9%)<br> 5. Milled rice ($218.4 / 2.4%) |
 
-- <b>Exports/capita: $86</b>
-- Gold ($1.0B / 26.0%)
-- Coffee ($718.0M / 18.1%)
-- Cocoa ($105.8M / 2.7%)
-- Refined petroleum ($99.4M / 2.5%)
-- Sugar ($85.8M / 2.2%)
- 
-<ins>Import</ins>
-
-- <b>Imports/capita: $198</b>
-- Refined petroleum ($1.2B / 13.6%)
-- Gold ($1.1B / 12.0%)
-- Medicaments ($266.2M / 2.9%)
-- Crude palm oil ($259.8M / 2.9%)
-- Milled rice ($218.4 / 2.4%)
-
-(Source: [WTO](https://ttd.wto.org/en/profiles/uganda), 2021)
+<sup>(Source: [WTO](https://ttd.wto.org/en/profiles/uganda), 2021)</sup>
 <br>
 <a name="UG_road"></a>
 
@@ -4195,12 +4311,13 @@ The single railway line connects Wau to Sudan.
 <a name="ZM"></a>
 ## Zambia 
 
-<ins>Labor force participation rate</ins> (Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)
+| Labor force | participation rate |
+|---|---| 
+| Total: | [59%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=ZM&start=2024&type=points&view=bar)   |
+| Male:  | [65%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=ZM&start=2024&type=points&view=bar)|
+| Female:| [54%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=ZM&start=2024&type=points&view=bar)|
 
-- Total: [59%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=ZM&start=2024&type=points&view=bar)
-- Male: [65%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=ZM&start=2024&type=points&view=bar)
-- Female: [54%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=ZM&start=2024&type=points&view=bar)
-
+<sup>(Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)</sup>
 <br>
 <a name="ZM_corridrs"></a>
 
@@ -4213,25 +4330,12 @@ The single railway line connects Wau to Sudan.
 
 
 ### Trade volumes
-<ins>Export</ins>
+| Export | Import |
+|---|---|
+| Exports/capita: $526 | Imports/capita: $526 |
+| 1. Unrefined copper ($5.8B / 51.9%)<br> 2. Refined copper ($1.7B / 14.8%)<br> 3. Nickel ($323.4M / 2.9%)<br> 4. Electrical energy ($267.8M / 2.4%)<br> 5. Cement ($160.1M / 1.4%) | 1. Refined petroleum ($2.1B / 19.1%)<br> 2. Electrical energy ($312.9M / 2.8%)<br> 3. Dumpers for off-highway use ($222.3M / 2.0%)<br> 4. Trucks ($197.6M / 1.8%)<br> 5. Medicaments ($195.1M / 1.7%) |
 
-- <b>Exports/capita: $526</b>
-- Unrefined copper ($5.8B / 51.9%)
-- Refined copper ($1.7B / 14.8%)
-- Nickel ($323.4M / 2.9%)
-- Electrical energy ($267.8M / 2.4%)
-- Cement ($160.1M / 1.4%)
-
-<ins>Import</ins>
-
-- <b>Imports/capita: $526</b>
-- Refined petroleum ($2.1B / 19.1%)
-- Electrical energy ($312.9M / 2.8%)
-- Dumpers for off-highway use ($222.3M / 2.0%)
-- Trucks ($197.6M / 1.8%)
-- Medicaments ($195.1M / 1.7%)
-
-(Source: [WTO](https://ttd.wto.org/en/profiles/zambia), 2024)
+<sup>(Source: [WTO](https://ttd.wto.org/en/profiles/zambia), 2024)</sup>
 <br>
 <a name="ZM_road"></a>
 
