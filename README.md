@@ -434,15 +434,15 @@ Kenya (only [Kisumu port](#kisumu_port))
 5. [Uganda Freight Forwarders Association](http://www.ugandafreightforwarders.com/) (UFFA) <sub>(© 2023)</sub>
 6. [Uganda Manufacturers Association](https://uma.or.ug/) (UMA) <sub>(© 2025)</sub>
 7. Uganda Importers & Exporters Association (UGIETA)
-8. Uganda National Chamber of Commerce and Industry (UNCCI)
-9. Uganda National Road Agency (UNRA)
+8. [Uganda National Chamber of Commerce and Industry](https://www.chamberuganda.go.ug/) (UNCCI) <sub>(© 2025)</sub>
+9. [Uganda National Road Agency](http://www.unra.go.ug/) (UNRA) *(site currently unavailable)*
 10. Kampala City Traders Association (KACITA)
-11. Private Sector Foundation Uganda (PSFU)
+11. [Private Sector Foundation Uganda](https://www.psfuganda.org/) (PSFU)
 12. [Ministry of Finance, Planning and Economic Development](https://www.finance.go.ug/) (MoFPED) <sub>(© 2024)</sub>
 13. [Ministry of Foreign Affairs](https://mofa.go.ug/) (MoFA) <sub>(© 2024)</sub>
-14. Uganda Bureau of Standards (UBS)
-15. Uganda Police Force
-16. Directorate of Uganda Immigration
+14. [Uganda National Bureau of Standards](https://www.unbs.go.ug/) (UNBS) <sub>(© 2016)</sub>
+15. [Uganda Police Force](https://upf.go.ug/) <sub>(© 2024)</sub>
+16. [Directorate of Citizenship and Immigration Control of Uganda](https://www.immigration.go.ug/) <sub>(© 2020)</sub>
  
 </details><!-- /uganda stakeholders -->
 <details><!-- zambia stakeholders -->
@@ -3928,8 +3928,8 @@ The single railway line connects Wau to Sudan.
 <a name="TZ"></a>
 ## United Republic of Tanzania
 
-| Labor force | participation rate |
-|---|---|
+| Labor force | participation rate                                                                                            |
+| ---    | ---                                                                                                                |
 | Total: | [84%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=TZ&start=2024&type=points&view=bar)   |
 | Male:  | [87%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=TZ&start=2024&type=points&view=bar)|
 | Female:| [80%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=TZ&start=2024&type=points&view=bar)|
@@ -3951,7 +3951,7 @@ The single railway line connects Wau to Sudan.
 | Export | Import |
 | --- | --- |
 | Exports/capita: $134 | Imports/capita: $242 |
-| 1. Gold ($3.4B / 39.3%) <br> 2. Cashew nuts ($564.6M / 6.5%) <br>  3. Tobacco ($509.5M / 5.9%) <br> 4. Coffee ($304.0M / 3.5%) <br> 5. Sesamum seeds ($268.2M / 3.1%) |  1. Refined petroleum ($2.8B / 17.9%) <br> 2. Trucks ($294.5 / 2.5%) <br> 3. Wheat and meslin ($392.2M / 2.5%) <br> 4. Line pipe for gas or oil ($226.3M / 1.4%) <br> 5. Medicaments ($214.8M / 1.4%)|
+| 1. Gold ($3.4B / 39.3%) <br> 2. Cashew nuts ($564.6M / 6.5%) <br>  3. Tobacco ($509.5M / 5.9%) <br> 4. Coffee ($304.0M / 3.5%) <br> 5. Sesamum seeds ($268.2M / 3.1%) | 1. Refined petroleum ($2.8B / 17.9%) <br> 2. Trucks ($294.5 / 2.5%) <br> 3. Wheat and meslin ($392.2M / 2.5%) <br> 4. Line pipe for gas or oil ($226.3M / 1.4%) <br> 5. Medicaments ($214.8M / 1.4%) |
 
 <sup>(Source: [WTO](https://ttd.wto.org/en/profiles/tanzania), 2022)</sup>
 <br>
@@ -4207,11 +4207,11 @@ In addition to the large sea ports Tanzania also has several smaller ones, river
 
 
 ### Rail network
-| Network profile | |
-| ---             | --- |
-| System Size:    | 568 km |
+| Network profile |          |
+| ---             | ---      |
+| System Size:    | 568 km   |
 | Track gauge:    | 1,000 mm |
-| Operators:      | none |
+| Operators:      | none     |
 <!-- | System Map:     | []() | -->
 
 
@@ -4250,8 +4250,8 @@ In addition to the large sea ports Tanzania also has several smaller ones, river
 <a name="UG"></a>
 ## Uganda 
 
-| Labor force | participation rate |
-|---|---|
+| Labor force | participation rate                                                                                            |
+| ---    | ---                                                                                                                |
 | Total: | [81%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=UG&start=2024&type=points&view=bar)   |
 | Male:  | [85%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=UG&start=2024&type=points&view=bar)|
 | Female:| [76%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=UG&start=2024&type=points&view=bar)|
@@ -4271,7 +4271,7 @@ In addition to the large sea ports Tanzania also has several smaller ones, river
 
 ### Trade volumes
 | Export | Import |
-|---|---|
+| ---    | ---    |
 | Exports/capita: $86 | Imports/capita: $198 |
 | 1. Gold ($1.0B / 26.0%)v 2. Coffee ($718.0M / 18.1%)<br> 3. Cocoa ($105.8M / 2.7%)<br> 4. Refined petroleum ($99.4M / 2.5%)<br> 5. Sugar ($85.8M / 2.2%) | 1. Refined petroleum ($1.2B / 13.6%)<br> 2. Gold ($1.1B / 12.0%)<br> 3. Medicaments ($266.2M / 2.9%)<br> 4. Crude palm oil ($259.8M / 2.9%)<br> 5. Milled rice ($218.4 / 2.4%) |
 
@@ -4318,6 +4318,23 @@ In addition to the large sea ports Tanzania also has several smaller ones, river
 
 ### Further information
 
+- [Ministry of Works and Transport](https://www.works.go.ug/) (MoWT) <sub>(© 2024)</sub>
+- [Ministry of Trade, Industry and Cooperative](https://www.mtic.go.ug/) (MTIC) <sub>(© 2025)</sub>
+  - [Uganda Trade Portal](https://ugandatrades.go.ug/)
+- [Ministry of Finance, Planning and Economic Development](https://www.finance.go.ug/) (MoFPED) <sub>(© 2024)</sub>
+- [Ministry of Foreign Affairs](https://mofa.go.ug/) (MoFA) <sub>(© 2024)</sub>
+- [Directorate of Citizenship and Immigration Control of Uganda](https://www.immigration.go.ug/) <sub>(© 2020)</sub>
+- [Uganda Revenue Authority](https://ura.go.ug/en/) (URA) <sub>(© 2025)</sub>
+- [Uganda National Bureau of Standards](https://www.unbs.go.ug/) (UNBS) <sub>(© 2016)</sub>
+- [Uganda Police Force](https://upf.go.ug/) <sub>(© 2024)</sub>
+- [Uganda National Chamber of Commerce and Industry](https://www.chamberuganda.go.ug/) (UNCCI) <sub>(© 2025)</sub>
+- [Uganda Railways Corporation](https://urc.go.ug/) (URC) <sub>(© 2025)</sub>
+- [Uganda Freight Forwarders Association](http://www.ugandafreightforwarders.com/) (UFFA) <sub>(© 2023)</sub>
+- [Uganda Manufacturers Association](https://uma.or.ug/) (UMA) <sub>(© 2025)</sub>
+- [Private Sector Foundation Uganda](https://www.psfuganda.org/) (PSFU)
+
+
+ 
 <br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
