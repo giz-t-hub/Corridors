@@ -427,19 +427,19 @@ Kenya (only [Kisumu port](#kisumu_port))
 <details><!-- uganda stakeholders -->
 <summary>Uganda</summary>	
 
-1. Ministry of Works & Transport
-2. Ministry of Trade, Industry & Tourism
-3. Uganda Railways Corporation (URC)
-4. Uganda Revenue Authority (URA)
-5. Uganda Freight Forwarders Association (UFFA)
-6. Uganda Manufacturers Association (UMA)
+1. [Ministry of Works and Transport](https://www.works.go.ug/) (MoWT) <sub>(© 2024)</sub>
+2. [Ministry of Trade, Industry and Cooperative](https://www.mtic.go.ug/) (MTIC) <sub>(© 2025)</sub>
+3. [Uganda Railways Corporation](https://urc.go.ug/) (URC) <sub>(© 2025)</sub>
+4. [Uganda Revenue Authority](https://ura.go.ug/en/) (URA) <sub>(© 2025)</sub>
+5. [Uganda Freight Forwarders Association](http://www.ugandafreightforwarders.com/) (UFFA) <sub>(© 2023)</sub>
+6. [Uganda Manufacturers Association](https://uma.or.ug/) (UMA) <sub>(© 2025)</sub>
 7. Uganda Importers & Exporters Association (UGIETA)
 8. Uganda National Chamber of Commerce and Industry (UNCCI)
 9. Uganda National Road Agency (UNRA)
 10. Kampala City Traders Association (KACITA)
 11. Private Sector Foundation Uganda (PSFU)
-12. Ministry of Finance
-13. Ministry of Foreign Affairs
+12. [Ministry of Finance, Planning and Economic Development](https://www.finance.go.ug/) (MoFPED) <sub>(© 2024)</sub>
+13. [Ministry of Foreign Affairs](https://mofa.go.ug/) (MoFA) <sub>(© 2024)</sub>
 14. Uganda Bureau of Standards (UBS)
 15. Uganda Police Force
 16. Directorate of Uganda Immigration
