@@ -2080,13 +2080,13 @@ DR Congo is the world's leading exporter of cobalt, tin ores, copper alloys, and
 
 
 ### Rail network
-| Network profile | |
-| ---             | --- |
-| System Size:    | 3,641 km |
-| Track gauge:    | 1,067 mm |
-| Operator:       | state owned "[Société nationale des Chemins de fer du Congo](https://www.snccsa.com/)"(SNCC) |
-| System Map:     | [SNCC](https://www.snccsa.com/qui-sommes-nous/) |
+| Network profile | | |
+| ---             | --- | --- |
+| System size and<br> track gauge:   | 4,007 km (1,067 mm)<br><br>1,026 km (600 mm) | SNCC: 3,641 km<br> SCTP: 366 km<br> CFU |
+| Operators:       | state owned [Société nationale des Chemins de fer du Congo](https://www.snccsa.com/) (SNCC)<br> state owned [Société Commerciale des Transports et des Ports](https://sctp-sa-rdc.online/) (SCTP)<br> [Chemins de fer des Uele](https://benziger.lima-city.de/cfu/) (CFU) (last update **2012**)| |
+| System map:     | [SNCC](https://www.snccsa.com/qui-sommes-nous/) This map shows all railway lines: Matadi - Kinshasa | This map shows all railway lines:<br> to the west: Matadi - Kinshasa ([SCTP](https://sctp-sa-rdc.online/))<br> to the north: Bumba - Bondo - Mungbere ([CFU](https://benziger.lima-city.de/cfu/))<br> to the south-east: the [SNCC](https://www.snccsa.com/) lines|
 
+The networks of the three operators are not interconnected.
 
 <br>
 <a name="CD_water"></a>
@@ -2094,7 +2094,7 @@ DR Congo is the world's leading exporter of cobalt, tin ores, copper alloys, and
 
 ### Water-bourne transport
 The DR Congo has a total of 16,238 km of navigable waterways and counts around forty river and lake ports: 
-[Port network](https://lca.logcluster.org/sites/default/files/2023-07/COD_LCA_Port_A4P_20230713.png)<br>
+[Port network](https://lca.logcluster.org/sites/default/files/2023-07/COD_LCA_Port_A4P_20230713.png). About 12,600 km of the Waterways is operated by the [Société Commerciale des Transports et des Ports](https://sctp-sa-rdc.online/) (SCTP) <br>
 Port of Matadi: [Matadi Gateway Terminal](https://www.mgt.cd/en) (MGT)
 
 - largest port in DRC (Congo River)
@@ -2105,10 +2105,10 @@ Port of Matadi: [Matadi Gateway Terminal](https://www.mgt.cd/en) (MGT)
 
 Port of Boma
 
-- second largest port in DRC (Congo River)
+- shipyard and second largest port in DRC (Congo River seaport)
 - Capacity:
   - 1,200 TEU
-- operated by Société Commerciale des Transports et des Ports (SCTP)
+- operated by [SCTP](https://sctp-sa-rdc.online/)
 
 <br>
 <a name="CD_fleet"></a>
