@@ -2066,6 +2066,7 @@ Water-bourne
 | Total: | [65%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=CD&start=2024&view=bar)   |
 | Male:  | [69%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=CD&start=2024&view=bar)|
 | Female:| [62%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=CD&start=2024&view=bar)|
+
 <sup>(Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)</sup>
 <br>
 <a name="CD_corridors"></a>
@@ -2107,7 +2108,7 @@ DR Congo is the world's leading exporter of cobalt, tin ores, copper alloys, and
 | ---             | --- | --- |
 | System size and<br> track gauge:   | 4,007 km (1,067 mm)<br><br>1,026 km (600 mm) | SNCC: 3,641 km<br> SCTP: 366 km<br> CFU |
 | Operators:       | state owned [Société nationale des Chemins de fer du Congo](https://www.snccsa.com/) (SNCC)<br> state owned [Société Commerciale des Transports et des Ports](https://sctp-sa-rdc.online/) (SCTP)<br> [Chemins de fer des Uele](https://benziger.lima-city.de/cfu/) (CFU) (last update **2012**)| |
-| System map:     | [SNCC](https://www.snccsa.com/qui-sommes-nous/) This map shows all railway lines: Matadi - Kinshasa | This map shows all railway lines:<br> to the west: Matadi - Kinshasa ([SCTP](https://sctp-sa-rdc.online/))<br> to the north: Bumba - Bondo - Mungbere ([CFU](https://benziger.lima-city.de/cfu/))<br> to the south-east: the [SNCC](https://www.snccsa.com/) lines|
+| System map:     | [SNCC](https://www.snccsa.com/qui-sommes-nous/) | This map shows all railway lines:<br>- to the west: Matadi - Kinshasa ([SCTP](https://sctp-sa-rdc.online/))<br>- to the north: Bumba - Bondo - Mungbere ([CFU](https://benziger.lima-city.de/cfu/))<br>- to the south-east: the [SNCC](https://www.snccsa.com/) lines|
 
 The networks of the three operators are not interconnected.
 
@@ -2185,7 +2186,7 @@ Port of Boma
 
 - Population: 138,527 (2012)
 
-</details><!-- /gemena - ->
+</details><!-- /gemena -->
 <a name="goma"></a>
 <details><!-- goma -->
 <summary>Goma</summary>
@@ -3982,23 +3983,35 @@ Road infrastrukture stakeholders:
 
 
 ### Rail network
-| Network profile | |
-| ---             | --- |
-| System Size:    | 3,676 km |
-| Track gauge:    | 1,000 mm (~2,600 km)<br> 1,067 mm (~1,000 km) |
-| Operators:      | state-owned [Tanzania Railways Corporation](https://www.trc.co.tz/) (TRC)<br> state-owned [Tanzania-Zambia Railway Authority](https://tazarasite.com/) (TAZARA) |
-| System Map:     | [TRC](https://www.trc.co.tz/site/files/trl-routes.pdf) (PDF) |
+| Network profile | | |
+| ---             | --- |---|
+| System Size and<br> track gauge: | total: 3,676 km<br>&ensp;2,706 km (1.000 mm)<br>~1,000 km (1,067 mm) | <br>TRC<br>TAZARA |
+| Operators:      | state-owned [Tanzania Railways Corporation](https://www.trc.co.tz/) (TRC)<br> state-owned [Tanzania-Zambia Railway Authority](https://tazarasite.com/) (TAZARA) ||
+| System Map:     | [TRC](https://www.trc.co.tz/site/files/trl-routes.pdf) (PDF) ||
 
-***Dry port***
+Rail ferries connect Tanzania to Uganda via Lake Victoria.<br>
+TAZARA allow two private companies to operate freight services under licence on the southern rail line to Zambia:
+
+- [Inland logistics Africa](https://www.inlandlogisticsafrica.com/) (ILA)
+- [Calabash Freight limited](http://calabashfreight.com/)
+
+***Dry ports***
+
 - [Isaka Dry Port](https://www.trc.co.tz/pages/dry-ports)
   - owned and operated by [TRC](https://www.trc.co.tz/)
-
+- Kwala inland container depot
+  - capacity: 3,500 TEUS
+  - owned and operated by [TPA](https://www.ports.go.tz/index.php/en/)
+- Ubungo inland container depot
+  - capacity: 2,500 TEUS
+  - owned by [TPA](https://www.ports.go.tz/index.php/en/), leased to [MS BRAVO GROUP](https://bravogroup.co.tz/)
 <br>
 <a name="TZ_water"></a>
 
 
 ### Water-bourne transport
-[Tanzania port network](https://lca.logcluster.org/sites/default/files/confluence/TZA_LCA_PortNetwork_A4P_20200909.png%3Fversion%3D1%26modificationDate%3D1615275809000%26api%3Dv2)<br>
+
+[Tanzania waterway network](https://lca.logcluster.org/sites/default/files/confluence/TZA_LCA_Waterways_A4P_20200909.png%3Fversion%3D1%26modificationDate%3D1613992307000%26api%3Dv2) | [Tanzania port network](https://lca.logcluster.org/sites/default/files/confluence/TZA_LCA_PortNetwork_A4P_20200909.png%3Fversion%3D1%26modificationDate%3D1615275809000%26api%3Dv2)<br>
 All of Tanzania's ports are managed by the [Tanzania Ports Authority](https://www.ports.go.tz/index.php/en/) (TPA) <sub>(© 2025)</sub>. Tanzania's three main sea port are Dar es Salaam, Tanga and Mtwara ports, of which only the first two are related to the [two corridors](#TZ_corridors).<br>
 <a name="dar_es_salaam_port"></a>
 <details><!-- dar_es_salaam_port -->
