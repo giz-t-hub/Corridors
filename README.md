@@ -4276,11 +4276,29 @@ In addition to the large sea ports Tanzania also has several smaller ones, river
 | 1. Gold ($1.0B / 26.0%)v 2. Coffee ($718.0M / 18.1%)<br> 3. Cocoa ($105.8M / 2.7%)<br> 4. Refined petroleum ($99.4M / 2.5%)<br> 5. Sugar ($85.8M / 2.2%) | 1. Refined petroleum ($1.2B / 13.6%)<br> 2. Gold ($1.1B / 12.0%)<br> 3. Medicaments ($266.2M / 2.9%)<br> 4. Crude palm oil ($259.8M / 2.9%)<br> 5. Milled rice ($218.4 / 2.4%) |
 
 <sup>(Source: [WTO](https://ttd.wto.org/en/profiles/uganda), 2021)</sup>
+
 <br>
 <a name="UG_road"></a>
 
 
 ### Road network
+95% of Uganda's passenger and freight traffic is carried by road.<br>
+The roadnetwork is comprised of about 144,785 km ([2022](https://wtss.go.ug/reports?id=761)), of which
+  - 20,544 km are national roads,
+  - 10,108 km urban roads,
+  - 35,566 km District roads and
+  - 78,567 km community access roads.
+ 
+Most of the trucks are moving between Uganda’s import/export centres around Kampala and Mukono (central region; corridor 07).<br>
+The second largest route is Tororo <sub>(on the boarder to Kenya)</sub> - Lira - Gulu <sub>(to the north)</sub> (where most of the exports reach countries such as South Sudan and Northern DRC; corridors 07+11).<br>
+By far the Northern corridor from Mombasa - Nairobi - Tororo - Kampala (part of corridor 07) is the busiest and most congested freight corridor in the country (with bottlenecks to be expected).
+
+| Vehicle<br> dimension | Gross<br> Vehicle Mass | payload   |
+| ---:              | :---:              | :---:     |
+| 2 - 4 axles       |                    | 18 t      |
+| 5 axles           | 42 t               | 25 - 27 t |
+| 6 axles           | 48 t               | 30 - 32 t |
+| 7 axles           | 56 t               |           |
 
 <br>
 <a name="UG_railway"></a>
@@ -4289,10 +4307,18 @@ In addition to the large sea ports Tanzania also has several smaller ones, river
 ### Rail network
 | Network profile | |
 | ---             | --- |
-| System Size:    |  km |
-| Track gauge:    |  mm |
-| Operators:      |  |
-| System Map:     | []() |
+| System Size:    | 1266 km |
+| Track gauge:    | 1,000 mm |
+| Operators:      | state owned [Uganda Railways Corporation](https://urc.go.ug/) (URC) <sub>(© 2025)</sub> |
+<!-- | System Map:     | []() | -->
+
+> Of the 1266 km of the existing Meter Gauge Railway (MGR) in country, only 21% of the network is operational:
+> - Malaba-Tororo-Kampala line (251 km) which links Uganda to Port Mombasa via the Northern Corridor Route.
+> - The Tororo – Mbale line (55 km), which links to the Northern Corridor and Port Mombasa to the industrial area of Mbale.
+> - The recently rehabilitated Kampala-Port bell line (9 km) which mainly links Uganda to Dar es Salaam via Lake Victoria and the Central Corridor (the link to Port Mombasa and the Northern Corridor via Kisumu Port on Lake Victoria is no longer operational).
+> - The Kampala-Nalukolongo line (5 km), a connection to the main Nalukolongo Workshop and Good shed Kampala is also operational.
+> [Logistics Cluster](https://lca.logcluster.org/uganda-24-railway-assessment)
+
 
 
 <br>
@@ -4306,6 +4332,7 @@ In addition to the large sea ports Tanzania also has several smaller ones, river
 
 
 ### Fleet characteristics
+> The Ugandan trucking fleet is fragmented and predominantly contains of small holder companies with an aging truck fleet, and most trucks are pre-used and between 10 and 20 years old. [Logistics Cluster](https://lca.logcluster.org/uganda-23-road-network)
 
 <br>
 <a name="UG_cities"></a>
@@ -4319,6 +4346,7 @@ In addition to the large sea ports Tanzania also has several smaller ones, river
 ### Further information
 
 - [Ministry of Works and Transport](https://www.works.go.ug/) (MoWT) <sub>(© 2024)</sub>
+  - [Works and Transport Statistical System](https://wtss.go.ug/) (WTSS) Portal <sub>(© 2023)</sub> \[registration required]
 - [Ministry of Trade, Industry and Cooperative](https://www.mtic.go.ug/) (MTIC) <sub>(© 2025)</sub>
   - [Uganda Trade Portal](https://ugandatrades.go.ug/)
 - [Ministry of Finance, Planning and Economic Development](https://www.finance.go.ug/) (MoFPED) <sub>(© 2024)</sub>
@@ -4328,7 +4356,6 @@ In addition to the large sea ports Tanzania also has several smaller ones, river
 - [Uganda National Bureau of Standards](https://www.unbs.go.ug/) (UNBS) <sub>(© 2016)</sub>
 - [Uganda Police Force](https://upf.go.ug/) <sub>(© 2024)</sub>
 - [Uganda National Chamber of Commerce and Industry](https://www.chamberuganda.go.ug/) (UNCCI) <sub>(© 2025)</sub>
-- [Uganda Railways Corporation](https://urc.go.ug/) (URC) <sub>(© 2025)</sub>
 - [Uganda Freight Forwarders Association](http://www.ugandafreightforwarders.com/) (UFFA) <sub>(© 2023)</sub>
 - [Uganda Manufacturers Association](https://uma.or.ug/) (UMA) <sub>(© 2025)</sub>
 - [Private Sector Foundation Uganda](https://www.psfuganda.org/) (PSFU)
