@@ -4300,6 +4300,8 @@ By far the Northern corridor from Mombasa - Nairobi - Tororo - Kampala (part of 
 | 6 axles           | 48 t               | 30 - 32 t |
 | 7 axles           | 56 t               |           |
 
+Inland ports are located at Jinja, Port Bell and Bukasa.
+
 <br>
 <a name="UG_railway"></a>
 
@@ -4317,7 +4319,8 @@ By far the Northern corridor from Mombasa - Nairobi - Tororo - Kampala (part of 
 > - The Tororo – Mbale line (55 km), which links to the Northern Corridor and Port Mombasa to the industrial area of Mbale.
 > - The recently rehabilitated Kampala-Port bell line (9 km) which mainly links Uganda to Dar es Salaam via Lake Victoria and the Central Corridor (the link to Port Mombasa and the Northern Corridor via Kisumu Port on Lake Victoria is no longer operational).
 > - The Kampala-Nalukolongo line (5 km), a connection to the main Nalukolongo Workshop and Good shed Kampala is also operational.
-> [Logistics Cluster](https://lca.logcluster.org/uganda-24-railway-assessment)
+> 
+> Another 1706km of Standard Gauge Railway (SGR - 56 inches/1435 mm wide between the rails) is being planned in Uganda to run parallel to the existing MGR but extending further to the borders of Nimule, Vurra, and Mpondwe. [Logistics Cluster](https://lca.logcluster.org/uganda-24-railway-assessment)
 
 
 
@@ -4326,6 +4329,7 @@ By far the Northern corridor from Mombasa - Nairobi - Tororo - Kampala (part of 
 
 
 ### Water-bourne transport
+As a landlocked country Uganda onl has two ports on Lake Victoria. Of these two only Port Bell (Kampala) has funtioning infrastructure, but a new port is under construction.
 
 <br>
 <a name="UG_fleet"></a>
