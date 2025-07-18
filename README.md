@@ -225,7 +225,7 @@ This is the [EAC's Central Corridor](https://www.eac.int/infrastructure/road-tra
 <summary>Related countries and important cities along the corridor</summary>
 <br>	
 <details><!-- II -->
-<summary>Burndi</summary>
+<summary>Burundi</summary>
 
 [Country page](#BI)
 - [Bujumbura](#bujumbura) (economic capital)
@@ -290,7 +290,10 @@ This is the [EAC's Central Corridor](https://www.eac.int/infrastructure/road-tra
 <summary>Uganda</summary>
 
 [Country page](#UG)
-- [](#)
+- [Kampala](#kampala) (Capital)
+- [Kyengera](#kyengera)
+- [Makindye-Ssabagabo](#makindye-ssabagabo)
+- [Masaka](#masaka)
 
 </details><!-- /VII -->
 <details><!-- VIII -->
@@ -448,23 +451,24 @@ Kenya (only [Kisumu port](#kisumu_port))
 <details><!-- zambia stakeholders -->
 <summary>Zambia</summary>
 
-1. Ministry of Transport and Logistics – Zambia
-2. Zambia Railways Limited (ZRL)
-3. [Tanzania-Zambia Railway Authority](https://tazarasite.com/) (TAZARA) (© 2025)
+1. [Ministry of Transport and Logistics](https://www.motl.gov.zm/) <sub>(© 2021)</sub>
+2. [Zambia Railways Limited](https://zrl.com.zm/) (ZRL) <sub>(© 2021)</sub>
+3. [Tanzania-Zambia Railway Authority](https://tazarasite.com/) (TAZARA) <sub>(© 2025)</sub>
     - state-owned by Tanzania and Zambia
-4. Zambia Revenue Authority (ZRA)
-5. Road Transport Safety Agency (RTSA)
-6. Zambia Bureau of Standards (ZABS)
-7. Zambia Compulsory Standards Agency (ZCSA)
-8. Department of Immigration
-9. Zambia Development Agency (ZDA)
-10. Road Development Agency (RDA)
-11. Ministry of Commerce, Trade and Industry
-12. Ministry of Infrastructure
+4. [Zambia Revenue Authority](https://www.zra.org.zm/) (ZRA) <sub>(© 2025)</sub>
+5. [Road Transport Safety Agency](https://www.rtsa.org.zm/) (RTSA) <sub>(© unknown)</sub>
+6. [Zambia Bureau of Standards](https://www.zabs.org.zm/) (ZABS) <sub>(© 2025)</sub>
+7. [Zambia Compulsory Standards Agency](https://www.zcsa.org.zm/) (ZCSA) <sub>(© 2021)</sub>
+8. [Department of Immigration](https://www.zambiaimmigration.gov.zm/) <sub>(© 2019)</sub>
+9. [Zambia Development Agency](https://www.zda.org.zm/) (ZDA) <sub>(© 2024)</sub>
+10. [Road Development Agency](https://www.rda.org.zm/) (RDA) <sub>(© 2023)</sub>
+11. [Ministry of Commerce, Trade and Industry](https://www.mcti.gov.zm/) <sub>(© 2023)</sub>
+12. [Ministry of Infrastructure, Housing, and Urban Development](https://www.mihud.gov.zm/) <sub>(© 2025)</sub>
 13. Oil Transporters Association of Zambia
 14. SADC Truck Drivers Association of Zambia
-15. Petroleum Transporters Association of Zambia
-16. Copperbelt Open Truckers Association
+15. [Zambia Trucker’s Association](https://www.tazambia.com/) (TAZ) <sub>(© unknown)</sub>
+16. Petroleum Transporters Association of Zambia
+17. Copperbelt Open Truckers Association
 
 
 </details><!-- /zambia stakeholders -->
@@ -1189,10 +1193,32 @@ Kenya (only [Kisumu port](#kisumu_port))
 	- [Water-bourne transport](#UG_water)
 	- [Fleet characteristics](#UG_fleet)
 		<details>
-  		<summary>Important cities along the corridor(s)</summary>
+  		<summary>Important cities along the [corridors]</summary>
 
-	  	- [](#)
-
+	  	- [Arua](#arua) \[11\]
+   		- [Fort Portal](#fort_portal) \[06|08\]
+   		- [Gulu](#gulu) \[11\]
+   		- [Hoima](#hoima) \[06|08\]
+   		- [Jinja](#jinja) \[08\]
+   		- [Kajjansi](#kajjansi) \[06|08\]
+   		- [Kampala](#kampala) (Capital) \[06|08|11|Central\]
+   		- [Kasangati](#kasangati) \[06|08|11\]
+   		- [Kasese](#kasese) \[06|08\]
+   		- [Katabi](#katabi) \[06|08|11\]
+   		- [Kira Town](#kira) \[06|08|11\]
+   		- [Kyengera](#kyengera) \[06|08|11|Central\]
+   		- [Lira](#lira) \[08\]
+   		- [Lugazi](#lugazi) \[08\]
+   		- [Makindye-Ssabagabo](#makindye-ssabagabo) \[06|08|11|Central\]
+   		- [Masaka](#masaka) \[06|08|Central\]
+   		- [Mbale](#mbale) \[08\]
+   		- [Mbarara](#mbarara) \[06|08\]
+   		- [Mityana](#mityana) \[06|08|11\]
+   		- [Mubende](#mubende) \[06|08|11\]
+   		- [Mukono](#mukono) \[06|08|11\]
+   		- [Nansana](#nansana) \[06|08|11\]
+   		- [Njeru](#njeru) \[06|08\]
+   		- [Soroti](#soroti) \[08\]
 	  	</details>
 
   </details>
@@ -2165,7 +2191,7 @@ Port of Boma
 
 - Population: 900,351 (2025)
 
-</details><!-- bunia -->
+</details> <!-- bunia -->
 <a name="butembo"></a>
 <details><!-- butembo -->
 <summary>Butembo</summary>
@@ -2193,7 +2219,7 @@ Port of Boma
 
 - Population: 819,854 (2025)
 
-</details><!-- goma -->
+</details> <!-- goma -->
 <a name="kinshasa"></a>
 <details><!-- kinshasa -->
 <summary>Kinshasa</summary>
@@ -2201,7 +2227,7 @@ Port of Boma
 - Population: 17,778,500 (2012)
 - Capital of the Democratic Republic of the Congo
 
-</details><!-- kinshasa -->
+</details> <!-- kinshasa -->
 <a name="kisangani"></a>
 <details><!-- kisangani -->
 <summary>Kisangani</summary>
@@ -2215,7 +2241,7 @@ Port of Boma
 
 - Population: 555,059 (2025)
 
-</details><!-- kolwezi -->
+</details> <!-- kolwezi -->
 <a name="likasi"></a>
 <details><!-- likasi -->
 <summary>Likasi</summary>
@@ -2229,14 +2255,14 @@ Port of Boma
 
 - Population: 3,061,340 (2025)
 
-</details><!-- lubumbashi -->
+</details> <!-- lubumbashi -->
 <a name="uvira"></a>
 <details><!-- uvira -->
 <summary>Uvira</summary>
 
 - Population: 760,857 (2025)
 
-</details><!-- uvira -->
+</details> <!-- uvira -->
 <br>
 
 
@@ -4283,7 +4309,7 @@ In addition to the large sea ports Tanzania also has several smaller ones, river
 
 ### Road network
 95% of Uganda's passenger and freight traffic is carried by road.<br>
-The roadnetwork is comprised of about 144,785 km ([2022](https://wtss.go.ug/reports?id=761)), of which
+The roadnetwork is comprised of about 144,785 km ([2022](https://wtss.go.ug/reports?id=761)) roads, of which
   - 20,544 km are national roads,
   - 10,108 km urban roads,
   - 35,566 km District roads and
@@ -4519,6 +4545,7 @@ As a landlocked country Uganda onl has two ports on Lake Victoria. Of these two 
 
 ### Further information
 
+- [LCA](https://lca.logcluster.org/uganda)
 - [Ministry of Works and Transport](https://www.works.go.ug/) (MoWT) <sub>(© 2024)</sub>
   - [Works and Transport Statistical System](https://wtss.go.ug/) (WTSS) Portal <sub>(© 2023)</sub> \[registration required]
 - [Ministry of Trade, Industry and Cooperative](https://www.mtic.go.ug/) (MTIC) <sub>(© 2025)</sub>
@@ -4550,7 +4577,7 @@ As a landlocked country Uganda onl has two ports on Lake Victoria. Of these two 
 
 <sup>(Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)</sup>
 <br>
-<a name="ZM_corridrs"></a>
+<a name="ZM_corridors"></a>
 
 
 ### Related Corridors 
@@ -4572,6 +4599,25 @@ As a landlocked country Uganda onl has two ports on Lake Victoria. Of these two 
 
 
 ### Road network
+The Zambian road network 
+([map](https://lca.logcluster.org/sites/default/files/confluence/ZMB_LCA_RoadNetwork_A4L_20210517.png%3Fversion%3D1%26modificationDate%3D1621595033000%26api%3Dv2)) spans about 67,671 km, of which
+
+- 40,454 km is considered as core road network.
+  - About 15% (6,068 km) of the core network is paved.
+
+Zambia maintains several paved trading corridors in good condition:
+
+- T1 runs from Livingston on the border to Zimbabwe in the south, north until it merges into T2 close to Lusaka (completely part of corridor [10](#ZM_corridors)). It is the main route for tourists from Botswana, Namibia and Zimbabwe travelling to Lusaka.
+- T2 runs from Chirundu on the border to Zimbabwe in the south-east, via Lusaka and Kapiri Mposhi, to Tunduma on the border to Tanzania in the north-east.
+- T3 connects Kasumbalesa (DRC) to Kapiri Mposhi and the T2 (completely part of corridor [12](#ZM_corridors)).
+- T4 connects Lusaka to Chipata close to the Malwi border in the east.
+- T5 runs from Angola in the north, via Mwinilung, more or less parallel to the DRC border until it merges in to T3 ner Chingola (completely part of corridor [12](#ZM_corridors)).
+
+Official Zambian stakeholders related to road infrastructure:
+
+- [Road Development Agency](https://www.rda.org.zm/) (RDA) <sub>(© 2023)</sub>
+- [Road Transport Safety Agency](https://www.rtsa.org.zm/) (RTSA) <sub>(© unknown)</sub>
+- [National Road Fund Agency](https://nrfa.org.zm/) (NRFA) <sub>(© 2025)</sub>
 
 <br>
 <a name="ZM_railway"></a>
@@ -4583,10 +4629,13 @@ As a landlocked country Uganda onl has two ports on Lake Victoria. Of these two 
 | System Size:    | 1,250 km |
 | Track gauge:    |  mm |
 | Operators:      |  |
-| System Map:     | []() |
+| System Map:     | [LCA](https://lca.logcluster.org/sites/default/files/confluence/ZMB_LCA_Railways_A4L_20210517.png%3Fversion%3D1%26modificationDate%3D1621916089000%26api%3Dv2) |
 
 Currently only [265 km are servicable](https://www.eac.int/infrastructure/railways-transport-sub-sector/92-sector/infrastructure/railways).
 
+- [Zambia Railways Limited](https://zrl.com.zm/) (ZRL) <sub>(© 2021)</sub>
+- [Tanzania-Zambia Railway Authority](https://tazarasite.com/) (TAZARA) <sub>(© 2025)</sub>
+  - state-owned by Tanzania and Zambia
 
 <br>
 <a name="ZM_water"></a>
@@ -4610,6 +4659,18 @@ Currently only [265 km are servicable](https://www.eac.int/infrastructure/railwa
 
 
 ### Further information
+
+- [LCA](https://lca.logcluster.org/zambia)
+- [Ministry of Transport and Logistics](https://www.motl.gov.zm/) <sub>(© 2021)</sub>
+- [Ministry of Commerce, Trade and Industry](https://www.mcti.gov.zm/) <sub>(© 2023)</sub>
+- [Ministry of Infrastructure, Housing, and Urban Development](https://www.mihud.gov.zm/) <sub>(© 2025)</sub>
+- [Department of Immigration](https://www.zambiaimmigration.gov.zm/) <sub>(© 2019)</sub>
+- [Zambia Revenue Authority](https://www.zra.org.zm/) (ZRA) <sub>(© 2025)</sub>
+- [Zambia Bureau of Standards](https://www.zabs.org.zm/) (ZABS) <sub>(© 2025)</sub>
+- [Zambia Compulsory Standards Agency](https://www.zcsa.org.zm/) (ZCSA) <sub>(© 2021)</sub>
+- [Zambia Development Agency](https://www.zda.org.zm/) (ZDA) <sub>(© 2024)</sub>
+- [Zambia Trucker’s Association](https://www.tazambia.com/) (TAZ) <sub>(© unknown)</sub>
+
 
 <br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
