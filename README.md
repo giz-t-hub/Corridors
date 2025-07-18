@@ -4342,7 +4342,177 @@ As a landlocked country Uganda onl has two ports on Lake Victoria. Of these two 
 <a name="UG_cities"></a>
 
 
-### Important cities along the corridors
+### Important cities along the \[corridors]
+<a name="arua"></a>
+<details><!-- arua -->
+<summary>Arua [11]</summary>
+
+- population: 384,052 (2024)
+
+</details><!-- /arua -->
+<a name="fort_portal"></a>
+<details><!-- fort_portal -->
+<summary>Fort Portal [06|08]</summary>
+
+- population: 137,549 (2024)
+
+</details><!-- /fort_portal -->
+<a name="gulu"></a>
+<details><!-- gulu -->
+<summary>Gulu [11]</summary>
+
+- population: 233,271 (2024)
+
+</details><!-- /gulu -->
+<a name="hoima"></a>
+<details><!-- hoima -->
+<summary>Hoima [06|08]</summary>
+
+- population: 143,304 (2024)
+
+</details><!-- /hoima -->
+<a name="jinja"></a>
+<details><!-- jinja -->
+<summary>Jinja [08]</summary>
+
+- population: 279,184 (2024)
+
+</details><!-- /jinja -->
+<a name="kajjansi"></a>
+<details><!-- kajjansi -->
+<summary>Kajjansi [06|08]</summary>
+
+- population: 155,058 (2024)
+
+</details><!-- /kajjansi -->
+<a name="kampala"></a>
+<details><!-- kampala -->
+<summary>Kampala [06|08|11|Central]</summary>
+
+- capital
+- population: 1,797,722 (2024)
+  - metro area: 6,709,900 (2019)
+
+</details><!-- /kampala -->
+<a name="kasangati"></a>
+<details><!-- kasangati -->
+<summary>Kasangati [06|08|11]</summary>
+
+- population: 155,058 (2024)
+
+</details><!-- /kasangati -->
+<a name="kasese"></a>
+<details><!-- kasese -->
+<summary>Kasese [06|08]</summary>
+
+- population: 133,629 (2024)
+
+</details><!-- /kasese -->
+<a name="katabi"></a>
+<details><!-- katabi -->
+<summary>Katabi [06|08|11]</summary>
+
+- population: 169,602 (2024)
+
+</details><!-- /katabi -->
+<a name="kira"></a>
+<details><!-- kira town -->
+<summary>Kira Town [06|08|11]</summary>
+
+- population: 459,827 (2024)
+
+</details><!-- /kira town -->
+<a name="kyengera"></a>
+<details><!-- kyengera -->
+<summary>Kyengera [06|08|11|Central]</summary>
+
+- population: 311,112 (2024)
+
+</details><!-- /kyengera -->
+<a name="lira"></a>
+<details><!-- lira -->
+<summary>Lira [08]</summary>
+
+- population: 129,795  (2024)
+
+</details><!-- /lira -->
+<a name="lugazi"></a>
+<details><!-- lugazi -->
+<summary>Lugazi [08]</summary>
+
+- population: 245,132 (2024)
+
+</details><!-- /lugazi -->
+<a name="makindye-ssabagabo"></a>
+<details><!-- makindye-ssabagabo -->
+<summary>Makindye-Ssabagabo [06|08|11|Central]</summary>
+
+- population: 439,605 (2024)
+
+</details><!-- /makindye-ssabagabo -->
+<a name="masaka"></a>
+<details><!-- masaka -->
+<summary>Masaka [06|08|Central]</summary>
+
+- population: 294,166 (2024)
+
+</details><!-- /masaka -->
+<a name="mbale"></a>
+<details><!-- mbale -->
+<summary>Mbale [08]</summary>
+
+- population: 290,414 (2024)
+
+</details><!-- /mbale -->
+<a name="mbarara"></a>
+<details><!-- mbarara -->
+<summary>Mbarara [06|08]</summary>
+
+- population: 264,425 (2024)
+
+</details><!-- /mbarara -->
+<a name="mityana"></a>
+<details><!-- mityana -->
+<summary>Mityana [06|08|11]</summary>
+
+- population: 126,109 (2024)
+
+</details><!-- /mityana -->
+<a name="mubende"></a>
+<details><!-- mubende -->
+<summary>Mubende [06|08|11]</summary>
+
+- population: 113,298 (2024)
+
+</details><!-- /mubende -->
+<a name="mukono"></a>
+<details><!-- mukono -->
+<summary>Mukono [06|08|11]</summary>
+
+- population: 305,945 (2024)
+
+</details><!-- /mukono -->
+<a name="nansana"></a>
+<details><!-- nansana -->
+<summary>Nansana [06|08|11]</summary>
+
+- population: 692,478 (2020)
+
+</details><!-- /nansana -->
+<a name="njeru"></a>
+<details><!-- njeru -->
+<summary>Njeru [06|08]</summary>
+
+- population: 201,484 (2024)
+
+</details><!-- /njeru -->
+<a name="soroti"></a>
+<details><!-- soroti -->
+<summary>Soroti [08]</summary>
+
+- population: 134,199 (2024)
+
+</details><!-- /soroti -->
 
 <br>
 
