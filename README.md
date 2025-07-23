@@ -300,7 +300,17 @@ This is the [EAC's Central Corridor](https://www.eac.int/infrastructure/road-tra
 <summary>Zambia</summary>
 
 [Country page](#ZM)
-- [](#)
+- [Chililabombwe](#chililabombwe)
+- [Chingola](#chingola)
+- [Kabwe](#kabwe)
+- [Kitwe](#kitwe)
+- [Livingstone](#livingstone)
+- [Luanshya](#luanshya)
+- [Lusaka](#lusaka) (Capital)
+- [Mazabuka](#mazabuka)
+- [Mufulira](#mufulira)
+- [Ndola](#ndola)
+- [Solwezi](#solwezi)
 
 </details><!-- /VIII -->
 
@@ -1195,30 +1205,30 @@ Kenya (only [Kisumu port](#kisumu_port))
 		<details>
   		<summary>Important cities along the [corridors]</summary>
 
-	  	- [Arua](#arua) \[11\]
-   		- [Fort Portal](#fort_portal) \[06|08\]
-   		- [Gulu](#gulu) \[11\]
-   		- [Hoima](#hoima) \[06|08\]
-   		- [Jinja](#jinja) \[08\]
-   		- [Kajjansi](#kajjansi) \[06|08\]
-   		- [Kampala](#kampala) (Capital) \[06|08|11|Central\]
-   		- [Kasangati](#kasangati) \[06|08|11\]
-   		- [Kasese](#kasese) \[06|08\]
-   		- [Katabi](#katabi) \[06|08|11\]
-   		- [Kira Town](#kira) \[06|08|11\]
-   		- [Kyengera](#kyengera) \[06|08|11|Central\]
-   		- [Lira](#lira) \[08\]
-   		- [Lugazi](#lugazi) \[08\]
-   		- [Makindye-Ssabagabo](#makindye-ssabagabo) \[06|08|11|Central\]
-   		- [Masaka](#masaka) \[06|08|Central\]
-   		- [Mbale](#mbale) \[08\]
-   		- [Mbarara](#mbarara) \[06|08\]
-   		- [Mityana](#mityana) \[06|08|11\]
-   		- [Mubende](#mubende) \[06|08|11\]
-   		- [Mukono](#mukono) \[06|08|11\]
-   		- [Nansana](#nansana) \[06|08|11\]
-   		- [Njeru](#njeru) \[06|08\]
-   		- [Soroti](#soroti) \[08\]
+	  	- [Arua](#arua) \[11]
+   		- [Fort Portal](#fort_portal) \[06|08]
+   		- [Gulu](#gulu) \[11]
+   		- [Hoima](#hoima) \[06|08]
+   		- [Jinja](#jinja) \[08]
+   		- [Kajjansi](#kajjansi) \[06|08]
+   		- [Kampala](#kampala) (Capital) \[06|08|11|Central\
+   		- [Kasangati](#kasangati) \[06|08|11]
+   		- [Kasese](#kasese) \[06|08]
+   		- [Katabi](#katabi) \[06|08|11]
+   		- [Kira Town](#kira) \[06|08|11]
+   		- [Kyengera](#kyengera) \[06|08|11|Central]
+   		- [Lira](#lira) \[08]
+   		- [Lugazi](#lugazi) \[08]
+   		- [Makindye-Ssabagabo](#makindye-ssabagabo) \[06|08|11|Central]
+   		- [Masaka](#masaka) \[06|08|Central]
+   		- [Mbale](#mbale) \[08]
+   		- [Mbarara](#mbarara) \[06|08]
+   		- [Mityana](#mityana) \[06|08|11]
+   		- [Mubende](#mubende) \[06|08|11]
+   		- [Mukono](#mukono) \[06|08|11]
+   		- [Nansana](#nansana) \[06|08|11]
+   		- [Njeru](#njeru) \[06|08]
+   		- [Soroti](#soroti) \[08]
 	  	</details>
 
   </details>
@@ -1236,8 +1246,17 @@ Kenya (only [Kisumu port](#kisumu_port))
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
 
-	  	- [](#)
-
+	  	- [Chililabombwe](#chililabombwe) \[12]
+	  	- [Chingola](#chingola) \[12]
+	  	- [Kabwe](#kabwe) \[12]
+	  	- [Kitwe](#kitwe) \[12]
+	  	- [Livingstone](#livingstone) \[10]
+	  	- [Luanshya](#luanshya) \[12]
+	  	- [Lusaka](#lusaka) (Capital) \[10]
+	  	- [Mazabuka](#mazabuka) \[10]
+	  	- [Mufulira](#mufulira) \[12]
+	  	- [Ndola](#ndola) \[12]
+	  	- [Solwezi](#solwezi) \[12]
 	  	</details>
 
   </details>
@@ -4348,6 +4367,7 @@ Inland ports are located at Jinja, Port Bell and Bukasa.
 > 
 > Another 1706km of Standard Gauge Railway (SGR - 56 inches/1435 mm wide between the rails) is being planned in Uganda to run parallel to the existing MGR but extending further to the borders of Nimule, Vurra, and Mpondwe. [Logistics Cluster](https://lca.logcluster.org/uganda-24-railway-assessment)
 
+The East African Community (EAC) also estimates, that currently only [265 km (21%) are servicable](https://www.eac.int/infrastructure/railways-transport-sub-sector/92-sector/infrastructure/railways).
 
 
 <br>
@@ -4631,7 +4651,7 @@ Official Zambian stakeholders related to road infrastructure:
 | Operators:      |  |
 | System Map:     | [LCA](https://lca.logcluster.org/sites/default/files/confluence/ZMB_LCA_Railways_A4L_20210517.png%3Fversion%3D1%26modificationDate%3D1621916089000%26api%3Dv2) |
 
-Currently only [265 km are servicable](https://www.eac.int/infrastructure/railways-transport-sub-sector/92-sector/infrastructure/railways).
+In January 2018 the Ministry of Transport and Communications passed a Statuatory Instrument (SI) to compel transporters of heavy cargo to move 30% of bulk cargo from road to railway. <br>
 
 - [Zambia Railways Limited](https://zrl.com.zm/) (ZRL) <sub>(© 2021)</sub>
 - [Tanzania-Zambia Railway Authority](https://tazarasite.com/) (TAZARA) <sub>(© 2025)</sub>
@@ -4642,6 +4662,9 @@ Currently only [265 km are servicable](https://www.eac.int/infrastructure/railwa
 
 
 ### Water-bourne transport
+
+[Map of the Zambian waterway network](https://lca.logcluster.org/sites/default/files/confluence/ZMB_LCA_Waterway_A4P_20180713.png%3Fversion%3D1%26modificationDate%3D1532067104000%26api%3Dv2)<br>
+Zambia has an underdeveloped network of waterways and no access to the sea (landlocked). Mpulungu Harbor on Lake Tanganyika is Zambia’s only international port which could function as gateway to the great lakes region.
 
 <br>
 <a name="ZM_fleet"></a>
@@ -4654,6 +4677,85 @@ Currently only [265 km are servicable](https://www.eac.int/infrastructure/railwa
 
 
 ### Important cities along the corridors
+
+<a name="chililabombwe"></a>
+<details><!-- chililabombwe -->
+<summary>Chililabombwe [12]</summary>
+
+- population: 113,876 (2022)
+
+</details><!-- /chililabombwe -->
+<a name="chingola"></a>
+<details><!-- chingola -->
+<summary>Chingola [12]</summary>
+
+- population: 256,560 (2022)
+
+</details><!-- /chingola -->
+<a name="kabwe"></a>
+<details><!-- kabwe -->
+<summary>Kabwe [12]</summary>
+
+- population: 288,598 (2022)
+
+</details><!-- /kabwe -->
+<a name="kitwe"></a>
+<details><!-- kitwe -->
+<summary>Kitwe [12]</summary>
+
+- population: 665,961 (2022)
+
+</details><!-- /kitwe -->
+<a name="livingstone"></a>
+<details><!-- livingstone -->
+<summary>Livingstone [10]</summary>
+
+- population: 178,361 (2022)
+
+</details><!-- /livingstone -->
+<a name="luanshya"></a>
+<details><!-- luanshya -->
+<summary>Luanshya [12]</summary>
+
+- population: 193,293 (2022)
+
+</details><!-- /luanshya -->
+<a name="lusaka"></a>
+<details><!-- lusaka -->
+<summary>Lusaka [10]</summary>
+
+- Capital of Zimbabwe
+- population: 2,212,301 (2022)
+
+</details><!-- /lusaka -->
+<a name="mazabuka"></a>
+<details><!-- mazabuka -->
+<summary>Mazabuka [10]</summary>
+
+- population: 104,412 (2022)
+
+</details><!-- /mazabuka -->
+<a name="mufulira"></a>
+<details><!-- mufulira -->
+<summary>Mufulira [12]</summary>
+
+- population: 169,136 (2022)
+
+</details><!-- /mufulira -->
+<a name="ndola"></a>
+<details><!-- ndola -->
+<summary>Ndola [12]</summary>
+
+- population: 627,503 (2022)
+
+</details><!-- /ndola -->
+<a name="solwezi"></a>
+<details><!-- solwezi -->
+<summary>Solwezi [12]</summary>
+
+- population: 301,370 (2022)
+
+</details><!-- /solwezi -->
 
 <br>
 
