@@ -263,7 +263,8 @@ This is the [EAC's Central Corridor](https://www.eac.int/infrastructure/road-tra
 
 [Country page](#RW)
 - [Gisenyi](#gisenyi)
-- [Kigali](#kigali)
+- [Kigali](#kigali) (Capital)
+- [Ruhengeri](#ruhengeri)
 
 </details><!-- /V -->
 <details><!-- VI -->
@@ -300,17 +301,8 @@ This is the [EAC's Central Corridor](https://www.eac.int/infrastructure/road-tra
 <summary>Zambia</summary>
 
 [Country page](#ZM)
-- [Chililabombwe](#chililabombwe)
-- [Chingola](#chingola)
-- [Kabwe](#kabwe)
-- [Kitwe](#kitwe)
-- [Livingstone](#livingstone)
-- [Luanshya](#luanshya)
-- [Lusaka](#lusaka) (Capital)
-- [Mazabuka](#mazabuka)
-- [Mufulira](#mufulira)
-- [Ndola](#ndola)
-- [Solwezi](#solwezi)
+
+Zambia is only linked to the corridor through the [TAZARA](https://tazarasite.com/) line but the corridor does not run through the country itself.
 
 </details><!-- /VIII -->
 
@@ -1011,8 +1003,9 @@ Kenya (only [Kisumu port](#kisumu_port))
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
 
-	  	- [Gisenyi](#gisenyi)
-   		- [Kigali](#kigali)
+	  	- [Gisenyi](#gisenyi) [Central]
+   		- [Kigali](#kigali) (Capital) [08|Central]
+     		- [Ruhengeri](#ruhengeri) [08|Central]
 
 	  	</details>
 
@@ -1784,7 +1777,8 @@ Water-bourne
 
 ### Further information
 
-- [LCA](https://lca.logcluster.org/burundi)
+- [LCA](https://lca.logcluster.org/burundi)<br><br>
+
 - [Ministry for Trade, Transport, Industry and Tourism](https://mctit.gov.bi/) (Ministère du Commerce, du Transport, de l'Industrie et du Tourisme (MCTIT))
   - [General Directorate of Commerce](https://mctit.gov.bi/direction-generale-du-commerce/)
   - [General Directorate of Transport](https://mctit.gov.bi/direction-general-du-transport/)
@@ -3353,7 +3347,7 @@ Ports
 
 
 ### Related Corridors 
-[08 Mombasa - Kisangani](#C8) | [Central Corridor](#central)
+[08 Mombasa - Kisangani](#C8) | [Central Corridor](#Ccentral)
 
 <br>
 <a name="RW_trade"></a>
@@ -3420,7 +3414,7 @@ Secondary roads are generally acceptable for small trucks (15 MT max) but requir
 ### Important cities along the corridors
 <a name="gisenyi"></a>
 <details><!-- gisenyi -->
-<summary>Gisenyi</summary>
+<summary>Gisenyi [Central]</summary>
 
 - Population: 252,090 (2022)
 - Capital of th Western Province of Rwanda
@@ -3428,13 +3422,20 @@ Secondary roads are generally acceptable for small trucks (15 MT max) but requir
 </details><!-- gisenyi -->
 <a name="kigali"></a>
 <details><!-- kigali -->
-<summary>Kigali</summary>
+<summary>Kigali [08|Central]</summary>
 
-- Population: 1,745,555
 - Capital of Rwanda
+- Population: 1,517,168 (2022)
 
 </details><!-- kigali -->
+<a name="ruhengeri"></a>
+<details><!-- ruhengeri -->
+<summary>Ruhengeri [08|Central]</summary>
 
+- Capital of Rwanda
+- Population: 153,638 (2022)
+
+</details><!-- ruhengeri -->
 <br>
 
 ### Further information
@@ -3986,7 +3987,7 @@ The single railway line connects Wau to Sudan.
 
 
 ### Related Corridors 
-[07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7) | [Central Corridor](#central)
+[07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7) | [Central Corridor](#Ccentral)
 
 <br>
 <a name="TZ_trade"></a>
@@ -4041,6 +4042,7 @@ TAZARA allow two private companies to operate freight services under licence on 
 - [Calabash Freight limited](http://calabashfreight.com/)
 
 ***Dry ports***
+<a name="isaka_dp"></a>
 
 - [Isaka Dry Port](https://www.trc.co.tz/pages/dry-ports)
   - owned and operated by [TRC](https://www.trc.co.tz/)
@@ -4117,10 +4119,18 @@ In addition to the large sea ports Tanzania also has several smaller ones, river
 <details><!-- dodoma -->
 <summary>Dodoma</summary>
 
-- capital
+- Capital of Tanzania
 - population: 765,179 (2022)
 
 </details><!-- /dodoma -->
+<a name="isaka"></a>
+<details><!-- isaka -->
+<summary>Isaka</summary>
+
+- population: 18,125 (2022)
+- startigic importance through [Isaka Dry Port](#isaka_dp)
+
+</details><!-- /isaka -->
 <a name="kahama"></a>
 <details><!-- kahama -->
 <summary>Kahama</summary>
@@ -4199,28 +4209,31 @@ In addition to the large sea ports Tanzania also has several smaller ones, river
 
 ### Further information
 
-- [LCA](https://lca.logcluster.org/tanzania-united-republic)
+- [LCA](https://lca.logcluster.org/tanzania-united-republic)<br><br>
+
 - [Ministry of Infrastructure, Communication and Transport](https://moic.go.tz/eng/) (MOIC) *(© 2024, see also MoT below)*
 - [Ministry of Transport](https://www.uchukuzi.go.tz/) (MoT) <sub>(© 2025)</sub>
 - [Ministry of Works](https://www.mow.go.tz/) (MoW) <sub>(© 2025)</sub>
 - [Ministry of Industry and Trade](https://www.viwanda.go.tz/) (MIT) <sub>(© 2025)</sub>
 - [Land Transport Regulatory Authority](https://www.latra.go.tz/) (LATRA) <sub>(© 2025)</sub>
-- [Tanzania Revenue Authority](https://www.tra.go.tz/) (TRA) <sub>(© 2025)</sub>
-- [Tanzania International Container Terminal Services](https://ticts.simplybook.me/v2/) (TICTS) <sub>(© 2025)</sub>
-- [Surface and Marine Transport Regulatory Authority](http://www.sumatra.or.tz) (SUMATRA) *(site currently unavailable)*
 - [Marine Services Company Limited](http://www.mscl.go.tz/) (MSCL) *(site currently unavailable)*
-- [Tanzania Shipping Agencies Corporation](https://www.tasac.go.tz/) (TASAC) <sub>(© 2025)</sub>
-- [Tanzania Chamber of Commerce Industries and Agriculture](https://tccia.or.tz/) (TCCIA) <sub>(© 2025)</sub>
-- [Tanzania Freight Forwarders Association](https://taffa.or.tz/) (TAFFA) <sub>(© 2025)</sub>
-- [Tanzania Customs Agents Association](https://tacas.or.tz/) (TACAS) <sub>(© 2024)</sub>
-- [Customs Agents and Logistics Association of Tanzania](https://calat.or.tz/) (CALAT) <sub>(© 2025)</sub>
-- [Tanzania Truck Owners Association](https://www.tatoa.co.tz/) (TATOA) <sub>(© 2024)</sub>
-- [Tanzania Medium and Small Truck Owners Association](https://www.tamstoa.co.tz/) (TAMSTOA) (© 2024)
 - [National Development Corporation](https://ndc.go.tz/) (NDC) <sub>(© unknown)</sub>
+- [National bureau of Statistics Tanzania](https://www.nbs.go.tz/) (NBS) <sub>(© 2025)</sub>
+- [Tanzania Bureau of Standards](https://www.tbs.go.tz/) (TBS) <sub>(© 2025)</sub>
+- [Tanzania Immigration Department](https://www.immigration.go.tz/) <sub>(© 2025)</sub>
 - [Tanzania Investment Centre](https://www.tic.go.tz/) (TIC) <sub>(© 2025)</sub>
 - [Tanzania Police Force](https://polisi.go.tz/) – Traffic Police <sub>(© unknown)</sub>
-- [Tanzania Immigration Department](https://www.immigration.go.tz/) <sub>(© 2025)</sub>
-- [Tanzania Bureau of Standards](https://www.tbs.go.tz/) (TBS) <sub>(© 2025)</sub>
+- [Tanzania Revenue Authority](https://www.tra.go.tz/) (TRA) <sub>(© 2025)</sub>
+- [Tanzania Shipping Agencies Corporation](https://www.tasac.go.tz/) (TASAC) <sub>(© 2025)</sub><br><br>
+
+- [Customs Agents and Logistics Association of Tanzania](https://calat.or.tz/) (CALAT) <sub>(© 2025)</sub>
+- [Surface and Marine Transport Regulatory Authority](http://www.sumatra.or.tz) (SUMATRA) *(site currently unavailable)*
+- [Tanzania Chamber of Commerce Industries and Agriculture](https://tccia.or.tz/) (TCCIA) <sub>(© 2025)</sub>
+- [Tanzania Customs Agents Association](https://tacas.or.tz/) (TACAS) <sub>(© 2024)</sub>
+- [Tanzania Freight Forwarders Association](https://taffa.or.tz/) (TAFFA) <sub>(© 2025)</sub>
+- [Tanzania International Container Terminal Services](https://ticts.simplybook.me/v2/) (TICTS) <sub>(© 2025)</sub>
+- [Tanzania Medium and Small Truck Owners Association](https://www.tamstoa.co.tz/) (TAMSTOA) (© 2024)
+- [Tanzania Truck Owners Association](https://www.tatoa.co.tz/) (TATOA) <sub>(© 2024)</sub>
 
 <br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
@@ -4308,7 +4321,7 @@ In addition to the large sea ports Tanzania also has several smaller ones, river
 
 
 ### Related Corridors 
-[06 Douala/Kribi - Kampala](#C6) | [08 Mombasa - Kisangani](#C8) | [11 Cairo - Khartoum - Juba - Kampala](#C11) | [Central Corridor](#central)
+[06 Douala/Kribi - Kampala](#C6) | [08 Mombasa - Kisangani](#C8) | [11 Cairo - Khartoum - Juba - Kampala](#C11) | [Central Corridor](#Ccentral)
 
 <br>
 <a name="UG_trade"></a>
