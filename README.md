@@ -681,19 +681,19 @@ Kenya (only [Kisumu port](#kisumu_port))
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
 
-	  	- [Beni](#beni)
-		- [Bukavu](#bukavu)
-		- [Bunia](#bunia)
-		- [Butembo](#butembo)
-		- [Gbadolite](#gbadolite)
-		- [Gemena](#gemena)
-		- [Goma](#goma)
-		- [Kinshasa](#kinshasa)
-		- [Kisangani](#kisangani)
-		- [Kolwezi](#kolwezi)
-		- [Likasi](#likasi)
-		- [Lubumbashi](#lubumbashi)
-		- [Uvira](#uvira)
+	  	- [Beni](#beni) 			\[06|08]
+		- [Bukavu](#bukavu) 			\[Central]
+		- [Bunia](#bunia) 			\[06|08]
+		- [Butembo](#butembo) 			\[06|08]
+		- [Gbadolite](#gbadolite) 		\[06]
+		- [Gemena](#gemena) 			\[06]
+		- [Goma](#goma) 			\[Central]
+		- [Kinshasa](#kinshasa) (Capital) 	\[-]
+		- [Kisangani](#kisangani) 		\[06|08]
+		- [Kolwezi](#kolwezi) 			\[12]
+		- [Likasi](#likasi) 			\[12]
+		- [Lubumbashi](#lubumbashi) 		\[12]
+		- [Uvira](#uvira) 			\[Central]
 
 	  	</details>
 
@@ -1003,9 +1003,9 @@ Kenya (only [Kisumu port](#kisumu_port))
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
 
-	  	- [Gisenyi](#gisenyi) [Central]
-   		- [Kigali](#kigali) (Capital) [08|Central]
-     		- [Ruhengeri](#ruhengeri) [08|Central]
+	  	- [Gisenyi](#gisenyi) 			\[Central]
+   		- [Kigali](#kigali) (Capital) 		\[08|Central]
+     		- [Ruhengeri](#ruhengeri) 		\[08|Central]
 
 	  	</details>
 
@@ -1150,21 +1150,21 @@ Kenya (only [Kisumu port](#kisumu_port))
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
 
-	  	- [Arusha](#arusha)
-		- [Bukoba](#bukoba)
-		- [Dar es Salaam](#dar_es_salaam)
-		- [Dodoma](#dodoma) (Capital)
-		- [Isaka](#isaka)
-		- [Kahama](#kahama)
-		- [Kibaha](#kibaha)
-		- [Morogoro](#morogoro)
-		- [Moshi](#moshi)
-  		- [Musoma](#musoma)
-		- [Mwanza](#mwanza)
-		- [Shinyanga](#shinyanga)
-		- [Singida](#singida)
-		- [Tabora](#tabora)
-		- [Tanga](#tanga)
+	  	- [Arusha](#arusha) 			\[07|08|Central]
+		- [Bukoba](#bukoba) 			\[Central]
+		- [Dar es Salaam](#dar_es_salaam) 	\[07|Central]
+		- [Dodoma](#dodoma) (Capital) 		\[Central]
+		- [Isaka](#isaka) 			\[Central]
+		- [Kahama](#kahama) 			\[Central]
+		- [Kibaha](#kibaha) 			\[Central]
+		- [Morogoro](#morogoro) 		\[Central]
+		- [Moshi](#moshi) 			\[07|08|Central]
+  		- [Musoma](#musoma) 			\[08]
+		- [Mwanza](#mwanza) 			\[08|Central]
+		- [Shinyanga](#shinyanga) 		\[Central]
+		- [Singida](#singida) 			\[Central]
+		- [Tabora](#tabora) 			\[Central]
+		- [Tanga](#tanga) 			\[07|Central]
 	  	</details>
   </details>
 - [Togo](#TG)
@@ -1198,30 +1198,30 @@ Kenya (only [Kisumu port](#kisumu_port))
 		<details>
   		<summary>Important cities along the [corridors]</summary>
 
-	  	- [Arua](#arua) \[11]
-   		- [Fort Portal](#fort_portal) \[06|08]
-   		- [Gulu](#gulu) \[11]
-   		- [Hoima](#hoima) \[06|08]
-   		- [Jinja](#jinja) \[08]
-   		- [Kajjansi](#kajjansi) \[06|08]
-   		- [Kampala](#kampala) (Capital) \[06|08|11|Central\
-   		- [Kasangati](#kasangati) \[06|08|11]
-   		- [Kasese](#kasese) \[06|08]
-   		- [Katabi](#katabi) \[06|08|11]
-   		- [Kira Town](#kira) \[06|08|11]
-   		- [Kyengera](#kyengera) \[06|08|11|Central]
-   		- [Lira](#lira) \[08]
-   		- [Lugazi](#lugazi) \[08]
+	  	- [Arua](#arua) 			\[11]
+   		- [Fort Portal](#fort_portal) 		\[06|08]
+   		- [Gulu](#gulu) 			\[11]
+   		- [Hoima](#hoima) 			\[06|08]
+   		- [Jinja](#jinja) 			\[08]
+   		- [Kajjansi](#kajjansi) 		\[06|08]
+   		- [Kampala](#kampala) (Capital) 	\[06|08|11|Central\
+   		- [Kasangati](#kasangati) 		\[06|08|11]
+   		- [Kasese](#kasese) 			\[06|08]
+   		- [Katabi](#katabi) 			\[06|08|11]
+   		- [Kira Town](#kira) 			\[06|08|11]
+   		- [Kyengera](#kyengera) 		\[06|08|11|Central]
+   		- [Lira](#lira) 			\[08]
+   		- [Lugazi](#lugazi) 			\[08]
    		- [Makindye-Ssabagabo](#makindye-ssabagabo) \[06|08|11|Central]
-   		- [Masaka](#masaka) \[06|08|Central]
-   		- [Mbale](#mbale) \[08]
-   		- [Mbarara](#mbarara) \[06|08]
-   		- [Mityana](#mityana) \[06|08|11]
-   		- [Mubende](#mubende) \[06|08|11]
-   		- [Mukono](#mukono) \[06|08|11]
-   		- [Nansana](#nansana) \[06|08|11]
-   		- [Njeru](#njeru) \[06|08]
-   		- [Soroti](#soroti) \[08]
+   		- [Masaka](#masaka) 			\[06|08|Central]
+   		- [Mbale](#mbale) 			\[08]
+   		- [Mbarara](#mbarara) 			\[06|08]
+   		- [Mityana](#mityana) 			\[06|08|11]
+   		- [Mubende](#mubende) 			\[06|08|11]
+   		- [Mukono](#mukono) 			\[06|08|11]
+   		- [Nansana](#nansana) 			\[06|08|11]
+   		- [Njeru](#njeru) 			\[06|08]
+   		- [Soroti](#soroti) 			\[08]
 	  	</details>
 
   </details>
@@ -1239,17 +1239,17 @@ Kenya (only [Kisumu port](#kisumu_port))
 		<details>
   		<summary>Important cities along the corridor(s)</summary>
 
-	  	- [Chililabombwe](#chililabombwe) \[12]
-	  	- [Chingola](#chingola) \[12]
-	  	- [Kabwe](#kabwe) \[12]
-	  	- [Kitwe](#kitwe) \[12]
-	  	- [Livingstone](#livingstone) \[10]
-	  	- [Luanshya](#luanshya) \[12]
-	  	- [Lusaka](#lusaka) (Capital) \[10]
-	  	- [Mazabuka](#mazabuka) \[10]
-	  	- [Mufulira](#mufulira) \[12]
-	  	- [Ndola](#ndola) \[12]
-	  	- [Solwezi](#solwezi) \[12]
+	  	- [Chililabombwe](#chililabombwe) 	\[12]
+	  	- [Chingola](#chingola) 		\[12]
+	  	- [Kabwe](#kabwe) 			\[12]
+	  	- [Kitwe](#kitwe) 			\[12]
+	  	- [Livingstone](#livingstone) 		\[10]
+	  	- [Luanshya](#luanshya) 		\[12]
+	  	- [Lusaka](#lusaka) (Capital) 		\[10]
+	  	- [Mazabuka](#mazabuka) 		\[10]
+	  	- [Mufulira](#mufulira) 		\[12]
+	  	- [Ndola](#ndola) 			\[12]
+	  	- [Solwezi](#solwezi) 			\[12]
 	  	</details>
 
   </details>
@@ -2186,49 +2186,49 @@ Port of Boma
 ### Important cities along the corridors
 <a name="beni"></a>
 <details><!-- beni -->
-<summary>Beni</summary>
+<summary>Beni [06|08]</summary>
 
 - Population: 231,952 (2013)
 
 </details><!-- /beni -->
 <a name="bukavu"></a>
 <details><!-- bukavu -->
-<summary>Bukavu</summary>
+<summary>Bukavu [Central]</summary>
 
 - Population: 1,369,430 (2025)
 
 </details><!-- bukavu -->
 <a name="bunia"></a>
 <details><!-- bunia -->
-<summary>Bunia</summary>
+<summary>Bunia [06|08]</summary>
 
 - Population: 900,351 (2025)
 
 </details> <!-- bunia -->
 <a name="butembo"></a>
 <details><!-- butembo -->
-<summary>Butembo</summary>
+<summary>Butembo [06|08]</summary>
 
 - Population: 154,621 (2024)
 
 </details><!-- /butembo -->
 <a name="gbadolite"></a>
 <details><!-- gbadolite -->
-<summary>Gbadolite</summary>
+<summary>Gbadolite [06]</summary>
 
 - Population: 198,839 (2015)
 
 </details><!-- /gbadolite -->
 <a name="gemena"></a>
 <details><!-- gemena -->
-<summary>Gemena</summary>
+<summary>Gemena [06]</summary>
 
 - Population: 138,527 (2012)
 
 </details><!-- /gemena -->
 <a name="goma"></a>
 <details><!-- goma -->
-<summary>Goma</summary>
+<summary>Goma [Central]</summary>
 
 - Population: 819,854 (2025)
 
@@ -2243,35 +2243,35 @@ Port of Boma
 </details> <!-- kinshasa -->
 <a name="kisangani"></a>
 <details><!-- kisangani -->
-<summary>Kisangani</summary>
+<summary>Kisangani [06|08]</summary>
 
 - Population: 1,546,690 (2025)
 
 </details><!-- kisangani -->
 <a name="kolwezi"></a>
 <details><!-- kolwezi -->
-<summary>Kolwezi</summary>
+<summary>Kolwezi [12]</summary>
 
 - Population: 555,059 (2025)
 
 </details> <!-- kolwezi -->
 <a name="likasi"></a>
 <details><!-- likasi -->
-<summary>Likasi</summary>
+<summary>Likasi [12]</summary>
 
 - Population: 675,991 (2025)
 
 </details><!-- likasi -->
 <a name="lubumbashi"></a>
 <details><!-- lubumbashi -->
-<summary>Lubumbashi</summary>
+<summary>Lubumbashi [12]</summary>
 
 - Population: 3,061,340 (2025)
 
 </details> <!-- lubumbashi -->
 <a name="uvira"></a>
 <details><!-- uvira -->
-<summary>Uvira</summary>
+<summary>Uvira [Central]</summary>
 
 - Population: 760,857 (2025)
 
@@ -4094,21 +4094,21 @@ In addition to the large sea ports Tanzania also has several smaller ones, river
 ### Important cities along the corridors
 <a name="arusha"></a>
 <details><!-- arusha -->
-<summary>Arusha</summary>
+<summary>Arusha [07|08|Central]</summary>
 
 - population: 617,631 (2022)
 
 </details><!-- /arusha -->
 <a name="bukoba"></a>
 <details><!-- bukoba -->
-<summary>Bukoba</summary>
+<summary>Bukoba [Central]</summary>
 
 - population: 144,938 (2022)
 
 </details><!-- /bukoba -->
 <a name="dar_es_salaam"></a>
 <details><!-- dar_es_salaam -->
-<summary>Dar es Salaam</summary>
+<summary>Dar es Salaam [07|Central]</summary>
 
 - seat of gouvernment and largest city of Tanzania
 - population: 7,776,000 (2023)
@@ -4117,7 +4117,7 @@ In addition to the large sea ports Tanzania also has several smaller ones, river
 </details><!-- /dar_es_salaam -->
 <a name="dodoma"></a>
 <details><!-- dodoma -->
-<summary>Dodoma</summary>
+<summary>Dodoma [Central]</summary>
 
 - Capital of Tanzania
 - population: 765,179 (2022)
@@ -4125,7 +4125,7 @@ In addition to the large sea ports Tanzania also has several smaller ones, river
 </details><!-- /dodoma -->
 <a name="isaka"></a>
 <details><!-- isaka -->
-<summary>Isaka</summary>
+<summary>Isaka [Central]</summary>
 
 - population: 18,125 (2022)
 - startigic importance through [Isaka Dry Port](#isaka_dp)
@@ -4133,42 +4133,42 @@ In addition to the large sea ports Tanzania also has several smaller ones, river
 </details><!-- /isaka -->
 <a name="kahama"></a>
 <details><!-- kahama -->
-<summary>Kahama</summary>
+<summary>Kahama [Central]</summary>
 
 - population: 453,654 (2022)
 
 </details><!-- /kahama -->
 <a name="kibaha"></a>
 <details><!-- kibaha -->
-<summary>Kibaha</summary>
+<summary>Kibaha [Central]</summary>
 
 - population: 265,360 (2022)
 
 </details><!-- /kibaha -->
 <a name="morogoro"></a>
 <details><!-- morogoro -->
-<summary>Morogoro</summary>
+<summary>Morogoro [Central]</summary>
 
 - population: 471,409 (2022)
 
 </details><!-- /morogoro -->
 <a name="moshi"></a>
 <details><!-- moshi -->
-<summary>Moshi</summary>
+<summary>Moshi [07|08|Central]</summary>
 
 - population: 201,150 (2022)
 
 </details><!-- /moshi -->
 <a name="musoma"></a>
 <details><!-- musoma -->
-<summary>Musoma</summary>
+<summary>Musoma [08]</summary>
 
 - population: 164,172 (2022)
 
 </details><!-- /musoma -->
 <a name="mwanza"></a>
 <details><!-- mwanza -->
-<summary>Mwanza</summary>
+<summary>Mwanza [08|Central]</summary>
 
 - population: 1,104,521 (2022)
 - [largest lake ports](#) on Lake Victory
@@ -4176,28 +4176,28 @@ In addition to the large sea ports Tanzania also has several smaller ones, river
 </details><!-- /mwanza -->
 <a name="shinyanga"></a>
 <details><!-- shinyanga -->
-<summary>Shinyanga</summary>
+<summary>Shinyanga [Central]</summary>
 
 - population: 139,727 (2022)
 
 </details><!-- /shinyanga -->
 <a name="singida"></a>
 <details><!-- singida -->
-<summary>Singida</summary>
+<summary>Singida [Central]</summary>
 
 - population: 232,459 (2022)
 
 </details><!-- /singida -->
 <a name="tabora"></a>
 <details><!-- tabora -->
-<summary>Tabora</summary>
+<summary>Tabora [Central]</summary>
 
 - population: 308,741 (2022)
 
 </details><!-- /tabora -->
 <a name="tanga"></a>
 <details><!-- tanga -->
-<summary>Tanga</summary>
+<summary>Tanga [07|Central]</summary>
 
 - population: 393,429 (2022)
 - [second largest sea port](#tanga_port)
