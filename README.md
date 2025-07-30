@@ -255,6 +255,7 @@ This is the [EAC's Central Corridor](https://www.eac.int/infrastructure/road-tra
 <details><!-- IV -->
 <summary>Malawi</summary>
 
+[Country page](#MW)
 - [](#)
 
 </details><!-- /IV -->
@@ -917,6 +918,22 @@ Kenya (only [Kisumu port](#kisumu_port))
 
   </details>
 <a name="List-of-Countries_M"></a>
+- [Malawi](#MW)
+  <details>
+  <summary>Quick links</summary>
+
+	- [Related corridors](#MW_corridors)
+	- [Trade volumes](#MW_trade)
+	- [Road network](#MW_road)
+	- [Railway network](#MW_railway)
+	- [Water-bourne transport](#MW_water)
+	- [Fleet characteristics](#MW_fleet)
+		<details>
+  		<summary>Important cities along the corridor(s)</summary>
+
+	  	- [](#)
+
+	  	</details>
 - [Mozambique](#MZ)
   <details>
   <summary>Quick links</summary>
@@ -3085,6 +3102,105 @@ Ports
 
 
 ### Further information
+
+<br><br>
+[Country overview](#countries) | [Back to the top](#top)<br><br><br>
+<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
+<a name="MW"></a>
+## Malawi 
+
+| Labor force | participation rate |
+| --- | --- | 
+| Total: | [67%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=MW&start=2024&view=bar)   |
+| Male:  | [71%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=MW&start=2024&view=bar)|
+| Female:| [63%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=MW&start=2024&view=bar)|
+
+<sup>(Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)</sup>
+<br>
+<a name="MW_corridors"></a>
+
+
+### Related Corridors 
+[Central Corridor](#Ccentral)
+
+<br>
+<a name="MW_trade"></a>
+
+
+### Trade volumes
+
+[General Directorate of Commerce](https://mctit.gov.bi/direction-generale-du-commerce/)<br>
+| Export | Import |
+|---|---|
+| Exports/capita: ~$16 | Imports/capita: ~$97 |
+| 1. Unmanufactured tobacco ($447.2M / 46.3%)<br> 2. Black Tea ($70.3M / 7.3%)<br> 3. Groundnuts ($53.8M / 5.6%)<br> 4. Sugar ($41.2M / 4.3%)<br> 5. Soya beans ($34.0M / 3.5%) | 1. Refined petroleum ($582.7M / 18.6%)<br> 2. Urea ($144.9M / 4.6%)<br> 3. Fertilisers ($135.9M / 4.3%)<br> 4. Unused pstage and other documents of title ($110.7M / 3.5%)<br> 5. Used textiles ($99.2M / 3.2%) |
+
+<sup>(Source: [WTO](https://ttd.wto.org/en/profiles/malawi), 2023)</sup>
+<br>
+<a name="MW_road"></a>
+
+
+### Road network
+| Network profile |     |
+| ---             | --- |
+| Network size:   |  km |
+| Axle load limit:|  t  |
+| Network map:    | []()|
+
+<br>
+<a name="MW_railway"></a>
+
+
+### Rail network
+| Network profile |     |
+| ---             | --- |
+| Systen size:    |  km |
+| Track gauge:    |  mm |
+| Operators:      | []()|
+| System Map:     | []()|
+
+<br>
+<a name="MW_water"></a>
+
+
+### Water-bourne transport
+
+<br> 
+<a name="MW_fleet"></a>
+
+
+### Fleet characteristics
+
+<br>
+<a name="MW_cities"></a>
+
+
+### Important cities along the corridors
+<a name="city"></a>
+<details><!-- city - ->
+<summary>City</summary>
+
+- Population: 
+
+</details><!-- /city - ->
+
+<br>
+
+### Further information
+
+- LCA
+- [Ministry of Transport and Public Works](https://www.transport.gov.mw/)
+- [Malawi Bureau of Standards](https://mbsmw.org/) (MBS)
+- [Roads Authority](https://www.ra.org.mw/)
+- [Ministry of Trade and Industry](https://www.trade.gov.mw/)
+- [Malawi Confederation of the Chambers of Commerce and Industry](https://www.mccci.org/) (MCCCI)
+- [Malawi Revenue Authority](https://www.mra.mw/)
+- [Department of Immigration and Citizenship Services](https://www.immigration.gov.mw/)
+- Malawi Railways (1994) Limited
+- Marine transport Operators
+- Association of Freight Forwarders and Clearing Agents
+- Road Transporters Association of Malawi
+- Private Sector Federation
 
 <br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
