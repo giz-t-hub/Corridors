@@ -26,11 +26,11 @@ Have something to add or change? Contact: Niklas.Matern@giz.de
 	- [Central Corridor](#Ccentral)
 - <b>[Countries](#countries)</b>
 	- [Angola](#AO)
-	- [Benin](#BJ)		| [Botswana](#BW)	| [Burkina-Faso](#BF)				| [Burundi](#BI)
-	- [Cabo Verde](#CV)	| [Cameroon](#CM)	| [Central African Republic](#CF)		| [Chad](#TD)		| [Côte d'Ivoire](#CI)
-	- [Democratic Republic of the Congo](#CD)	| [Djibouti](#DJ)
-	- [Egypt](#EG)		| [Equatorial Guinea](#GQ)			| [Eswatini](#SZ)	| [Ethiopia](#ET)
-	- [Gabon](#GA)		| [Gambia](#GM)		| [Ghana](#GH)		| [Guinea](#GN)		| [Guinea-Bissau](#GW)
+	- [Benin](#BJ)		| [Botswana](#BW)	| [Burkina-Faso](#BF)						| [Burundi](#BI)
+	- [Cabo Verde](#CV)	| [Cameroon](#CM)	| [Central African Republic](#CF)			| [Chad](#TD)		| [Côte d'Ivoire](#CI)
+	- [Democratic Republic of the Congo](#CD)					| [Djibouti](#DJ)
+	- [Egypt](#EG)		| [Equatorial Guinea](#GQ)				| [Eswatini](#SZ)		| [Ethiopia](#ET)
+	- [Gabon](#GA)		| [Gambia](#GM)		| [Ghana](#GH)		| [Guinea](#GN)			| [Guinea-Bissau](#GW)
 	- [Kenya](#KE)
 	- [Liberia](#LR)
 	- [Mozambique](#MZ)
@@ -2057,6 +2057,13 @@ Water-bourne
 <a name="CI"></a>
 ## Côte d'Ivoire 
 
+| Labor force | participation rate |
+| --- | --- |
+| Total: | [67%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=CI&start=2024&view=bar)   |
+| Male:  | [74%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=CI&start=2024&view=bar)|
+| Female:| [59%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=CI&start=2024&view=bar)|
+
+<sup>(Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)</sup>
 <br>
 <a name="CI_corridors"></a>
 
@@ -2069,7 +2076,12 @@ Water-bourne
 
 
 ### Trade volumes
+| Export | Import |
+|---|---|
+| Exports/capita: $702.7 | Imports/capita: $648.6 |
+| 1. Cocoa ($7.2B / 34.1%)<br> 2. Gold ($3.1B / 15.0%)<br> 3. Mineral Fuels and Oils ($3.1B / 14.6%)<br> 4. Rubber ($2.5B / 11.7%)<br> 5. Cashew Nuts (789.7M / 3.8%)<br> | 1. Mineral Fuels and Oils ($4.6B / 23.8%)<br> 2. Drilling or Production Platforms ($1.1B / 5.9%)<br> 3. Rice ($774.4M / 4.0%)<br> 4. Ships, Boats ($750.2.5M / 3.9%)<br> 5. Medicaments ($276.0M / 1.4%)|
 
+<sup>(Source: [WTO](https://ttd.wto.org/en/profiles/democratic-republic-of-the-congo), 2022)</sup><br>
 <br>
 <a name="CI_road"></a>
 
@@ -2139,7 +2151,7 @@ Water-bourne
 | Export | Import |
 |---|---|
 | Exports/capita: $154 | Imports/capita: $111.4 |
-| 1. Refined Copper ($12.5B / 79.4%)<br> 2. Cobalt ($2,3B / 14.6%)<br> 3. Raw Copper ($190.2M / 1.2%)<br> 4. Refined petroleum ($96.9M / 0.6%)<br> | 1. Refined Petroleum ($2.62B / 22.9%)<br> 2. Sulphur ($908.3M / 8.0%)<br> 3. Sulphuric acid ($254.9M / 2.2%)<br> 4. Fused magnesia ($228.5M / 2.0%)<br> 5. Durum wheat (187.8M / 1.6%)|
+| 1. Refined Copper ($12.5B / 79.4%)<br> 2. Cobalt ($2,3B / 14.6%)<br> 3. Raw Copper ($190.2M / 1.2%)<br> 4. Refined petroleum ($96.9M / 0.6%)<br> | 1. Refined Petroleum ($2.62B / 22.9%)<br> 2. Sulphur ($908.3M / 8.0%)<br> 3. Sulphuric acid ($254.9M / 2.2%)<br> 4. Fused magnesia ($228.5M / 2.0%)<br> 5. Durum wheat ($187.8M / 1.6%)|
 
 <sup>(Source: [WTO](https://ttd.wto.org/en/profiles/democratic-republic-of-the-congo), 2022)</sup><br>
 DR Congo is the world's leading exporter of cobalt, tin ores, copper alloys, and cobalt ore. 
@@ -3048,6 +3060,13 @@ Ports
 <a name="LR"></a>
 ## Liberia 
 
+| Labor force | participation rate |
+| --- | --- | 
+| Total: | [77%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=LR&start=2024&view=bar)   |
+| Male:  | [82%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=LR&start=2024&view=bar)|
+| Female:| [72%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=LR&start=2024&view=bar)|
+
+<sup>(Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)</sup>
 <br>
 <a name="LR_corridors"></a>
 
@@ -3061,12 +3080,21 @@ Ports
 
 ### Trade volumes
 
+| Export | Import |
+| --- | --- |
+| Exports/capita: $27.9 | Imports/capita: $379.6 |
+| 1. Rubber ($97.2M / 63.2%)<br> 2. Palm oil ($32.3M / 21.0%)<br> 3. Nuclear power plant parts ($5.6M / 3.6%)<br> 4. Cocoa beans ($4.1M / 2.7%)<br> 5. Fans ($2.8M / 1.8%) | 1. Mineral fuels and oils ($690.7M / 31.9%)<br> 2. Rice ($237.6M / 11.0%)<br> 3. Nuclear power plant parts ($160.1M / 7.4%)<br> 4. Small trucks ($88.4M / 4.1%)<br> 5. Palm oil ($35.7M / 1.6%) |
+
+<sup>(Source: [WTO](https://ttd.wto.org/en/profiles/malawi), 2023)</sup>
 <br>
 <a name="LR_road"></a>
 
 
 ### Road network
 
+Libreria has an underdeveloped [road network](https://lca.logcluster.org/sites/default/files/inline-images/image-20240826115111-1.png) in a [poor state](https://lca.logcluster.org/sites/default/files/inline-images/image-20240826115111-2.png), most of which was built in the 1970s and 1980s (before the civil war) with international financial aid.<br>
+The road network consists of about 13,000km of roads of which 1,140km (8.7%) are paved. The paved roads mostly connect the capital, monrovia, to the neighboring countries Sierra Leone (Bo Waterside) and Guines (Ganta) and to the second largest sea port in Buchanan. ([LCA](https://lca.logcluster.org/23-liberia-road-network))
+ 
 <br>
 <a name="LR_railway"></a>
 
@@ -3074,17 +3102,29 @@ Ports
 ### Rail network
 | Network profile | |
 | ---             | --- |
-| System Size:    |  km |
-| Track gauge:    |  mm |
-| Operators:      |  |
-| System Map:     | []() |
+| System Size:    | 343 km<br> 84 km |
+| Track gauge:    | 1,435 mm<br> 1,067 mm |
+| Operators:      | National Iron Ore Company of Liberia (NIOC) Railroad<br> The Liberian American – Swedish Mineral Company (LAMCO) Railroad<br> The Bong Mining Company (BMC) Railroad |
+| System Map:     | [LCA](https://lca.logcluster.org/sites/default/files/confluence/logcluster_LBR_LCA_005_20120301.jpg%3Fversion%3D1%26modificationDate%3D1383131558000%26api%3Dv2) |
 
-
+Liberia has [three railway lines](https://lca.logcluster.org/sites/default/files/inline-images/image-20240826123941-1.png) built in the 1960s for the transport of ores to the sea ports at the coast. 
 <br>
 <a name="LR_water"></a>
 
 
 ### Water-bourne transport
+
+[Liberian Port Network](https://lca.logcluster.org/sites/default/files/inline-images/image-20240823092950-1.png)([LCA](https://lca.logcluster.org/21-liberia-port-assessment))
+
+Liberia has four sea ports:
+
+- Free Port of Monrovia
+  - [Map](https://lca.logcluster.org/sites/default/files/inline-images/image-20240823093052-2.png)
+  - Liberia's largest sea port, handling about 90% of international trade volumes
+- Port of Buchanan
+  - Liberia's second largest sea port
+- Port of Greenville
+- Port of Harper
 
 <br>
 <a name="LR_fleet"></a>
@@ -3097,11 +3137,42 @@ Ports
 
 
 ### Important cities along the corridors
+<a name="city"></a>
+<details><!-- buchanan -->
+<summary>Buchanan [03]</summary>
 
+- Population: 50,245 (2008)
+- Second largest sea port
+
+</details><!-- /buchanan -->
+<details><!-- greenville -->
+<summary>Greenville [03]</summary>
+
+- Population: 13,370 (2008)
+- Sea port
+
+</details><!-- /greenville -->
+<details><!-- harper -->
+<summary>Harper [03]</summary>
+
+- Population: 23,517 (2008)
+- Sea port
+
+</details><!-- /harper -->
+<details><!-- monrovia -->
+<summary>Monrovia [03]</summary>
+
+-Capital of Liberia
+- Population: 1,021,762 (2008)
+- Largest sea port, handling about 90% of international trade volumes
+
+</details><!-- /monrovia -->
 <br>
 
 
 ### Further information
+
+- [National port Authority](https://www.npa.gov.lr/)
 
 <br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
