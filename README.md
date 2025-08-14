@@ -1303,7 +1303,7 @@ Kenya (only [Kisumu port](#kisumu_port))
 <a name="ISO2_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [Corridor X](#Cx) | [Corridor Y](#Cy)
 
 <br>
@@ -1386,7 +1386,7 @@ Kenya (only [Kisumu port](#kisumu_port))
 <a name="AO_corridors"></a>
 
 
-### Related Corridors
+### Related Corridor(s)
 [12 Lobito - Kabwe](#C12)
 
 <br>
@@ -1464,7 +1464,7 @@ Angola has three independent railway lines:
 <a name="BJ_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [01 Abidjan - Lagos](#C1) | [04 Cotonou - Niamey](#C4)
 
 <br>
@@ -1524,7 +1524,7 @@ Angola has three independent railway lines:
 <a name="BW_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [09 Maputo - Gaborone - Walvis Bay](#C9) | [10 Durban - Lusaka](#C10)
 
 <br>
@@ -1609,7 +1609,7 @@ Angola has three independent railway lines:
 <a name="BF_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [02 Abidjan - Ouagadougou](#C2)
 
 <br>
@@ -1678,7 +1678,7 @@ Population: 14,151,540 (2024)<br>
 <a name="BI_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [Central Corridor](#Ccentral)
 
 <br>
@@ -1818,7 +1818,7 @@ Water-bourne
 <a name="CV_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [03 Praia/Dakar - Abidjan](#C3)
 
 <br>
@@ -1879,7 +1879,7 @@ Water-bourne
 <a name="CM_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [05 Libreville/Kribi/Douala - N'djamena](#C5) | [06 Douala/Kribi - Kampala](#C6)
 
 <br>
@@ -1939,7 +1939,7 @@ Water-bourne
 <a name="CF_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [06 Douala/Kribi - Kampala](#C6)
 
 <br>
@@ -2000,7 +2000,7 @@ Water-bourne
 <a name="TD_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [05 Libreville/Kribi/Douala - N'djamena](#C5)
 
 <br>
@@ -2068,7 +2068,7 @@ Water-bourne
 <a name="CI_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [01 Abidjan - Lagos](#C1) | [02 Abidjan - Ouagadougou](#C2) | [03 Praia/Dakar - Abidjan](#C3)
 
 <br>
@@ -2140,7 +2140,7 @@ Water-bourne
 <a name="CD_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [06 Douala/Kribi - Kampala](#C6) | [08 Mombasa - Kisangani](#C8) | [12 Lobito - Kabwe](#C12) | [Central Corrridor](#Ccentral)
 
 <br>
@@ -2336,7 +2336,7 @@ Port of Boma
 <a name="DJ_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7)
 
 <br>
@@ -2402,7 +2402,7 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 <a name="EG_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [11 Cairo - Khartoum - Juba - Kampala](#C11)
 
 <br>
@@ -2468,7 +2468,7 @@ Overview of the [Egyptian National Railways stations](https://egytrains.com/)
 <a name="GQ_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [05 Libreville/Kribi/Douala - N'djamena](#C5)
 
 <br>
@@ -2529,7 +2529,7 @@ Overview of the [Egyptian National Railways stations](https://egytrains.com/)
 <a name="SZ_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [09 Maputo - Gaborone - Walvis Bay](#C9)
 
 <br>
@@ -2589,7 +2589,7 @@ Overview of the [Egyptian National Railways stations](https://egytrains.com/)
 <a name="ET_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7)
 
 <br>
@@ -2655,7 +2655,7 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 <a name="GA_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [05 Libreville/Kribi/Douala - N'djamena](#C5)
 
 <br>
@@ -2715,7 +2715,7 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 <a name="GM_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [03 Praia/Dakar - Abidjan](#C3)
 
 <br>
@@ -2777,7 +2777,7 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 <a name="GH_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [01 Abidjan - Lagos](#C1)
 
 <br>
@@ -2840,11 +2840,18 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 <a name="GN"></a>
 ## Guinea 
 
+| Labor force | participation rate |
+| --- | --- |
+| Total: | [52%](https://data.worldbank.org/indicator/SL.TLF.CACT.ZS?end=2024&locations=GN&start=2024&view=bar)   |
+| Male:  | [63%](https://data.worldbank.org/indicator/SL.TLF.CACT.MA.ZS?end=2024&locations=GN&start=2024&view=bar)|
+| Female:| [42%](https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?end=2024&locations=GN&start=2024&view=bar)|
+
+<sup>(Source: [ILO](https://www.ilo.org/), via [World Bank](https://data.worldbank.org), 2024)</sup>
 <br>
 <a name="GN_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [03 Praia/Dakar - Abidjan](#C3)
 
 <br>
@@ -2853,11 +2860,28 @@ The [Ethiopian-Djibouti railway line](https://erc.gov.et/project/the-ethiopian-d
 
 ### Trade volumes
 
+| Export | Import |
+|---|---|
+| Exports/capita: $524.6 | Imports/capita: $436,7 |
+| 1. Gold ($3.8B / 48.2%)<br> 2. Aluminium ($3.6B / 45.5%) | 1. Refined petroleum ($1.4B / 21.6%)<br> 2. Light floating vessels ($394.1M / 6.0%)<br> 3. Goods transport vessels ($266.9M / 4.1%)<br> 4. Dredgers ($230.7M / 3.5%)<br> 5. Tugs and pusher craft ($186.8M / 2.9%)|
+<sup>(Source: [WTO](https://ttd.wto.org/en/profiles/guinea), 2024)</sup>
 <br>
 <a name="GN_road"></a>
 
 
 ### Road network
+
+The Guinean [road network](https://lca.logcluster.org/sites/default/files/confluence/GLCSC_LCA_Guinea_Map%2520Road%2520Network_151228%2520xls.jpg%3Fversion%3D1%26modificationDate%3D1460100000000%26api%3Dv2) spans 44,302 km, of which
+
+- 7,576 km are natinal roads (rue national - RN),
+  - 2,346 km of RN are paved,
+  - 5,230 km of RN are unpaved
+- 15,879 km are unpaved prefectural (secondary) roads,
+- 19,846 km are unpaved communal (tertiary) roads and
+- about 1,00 km are urban roads.
+
+
+<sup>(Source: [LCA](https://lca.logcluster.org/23-guinea-road-network))</sup>
 
 <br>
 <a name="GN_railway"></a>
@@ -2893,6 +2917,11 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 
 ### Water-bourne transport
 
+> \[River-bourne] transport is insignificant due to the navigability on the two rivers ([Niger from Kouroussa and Milo from Kankan](https://lca.logcluster.org/sites/default/files/confluence/GIN_LCA_WaterwayNetwork_A4L_20130531.jpg%3Fversion%3D1%26modificationDate%3D1381225903000%26api%3Dv2)) towards Bamako (Republic of Mali) being possible over a period of only four months in the year ([LCA](https://lca.logcluster.org/25-guinea-waterways-assessment)).
+
+Guineas only sea port is Port Autonome de Conakry ([map of the port](https://lca.logcluster.org/sites/default/files/confluence/GLCSC_LCA_Guinea_Port%2520Picture%2520_151102%2520xls.jpg%3Fversion%3D1%26modificationDate%3D1460098914000%26api%3Dv2)). On March 11 2011, Bolloré Africa Logistics was awarded a 25-year concession for the container terminal at the port of Conakry.
+
+
 <br>
 <a name="GN_fleet"></a>
 
@@ -2904,11 +2933,76 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 
 
 ### Important cities along the corridors
+<a name="conakry"></a>
+<details><!-- conakry -->
+<summary>Conakry [03]</summary>
 
+- Capital of Guinea
+- Population: 1,660,973 (2014)
+
+</details><!-- /conakry -->
+<a name="dubreka"></a>
+<details><!-- dubreka -->
+<summary>Dubréka [03]</summary>
+
+- Population: 157,017 (2014)
+
+</details><!-- /dubreka -->
+<a name="kankan"></a>
+<details><!-- kankan -->
+<summary>Kankan [03]</summary>
+
+- Population: 190,722 (2014)
+
+</details><!-- /kankan -->
+<a name="kindia"></a>
+<details><!-- kindia -->
+<summary>Kindia [03]</summary>
+
+- Population: 138,695 (2014)
+
+</details><!-- /kindia -->
+<a name="kissidougou"></a>
+<details><!-- kissidougou -->
+<summary>Kissidougou [03]</summary>
+
+- Population: 99,931 (2014)
+
+</details><!-- /kissidougou -->
+<a name="labe"></a>
+<details><!-- labe -->
+<summary>Labé [03]</summary>
+
+- Population: 92,654 (2014)
+
+</details><!-- /labe -->
+<a name="maneah"></a>
+<details><!-- maneah -->
+<summary>Manéah [03]</summary>
+
+- Population: 167,354 (2014)
+
+</details><!-- /maneah -->
+<a name="nzerekore"></a>
+<details><!-- nzerekore -->
+<summary>Nzérékoré [03]</summary>
+
+- Population: 195,027 (2014)
+
+</details><!-- /nzerekore -->
+<a name="siguiri"></a>
+<details><!-- siguiri -->
+<summary>Siguiri [03]</summary>
+
+- Population: 127,492 (2014)
+
+</details><!-- /siguiri -->
 <br>
 
 
 ### Further information
+
+- [LCA](https://lca.logcluster.org/guinea)
 
 <br><br>
 [Country overview](#countries) | [Back to the top](#top)<br><br><br>
@@ -2921,7 +3015,7 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 <a name="GW_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [03 Praia/Dakar - Abidjan](#C3)
 
 <br>
@@ -2982,7 +3076,7 @@ The state-owned rail line between Conacry and Kankan is mostly abandoned.
 <a name="KE_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7) | [08 Mombasa - Kisangani](#C8)
 
 <br>
@@ -3071,7 +3165,7 @@ Ports
 <a name="LR_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [03 Praia/Dakar - Abidjan](#C3)
 
 <br>
@@ -3085,7 +3179,7 @@ Ports
 | Exports/capita: $27.9 | Imports/capita: $379.6 |
 | 1. Rubber ($97.2M / 63.2%)<br> 2. Palm oil ($32.3M / 21.0%)<br> 3. Nuclear power plant parts ($5.6M / 3.6%)<br> 4. Cocoa beans ($4.1M / 2.7%)<br> 5. Fans ($2.8M / 1.8%) | 1. Mineral fuels and oils ($690.7M / 31.9%)<br> 2. Rice ($237.6M / 11.0%)<br> 3. Nuclear power plant parts ($160.1M / 7.4%)<br> 4. Small trucks ($88.4M / 4.1%)<br> 5. Palm oil ($35.7M / 1.6%) |
 
-<sup>(Source: [WTO](https://ttd.wto.org/en/profiles/malawi), 2023)</sup>
+<sup>(Source: [WTO](https://ttd.wto.org/en/profiles/liberia), 2023)</sup>
 <br>
 <a name="LR_road"></a>
 
@@ -3137,7 +3231,7 @@ Liberia has four sea ports:
 
 
 ### Important cities along the corridors
-<a name="city"></a>
+<a name="buchanan"></a>
 <details><!-- buchanan -->
 <summary>Buchanan [03]</summary>
 
@@ -3145,6 +3239,7 @@ Liberia has four sea ports:
 - Second largest sea port
 
 </details><!-- /buchanan -->
+<a name="greenville"></a>
 <details><!-- greenville -->
 <summary>Greenville [03]</summary>
 
@@ -3152,6 +3247,7 @@ Liberia has four sea ports:
 - Sea port
 
 </details><!-- /greenville -->
+<a name="harper"></a>
 <details><!-- harper -->
 <summary>Harper [03]</summary>
 
@@ -3159,6 +3255,7 @@ Liberia has four sea ports:
 - Sea port
 
 </details><!-- /harper -->
+<a name="monrovia"></a>
 <details><!-- monrovia -->
 <summary>Monrovia [03]</summary>
 
@@ -3191,7 +3288,7 @@ Liberia has four sea ports:
 <a name="MW_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [Central Corridor](#Ccentral)
 
 <br>
@@ -3283,7 +3380,7 @@ Liberia has four sea ports:
 <a name="MZ_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [09 Maputo - Gaborone - Walvis Bay](#C9)
 
 <br>
@@ -3343,7 +3440,7 @@ Liberia has four sea ports:
 <a name="NA_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [09 Maputo - Gaborone - Walvis Bay](#C9)
 
 <br>
@@ -3404,7 +3501,7 @@ Liberia has four sea ports:
 <a name="NE_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [04 Cotonou - Niamey](#C4)
 
 <br>
@@ -3465,7 +3562,7 @@ Liberia has four sea ports:
 <a name="NG_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [01 Abidjan - Lagos](#C1)
 
 <br>
@@ -3533,7 +3630,7 @@ Liberia has four sea ports:
 <a name="RW_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [08 Mombasa - Kisangani](#C8) | [Central Corridor](#Ccentral)
 
 <br>
@@ -3707,7 +3804,7 @@ Secondary roads are generally acceptable for small trucks (15 MT max) but requir
 <a name="ST_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [05 Libreville/Kribi/Douala - N'djamena](#C5)
 
 <br>
@@ -3769,7 +3866,7 @@ Secondary roads are generally acceptable for small trucks (15 MT max) but requir
 <a name="SN_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [03 Praia/Dakar - Abidjan](#C3)
 
 <br>
@@ -3837,7 +3934,7 @@ Secondary roads are generally acceptable for small trucks (15 MT max) but requir
 <a name="SL_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [03 Praia/Dakar - Abidjan](#C3)
 
 <br>
@@ -3898,7 +3995,7 @@ Secondary roads are generally acceptable for small trucks (15 MT max) but requir
 <a name="SO_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7)
 
 <br>
@@ -3959,7 +4056,7 @@ Secondary roads are generally acceptable for small trucks (15 MT max) but requir
 <a name="ZA_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [09 Maputo - Gaborone - Walvis Bay](#C9) | [10 Durban - Lusaka](#C10)
 
 <br>
@@ -4022,7 +4119,7 @@ Passenger Transport
 <a name="SS_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [11 Cairo - Khartoum - Juba - Kampala](#C11)
 
 <br>
@@ -4084,7 +4181,7 @@ The single railway line connects Wau to Sudan.
 <a name="SD_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [11 Cairo - Khartoum - Juba - Kampala](#C11)
 
 <br>
@@ -4173,7 +4270,7 @@ The single railway line connects Wau to Sudan.
 <a name="TZ_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [07 Dar Es Salaam - Nairobi - Addis Abbaba - Berbera/Djibouti](#C7) | [Central Corridor](#Ccentral)
 
 <br>
@@ -4432,7 +4529,7 @@ In addition to the large sea ports Tanzania also has several smaller ones, river
 <a name="TG_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [01 Abidjan - Lagos](#C1)
 
 <br>
@@ -4507,7 +4604,7 @@ In addition to the large sea ports Tanzania also has several smaller ones, river
 <a name="UG_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [06 Douala/Kribi - Kampala](#C6) | [08 Mombasa - Kisangani](#C8) | [11 Cairo - Khartoum - Juba - Kampala](#C11) | [Central Corridor](#Ccentral)
 
 <br>
@@ -4800,7 +4897,7 @@ As a landlocked country Uganda onl has two ports on Lake Victoria. Of these two 
 <a name="ZM_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [10 Durban - Lusaka](#C10) | [12 Lobito - Kabwe](#C12)
 
 <br>
@@ -4984,7 +5081,7 @@ Zambia has an underdeveloped network of waterways and no access to the sea (land
 <a name="ZW_corridors"></a>
 
 
-### Related Corridors 
+### Related Corridor(s) 
 [10 Durban - Lusaka](#C10)
 
 <br>
