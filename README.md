@@ -204,7 +204,7 @@ Includes most of the EAC's [Northern Corridor](https://www.eac.int/infrastructur
 
 </details><!-- III -->
 <details><!-- IV -->
-<summary>Democratic Republic of the Congo</summary>
+<summary>Zambia</summary>
 
 [Country page](#ZM)
 
